@@ -77,6 +77,10 @@ It says free tier eligible – which is good news.
 
 
 If we scroll down a little, we have the instance type.
+
+![1](https://github.com/user-attachments/assets/9ecbcb39-1e52-418f-a6b7-8cc2e52aff87)
+
+
  
 The t2.micro has been selected by default. (Also free tier eligible)
 
