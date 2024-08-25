@@ -98,6 +98,9 @@ And you can choose from the list of options. But we will leave it as is.
 
 
 Next we have the key pair. Key pairs are used for connecting to our instances using the secure shell, if we are connecting from outside AWS.
+
+![4](https://github.com/user-attachments/assets/a8217238-019e-4af3-b7c7-af95f17c5010)
+
  
 
 But we don’t have any key pairs, so we will create new one.
