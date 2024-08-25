@@ -68,6 +68,10 @@ Further down, you can see the Application and OS images (Amazon Machine Image)
 By default it selected the Amazon Linux – that is a version of Linux that has been customised by AWS. It includes variety of things, like certain agents and the command line interface for AWS. The Amazon Linux AMI has been customised by AWS and it includes certain agents and the AWS command line interface. 
 
 Here we have chosen the Amazon Linux 2023 AMI, which has been selected for us.
+
+![6](https://github.com/user-attachments/assets/10c24271-da78-4764-b453-a13511008343)
+
+
  
 It says free tier eligible – which is good news.
 
