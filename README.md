@@ -103,7 +103,7 @@ Next we have the key pair. Key pairs are used for connecting to our instances us
 
  
 
-But we don’t have any key pairs, so we will create new one.
+But we don’t have any key pairs, so we will create new a one.
 
 ![7](https://github.com/user-attachments/assets/8cd32cef-3064-48b6-b69b-2315eb50db3f)
 
