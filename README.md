@@ -57,7 +57,7 @@ So the AMI define the configuration of the instance, including the operating sys
 
 In the Amazon console – go to EC2.
 Click on Launch Instance.
- 
+![4](https://github.com/user-attachments/assets/4e0861a6-e8b0-4f0d-b03d-7f324c37c6c5) 
 
 You can name your instance if you want – it is optional.
  
