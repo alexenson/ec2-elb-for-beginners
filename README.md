@@ -7,7 +7,7 @@ They also have a service called Amazon EC2 Auto Scaling, for automatically launc
 Then we can put a load balancer in front, using the Elastic Load Balancing service as well.
 
 
-__Amazon EC2 Overview__   
+**Amazon EC2 Overview**   
 
 I'm going to cover the Amazon Elastic Compute Cloud, EC2. EC2 is a service in which we can run EC2 instances in the Cloud and EC2 instances are basically virtual servers. So when we learned about virtualization earlier, this is exactly what we're talking about here. So there's a host server in the AWS data centre or of course, there are hundreds and thousands of these things. And AWS manage those host servers and they run their own virtualization. They use a combination of Zen and Nitro, those are different hypervisors that they use. That's the virtualization layer. We then get to launch EC2 instances, we manage the instance. So here, for example, I have an EC2 instance and it has a certain amount of hardware assigned to it. Of course, we get to choose that. And the way that we choose how much hardware is assigned to our instance is by choosing an instance type.  There are instance families and then within each family there's instance types and they come with varying combinations of CPU, memory, storage and also networking capabilities. So here I've got one with Windows. There are other options as well. Mainly with EC2, you're choosing Windows or Linux. There is a version of EC2 where you can launch a MacOS operating system. It's basically a dedicated piece of hardware. It's quite expensive to run compared to Windows and Linux instances. But it is there for use cases where you need MacOS. So, essentially EC2 is a virtualization stack. It's infrastructure as a service or IaaS. AWS are managing the underlying infrastructure and all we have to do is manage from the operating system upwards. So we get to launch our instances, choose the operating system, choose what the hardware is that we want to be assigned depending of course on our workload and our requirements. And then we manage that operating system and the applications that are running on top of it. 
 
@@ -36,7 +36,7 @@ Now we can also launch our instances into private subnets. When we do that, they
 
 
 
-Launching Amazon EC2 Instances
+**Launching Amazon EC2 Instances**
 
 We are going to launch virtual servers on AWS using the Amazon EC2 service.
 We will launch a Linux instance and a Windows instance.
@@ -307,7 +307,7 @@ Then Save rules.
  
 
 
-Connecting to Amazon EC2
+**Connecting to Amazon EC2**
 
 Here we will connect to our EC2 instances using the secure shell protocol and the RDP protocol. 
 
@@ -565,7 +565,7 @@ The other thing we can do, in terms of administration, is under Action, there ar
 
 
 
-Access Keys and IAM Roles with EC2
+**Access Keys and IAM Roles with EC2**
 
 I'm going to talk about Access Keys and IAM roles. Two different ways that we can actually supply permissions to Amazon EC2 instances.   Here we have an instance in a public subnet and AWS CLI has been configured with access keys, because we want to work with a S3 bucket from the command line on this particular instance. Now the actual access keys are associated with an account. So whichever account created the access keys, that's the account they're associated with and they pick up the permissions assigned to any permissions policies assigned to that IAM user. So essentially through this IAM user, we've created access keys, we've configured the command line interface on the instance with those access keys. So now whatever commands we run on that instance, will have the same permissions as that user would have. So now we've found a way to give our instance permissions.  Problem is when we use access keys, these are long term credentials and we want to try and avoid using them as much as possible. Because if they're compromised and someone gets access to those keys, they get access essentially to our account.  And they are actually stored in plain text on the actual instance itself. So not really the most secure configuration.  
  
