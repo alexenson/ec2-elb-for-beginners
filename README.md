@@ -1,4 +1,4 @@
-Amazon EC2
+**Amazon EC2**
 
 Introduction
 Amazon EC2 enables us to deploy virtual servers in the cloud, which is basically virtual machines. We call them instances in EC2. We can launch instances running Windows, Linux and there are even options to launch macOS hosts as well. 
