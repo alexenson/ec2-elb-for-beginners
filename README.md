@@ -117,6 +117,9 @@ We will leave the default RSA and .pem.
  
 
 We will give it a name that is descriptive. For example dct-lab-training-us-east-1. (Suggest you name it to your region, if you decide to go by region or something else that is descriptive)
+
+![2](https://github.com/user-attachments/assets/54c427aa-ec85-4dea-8f62-4c303b1d0d7f)
+
  
 Then click create.
  
