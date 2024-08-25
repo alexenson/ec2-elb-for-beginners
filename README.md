@@ -48,7 +48,7 @@ The instance type defines the hardware profile and therefore the cost. We also n
 So the AMI define the configuration of the instance, including the operating system and any software that is installed. And how the virtual drives, the EBS volumes are defined. These are backed by what is called a snapshot. So the actual data is stored in a snapshot. Snapshots are actually taken from live instances, as a kind of backup. Then we create an AMI from them and we can keep launching more instances that are the same as the original. So a snapshot is a point in time backup of an EC2 instance. Once we have done that, we can create our own customised AMIs. So for example we might launch an existing AMI, we might make some customisations to it. And then create our own AMI that we can then launch instances from, later on. 
  
 
-
+![3](https://github.com/user-attachments/assets/29c7adf6-90b6-472e-bbcc-6c9f5f994b8f)
 
 
 
