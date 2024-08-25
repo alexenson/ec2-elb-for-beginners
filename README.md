@@ -60,7 +60,7 @@ Click on Launch Instance.
 ![4](https://github.com/user-attachments/assets/4e0861a6-e8b0-4f0d-b03d-7f324c37c6c5) 
 
 You can name your instance if you want – it is optional.
- 
+ ![5](https://github.com/user-attachments/assets/294df4f4-ec12-4281-8e19-2ddde3adb022)
 
 Further down, you can see the Application and OS images (Amazon Machine Image)
 By default it selected the Amazon Linux – that is a version of Linux that has been customised by AWS. It includes variety of things, like certain agents and the command line interface for AWS. The Amazon Linux AMI has been customised by AWS and it includes certain agents and the AWS command line interface. 
