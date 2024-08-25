@@ -125,6 +125,9 @@ We will give it a name that is descriptive. For example dct-lab-training-us-east
 
  
 Then click create.
+
+![4](https://github.com/user-attachments/assets/c17111a1-4cd7-4e95-9699-16ce94c94017)
+
  
 
 What will then happen is it will download a file to your computer. It is using cryptography – public and private keys. The private key is being downloaded to your computer; it is probably in your downloads directory. 
