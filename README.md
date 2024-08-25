@@ -134,6 +134,9 @@ What will then happen is it will download a file to your computer. It is using c
 Make sure you move it somewhere, you can find it later on and where it is kept securely - because it is sensitive information. Anybody with that particular file will be able to connect to your instances and manage them. 
 
 Next for network settings we will leave some of the defaults here.
+
+![1](https://github.com/user-attachments/assets/cf1728f3-e659-45c4-8fb8-73653ac0d4ce)
+
  
 But we need to create a new security group.
 If you do it from here on the console, it will give it a weird name. 
