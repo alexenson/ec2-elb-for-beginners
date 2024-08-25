@@ -111,6 +111,9 @@ But we don’t have any key pairs, so we will create a new one.
 
 
 We will leave the default RSA and .pem.
+
+![1](https://github.com/user-attachments/assets/a4bc0d69-10fd-43cf-ada1-55bbf28f5306)
+
  
 
 We will give it a name that is descriptive. For example dct-lab-training-us-east-1. (Suggest you name it to your region, if you decide to go by region or something else that is descriptive)
