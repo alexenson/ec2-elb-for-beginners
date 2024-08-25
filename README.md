@@ -85,6 +85,9 @@ If we scroll down a little, we have the instance type.
 The t2.micro has been selected by default. (Also free tier eligible)
 
 If you want to change it, you can click the little arrow. 
+
+![2](https://github.com/user-attachments/assets/44950845-0f1f-4561-926a-fc0c156aa0f9)
+
  
 
 And you can choose from the list of options. But we will leave it as is.
