@@ -171,6 +171,9 @@ We will copy the name into the description.
  
 
 Then we have ssh – secure shell
+
+![6](https://github.com/user-attachments/assets/880a5c92-96fd-48df-944b-d615ccb92a3b)
+
  
 
 It’s going to allow any source address. The 0s mean any source IP address.
