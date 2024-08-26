@@ -249,6 +249,9 @@ This will be deployed in our default Virtual Private Cloud.
 
 
 This is running – lets launch another instance.
+
+![3](https://github.com/user-attachments/assets/3e738192-a2c9-4218-9a55-5f4af7646549)
+
  
 
 
