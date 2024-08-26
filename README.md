@@ -242,6 +242,9 @@ There is lots of Networking information. We can see it is in the us-east-1d Avai
  
 
 This will be deployed in our default Virtual Private Cloud.
+
+![2](https://github.com/user-attachments/assets/d3ed7a24-036e-4c22-aa59-bab1d8b84184)
+
   
 
 
