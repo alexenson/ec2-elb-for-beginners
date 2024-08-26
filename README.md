@@ -194,6 +194,9 @@ That is all we need for now. There is some advanced details/options. We will loo
 
 We just want 1 instance and the summary is fine.
 Then click Launch instance.
+
+![3](https://github.com/user-attachments/assets/76c21a38-6a65-464b-b5cc-bfc94764b7e9)
+
  
 
 
