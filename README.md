@@ -262,6 +262,9 @@ We will call it Windows-Server.
   
 
 Scroll down and chose the Windows AMI
+
+![5](https://github.com/user-attachments/assets/34976161-2ccd-4dc6-adb2-3e017528419e)
+
  
 
 If you were to click Browse more AMIs.
