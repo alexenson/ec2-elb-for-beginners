@@ -306,6 +306,9 @@ We will go back to this screen and click on Windows.
 It chooses the Microsoft Windows Server Base. 
 
 Again we will select the t2.micro
+
+![1](https://github.com/user-attachments/assets/7b156ba4-ad47-44ba-ad65-af8855520698)
+
  .
 
 For the Key pair, it is very important for the Windows instances that we select this.
