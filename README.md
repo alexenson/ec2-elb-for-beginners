@@ -312,6 +312,9 @@ Again we will select the t2.micro
  
 
 For the Key pair, it is very important for the Windows instances that we select this.
+
+![2](https://github.com/user-attachments/assets/2d154455-2f50-448c-8e41-ab75f0673e25)
+
  
 
 
