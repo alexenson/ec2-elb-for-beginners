@@ -206,6 +206,9 @@ Then click Launch instance.
 
 
 So the instance is launching. 
+
+![4](https://github.com/user-attachments/assets/e42a3c8c-51da-4d22-a289-c61a29681e19)
+
  
 
 We can click on View all instances, and we can see it is pending. That should change to a running state soon.
