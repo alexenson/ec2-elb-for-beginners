@@ -229,6 +229,9 @@ Now you can see its Instance ID – a unique identifier. Public IP address, the 
 
 
 There are also varies tabs for Monitoring information. We can see the Security group we assigned. It is essentially the firewall that is allowing access on port 22 in this case.
+
+![6](https://github.com/user-attachments/assets/ef0b99d9-87a7-48fa-9028-a807e148a7fc)
+
  
 
 There is lots of Networking information. We can see it is in the us-east-1d Availability zone.
