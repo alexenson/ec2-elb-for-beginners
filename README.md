@@ -256,6 +256,9 @@ This is running – lets launch another instance.
 
 
 We will call it Windows-Server.
+
+![4](https://github.com/user-attachments/assets/0a07bef0-5ceb-41fb-bdd6-79b9f32d7f04)
+
   
 
 Scroll down and chose the Windows AMI
