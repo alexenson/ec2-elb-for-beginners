@@ -299,6 +299,9 @@ CommunityAMIs which are AMIs that people in the community have created and share
 
 
 We will go back to this screen and click on Windows.
+
+![9](https://github.com/user-attachments/assets/d6a3d644-f62a-4d86-b9a6-0b5065b37cd3)
+
  
 It chooses the Microsoft Windows Server Base. 
 
