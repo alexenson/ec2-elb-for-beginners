@@ -276,6 +276,9 @@ If you were to click Browse more AMIs.
 ---------------------------------------------------------------------------------------------------------
 
 You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community AMIs.
+
+![7](https://github.com/user-attachments/assets/fca583ac-43c3-4ed6-a4aa-396c1617d2ad)
+
  
 
 My AMIs is if you have your own custom AMIs.
