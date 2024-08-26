@@ -165,6 +165,9 @@ We will call it – WebAccess.
  
 
 We will copy the name into the description.
+
+![4](https://github.com/user-attachments/assets/1b74004d-8912-429c-ba6c-fd7595a71e2a)
+
  
 
 Then we have ssh – secure shell
