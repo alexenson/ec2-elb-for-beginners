@@ -268,6 +268,9 @@ Scroll down and chose the Windows AMI
  
 
 If you were to click Browse more AMIs.
+
+![6](https://github.com/user-attachments/assets/1c62efb7-144b-4427-9bb2-c3dc05322f0c)
+
  
 
 ---------------------------------------------------------------------------------------------------------
