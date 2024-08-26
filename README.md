@@ -153,6 +153,9 @@ So click on Edit
 
 
 Then you can give it a name.
+
+![2](https://github.com/user-attachments/assets/389f508b-364b-47fb-b44c-6474e67fd783)
+
  
 
 We will call it – WebAccess.
