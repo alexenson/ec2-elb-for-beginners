@@ -218,6 +218,9 @@ We can click on View all instances, and we can see it is pending. That should ch
  
 
 You can see lots of information by clicking on the instance.
+
+![6](https://github.com/user-attachments/assets/ef0b99d9-87a7-48fa-9028-a807e148a7fc)
+
  
 Now you can see its Instance ID – a unique identifier. Public IP address, the Private IP address. It also has a Public and Private DNS name that we can use. 
 
