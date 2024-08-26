@@ -177,6 +177,9 @@ Then we have ssh – secure shell
  
 
 It’s going to allow any source address. The 0s mean any source IP address.
+
+![1](https://github.com/user-attachments/assets/ae13282c-e6e5-4399-9a65-f2839916e5ec)
+
  
 
 
