@@ -185,6 +185,9 @@ It’s going to allow any source address. The 0s mean any source IP address.
 
 
 Scroll down a bit and leave the Configure storage section as defaults.
+
+![2](https://github.com/user-attachments/assets/1ff6bf32-b359-48b1-bb69-9084427ffb6c)
+
  
 
 That is all we need for now. There is some advanced details/options. We will look at that in another lesson. 
