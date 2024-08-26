@@ -235,7 +235,10 @@ There are also varies tabs for Monitoring information. We can see the Security g
 
  
 
-There is lots of Networking information. We can see it is in the us-east-1d Availability zone.
+There is lots of Networking information. We can see it is in the us-east-1d Availability Zone.
+
+![1](https://github.com/user-attachments/assets/7a01084d-7a77-4285-9c9f-cf53821f915c)
+
  
 
 This will be deployed in our default Virtual Private Cloud.
