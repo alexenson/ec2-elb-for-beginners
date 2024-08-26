@@ -284,6 +284,9 @@ You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community
 My AMIs is if you have your own custom AMIs.
 AWS Marketplace AMIs – this will show you lots of AMIs that includes varies software like VPN servers, Backup & Recovery software, networking, firewall – like Palo Alto, Splunk Enterprise etc. That are built into the instance. You will typically pay higher rate for these, because the software charges are going to be included, however that is not always the case.
 CommunityAMIs which are AMIs that people in the community have created and shared for everyone else to use.
+
+![8](https://github.com/user-attachments/assets/40453c1f-4c5d-4568-ad13-167d1e2cf967)
+
  
 ----------------------------------------------------------------------------------------------------------------
 
