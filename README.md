@@ -376,6 +376,9 @@ Or on the left hand side under network and security you can select security grou
  
 
 And you can find the same security group here.
+
+![7](https://github.com/user-attachments/assets/8f487c5b-57bc-41db-a7c9-307bbf5989ce)
+
  
 We will click on the relevant security group ID.
  
