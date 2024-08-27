@@ -395,6 +395,9 @@ We have Inbound and Outbound rules.
 
 I only want to edit the inbound rules at the moment.
 So we will click Edit inbound rules.
+
+![1](https://github.com/user-attachments/assets/fe1c170d-4a1e-4cf2-a89c-005bf00e3533)
+
  
 
 Click Add rule.
