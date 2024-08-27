@@ -405,13 +405,16 @@ Click Add rule.
 ![2](https://github.com/user-attachments/assets/e6e62b61-3156-4fee-922e-8c35ebe77610)
 
  
-Click on the drop down
+Click on the drop down.
 
 ![3](https://github.com/user-attachments/assets/d798675e-5168-4bb8-ac52-41763335fab9)
 
  
 
 Type in RDP to easily find the RDP protocol.
+
+![4](https://github.com/user-attachments/assets/4ab14ca7-b5c6-42d8-b0b7-d771a529faf2)
+
  
 
 Which will allow access on port 3389 and select to Anywhere IPv4.
