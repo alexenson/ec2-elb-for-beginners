@@ -327,7 +327,10 @@ For Windows, in order to retrieve the password, we have to have a Key pair assig
 
 
 
-Under Network settings will select an existing security group and choose WebAccess.
+Under Network settings we will select an existing security group and choose WebAccess.
+
+![1](https://github.com/user-attachments/assets/b7930907-028c-4683-8787-a0157a60f939)
+
  
 
 In this case WebAccess does not have the rule that we need to connect to Windows at this point in time. So we will edit that in a moment.
