@@ -401,6 +401,9 @@ So we will click Edit inbound rules.
  
 
 Click Add rule.
+
+![2](https://github.com/user-attachments/assets/e6e62b61-3156-4fee-922e-8c35ebe77610)
+
  
 Click on the drop down
  
