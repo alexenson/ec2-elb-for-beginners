@@ -388,6 +388,9 @@ We will click on the relevant security group ID.
 
 
 We have Inbound and Outbound rules.
+
+![9](https://github.com/user-attachments/assets/e72832a5-6c82-48c7-912d-f99648fa88eb)
+
  
 
 I only want to edit the inbound rules at the moment.
