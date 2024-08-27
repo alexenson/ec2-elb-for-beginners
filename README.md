@@ -436,6 +436,8 @@ Then Save rules.
  
 
 
+
+
 **Connecting to Amazon EC2**
 
 Here we will connect to our EC2 instances using the secure shell protocol and the RDP protocol. 
