@@ -345,6 +345,7 @@ That is all you need for now so click on Launch instance.
 And we will have our Windows instance up and running shortly.
  
 
+![3](https://github.com/user-attachments/assets/bf1879d4-ef64-44b2-8439-0084ca77d5c5)
 
 
 
