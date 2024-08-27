@@ -336,6 +336,9 @@ Under Network settings we will select an existing security group and choose WebA
 In this case WebAccess does not have the rule that we need to connect to Windows at this point in time. So we will edit that in a moment.
 
 That is all you need for now so click on Launch instance.
+
+![2](https://github.com/user-attachments/assets/651d853f-f64a-45d5-9c12-4c4311e062cd)
+
  
 
 
