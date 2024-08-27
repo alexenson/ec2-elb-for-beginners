@@ -357,6 +357,9 @@ And we will have our Windows instance up and running shortly.
 
 I need to be able to connect to my Windows server and want to use the remote desktop protocol.
 Under Security I can see that I have a security group and which has port 22 open.
+
+![4](https://github.com/user-attachments/assets/c53fc494-b224-4d06-94ca-713b2ffa16a9)
+
  
 
 That is not for the remote desktop protocol that is for the Linux server when we use the secure shell protocol. 
