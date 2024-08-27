@@ -381,6 +381,9 @@ And you can find the same security group here.
 
  
 We will click on the relevant security group ID.
+
+![8](https://github.com/user-attachments/assets/aa618b4e-e61c-4a95-ab56-1bbdb0cbb5fe)
+
  
 
 
