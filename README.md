@@ -406,6 +406,9 @@ Click Add rule.
 
  
 Click on the drop down
+
+![3](https://github.com/user-attachments/assets/d798675e-5168-4bb8-ac52-41763335fab9)
+
  
 
 Type in RDP to easily find the RDP protocol.
