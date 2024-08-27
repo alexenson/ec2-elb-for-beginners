@@ -365,6 +365,9 @@ Under Security I can see that I have a security group and which has port 22 open
 That is not for the remote desktop protocol that is for the Linux server when we use the secure shell protocol. 
 
 You can click on the security group to edit it.
+
+![5](https://github.com/user-attachments/assets/07e7be32-c66a-42e3-bd84-9a35bf2f126a)
+
  
 Or on the left hand side under network and security you can select security groups.
  
