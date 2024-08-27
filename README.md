@@ -370,6 +370,9 @@ You can click on the security group to edit it.
 
  
 Or on the left hand side under network and security you can select security groups.
+
+![6](https://github.com/user-attachments/assets/c5f60f50-bc19-4004-807c-7ba19085b49e)
+
  
 
 And you can find the same security group here.
