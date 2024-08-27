@@ -424,6 +424,9 @@ Which will allow access on port 3389 and select to Anywhere IPv4.
  
 
 Allowing any source address.
+
+![6](https://github.com/user-attachments/assets/a2f179d7-9234-4c44-a83d-1d743dbbacc3)
+
  
 Then Save rules.
  
