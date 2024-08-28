@@ -1,10 +1,7 @@
 **Amazon EC2**
 
-
-
-
-
-
+<br>
+<br>
 
 **Introduction**
 
