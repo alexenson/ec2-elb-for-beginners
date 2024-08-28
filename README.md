@@ -1,5 +1,7 @@
-:Amazon EC2
-
+<p 
+ align="center"
+ **Amazon EC2**
+ </p>
 <br>
 
 
