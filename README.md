@@ -566,6 +566,9 @@ Firstly, you do need to have public IP address.
 
 Secondly, your instances must have port 22 open in its security group.
 Click on Security, port 22 with the Source, should be all 0s. That is any source address. If you have those two selected then instance connect should work – with the Amazon Linux AMI.
+
+![7](https://github.com/user-attachments/assets/db1066d4-3aa1-4819-85bc-1522e975cfde)
+
  
 Now we are free to manage the server from the command line.
  
