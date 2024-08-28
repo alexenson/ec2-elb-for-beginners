@@ -445,6 +445,9 @@ Here we will connect to our EC2 instances using the secure shell protocol and th
 Make sure your Windows and Linux instances are running in EC2.
 
 Back in the EC2 management console, I have selected the Linux server.
+
+![1](https://github.com/user-attachments/assets/060d91fc-6eba-402c-ac0c-80fd300e2a43)
+
  
 
 
