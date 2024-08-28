@@ -605,6 +605,9 @@ If you are using Windows – it is easy – as there is already a RDP client ins
 If you are using Mac, then you would have to download an installer. (on the Internet just search for RDP client Mac installer)
 
 What we need to do is to Get password for login. 
+
+![3](https://github.com/user-attachments/assets/ba1515df-c91a-41c8-86b6-ed2f7e06f9ef)
+
  
 
 Firstly, however we will copy the Public DNS name. 
