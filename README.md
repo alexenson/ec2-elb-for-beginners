@@ -571,6 +571,9 @@ Click on Security, port 22 with the Source, should be all 0s. That is any source
 
  
 Now we are free to manage the server from the command line.
+
+![8](https://github.com/user-attachments/assets/636364fb-b0ee-45cd-92d4-d10bfe11a017)
+
  
 
 Next we will move on to Windows.
