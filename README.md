@@ -589,6 +589,9 @@ Next we will move on to Windows.
 For Windows we will select the server and click on connect.
 
 The options are slightly different now.
+
+![1](https://github.com/user-attachments/assets/e5add1a0-883e-4a52-847f-ac93d03ee8be)
+
  
 There is an option for Session Manager – for remote PowerShell on the command line.
 But we will use the RDP (Remote Desktop Protocol) client.
