@@ -452,6 +452,9 @@ Back in the EC2 management console, I have selected the Linux server.
 
 
 We can see that we have a public IP address and a public DNS address as well.
+
+![2](https://github.com/user-attachments/assets/8e90d9e7-4074-49d9-8e98-5a5af6482cab)
+
  
 
 So if we want to, we can use those to connect from the outside world.
