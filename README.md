@@ -626,6 +626,7 @@ Now with your remote desktop software, click Add PC.
  
 ![6](https://github.com/user-attachments/assets/b206d3bf-0342-4a69-99a7-5c0aed893f7d)
  
+![7](https://github.com/user-attachments/assets/86524ea5-c967-436f-b78f-f107c9adba1d)
 
 
 Enter this as the PC name and click on Add.
