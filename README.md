@@ -512,6 +512,7 @@ However, we are going to use the EC2 Instance Connect.
 ![1](https://github.com/user-attachments/assets/686c3aa2-c6b0-4785-aaba-27ad602dcdaf)
 
 
+![2](https://github.com/user-attachments/assets/1de81852-3afd-48f7-9514-47ed0a3733f9)
 
 
 
