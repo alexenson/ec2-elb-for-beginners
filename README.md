@@ -559,6 +559,9 @@ There are two main things which you need to check.
 
 
 Firstly, you do need to have public IP address. 
+
+![6](https://github.com/user-attachments/assets/e4b98c5b-655a-43f2-a65e-e6bb4d5b77f5)
+
  
 
 Secondly, your instances must have port 22 open in its security group.
