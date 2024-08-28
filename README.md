@@ -617,6 +617,9 @@ Firstly, however we will copy the Public DNS name.
  
 
 We can see the username is Administrator.
+
+![5](https://github.com/user-attachments/assets/ba1836e5-f472-4721-9466-0f8ac32eac3f)
+
  
 
 Now with your remote desktop software, click Add PC.
