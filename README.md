@@ -611,6 +611,9 @@ What we need to do is to Get password for login.
  
 
 Firstly, however we will copy the Public DNS name. 
+
+![4](https://github.com/user-attachments/assets/eee0f91e-9a24-42e4-bb06-99eacfe2817f)
+
  
 
 We can see the username is Administrator.
