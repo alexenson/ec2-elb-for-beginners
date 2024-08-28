@@ -534,6 +534,7 @@ The username has been specified as ec2-user - which is correct.
 
 Then click on Connect.
  
+![4](https://github.com/user-attachments/assets/178f91d6-7c9c-47ca-a0b6-27d9025607c7)
 
 
 We are now connected to the command line on my EC2 instance.
