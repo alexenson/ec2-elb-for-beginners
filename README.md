@@ -581,6 +581,9 @@ Now we are free to manage the server from the command line.
  
 
 Next we will move on to Windows.
+
+![9](https://github.com/user-attachments/assets/3b799e25-88fe-4178-b261-35e1fe542ca6)
+
  
 For Windows we will select the server and click on connect.
 
