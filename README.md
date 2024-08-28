@@ -1,6 +1,6 @@
                                                 **Amazon EC2**
 
-Introduction
+**Introduction**
 
 Amazon EC2 enables us to deploy virtual servers in the cloud, which is basically virtual machines. We call them instances in EC2. We can launch instances running Windows, Linux and there are even options to launch macOS hosts as well. 
 AWS provide management for the underlying platform. Including the hardware, the virtualisation layer and they expose the controls for us to then deploy our instances. 
