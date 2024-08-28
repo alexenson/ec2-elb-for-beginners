@@ -1,4 +1,4 @@
-   **Amazon EC2**
+<center>**Amazon EC2**</center>
 
 <br>
 <br>
