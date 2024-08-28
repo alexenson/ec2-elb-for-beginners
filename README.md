@@ -490,9 +490,12 @@ We then have the SSH client, if you want to connect from your home computer, thi
 
  
 You would need your private key file.
-Earlier we created a Key pair and it downloaded a file to our computer, that the private key file. 
+Earlier we created a Key pair and it downloaded a file to our computer, that's the private key file. 
 It actually gives the full command. The command is ssh –I “then the name of the pem file” that was the file that was downloaded, the key pair. Then ec2-user@ then we have the public DNS name or this could be the public IP address.
 This would be the full command you need to connect from your home computer.
+
+![8](https://github.com/user-attachments/assets/30563623-05f7-46da-b1ca-a123ab847f40)
+
  
 
 It is recommended that if you are using Windows, that you install an SSH client. It is a feature Windows, so you just have to Google how to do that for your particular version of the operating system.
