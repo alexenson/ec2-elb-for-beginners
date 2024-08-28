@@ -507,13 +507,9 @@ If you are on a Mac for example, you will always have a SSH client installed –
 
 
 
-
-
-
-
-
 However, we are going to use the EC2 Instance Connect.
  
+![1](https://github.com/user-attachments/assets/686c3aa2-c6b0-4785-aaba-27ad602dcdaf)
 
 
 
