@@ -475,6 +475,9 @@ We can now use the EC2 Instance Connect.
 
 Or we can use Session Manager, this is using the Systems Manager service.
 It is one of the features of System Manager. 
+
+![5](https://github.com/user-attachments/assets/710a58ed-8513-45f2-bc18-04fb1e7e68da)
+
  
  
 Gives us a very secure way of connecting, without opening any ports. 
