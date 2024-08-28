@@ -485,6 +485,9 @@ It is one of the features of System Manager.
  
 Gives us a very secure way of connecting, without opening any ports. 
 We then have the SSH client, if you want to connect from your home computer, this is what you could use.
+
+![7](https://github.com/user-attachments/assets/7c18b987-5676-49fa-92da-a17a191a2f43)
+
  
 You would need your private key file.
 Earlier we created a Key pair and it downloaded a file to our computer, that the private key file. 
