@@ -1,4 +1,4 @@
-                                                **Amazon EC2**
+                                                Amazon EC2
 
 **Introduction**
 
