@@ -478,6 +478,9 @@ It is one of the features of System Manager.
 
 ![5](https://github.com/user-attachments/assets/710a58ed-8513-45f2-bc18-04fb1e7e68da)
 
+![6](https://github.com/user-attachments/assets/2cf2d006-face-4c27-955d-8022f989b219)
+
+
  
  
 Gives us a very secure way of connecting, without opening any ports. 
