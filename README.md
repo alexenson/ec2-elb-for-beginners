@@ -595,6 +595,9 @@ The options are slightly different now.
  
 There is an option for Session Manager – for remote PowerShell on the command line.
 But we will use the RDP (Remote Desktop Protocol) client.
+
+![2](https://github.com/user-attachments/assets/10630ef5-9c0f-4399-9ac1-2fe001f4b5d5)
+
  
 What we can do here, is to download the remote desktop file. That will download a file to our computer – which we can utilise. Or we can add the information directly. 
 For this exercise however, you will need the RDP client (software) on your computer.
