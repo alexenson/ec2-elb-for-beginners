@@ -467,18 +467,10 @@ If I click on Connect with the instance selected.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 We can now use the EC2 Instance Connect.
+
+![4](https://github.com/user-attachments/assets/6f6d7060-a481-4be3-bfaf-006bde33ce27)
+
  
 
 Or we can use Session Manager, this is using the Systems Manager service.
