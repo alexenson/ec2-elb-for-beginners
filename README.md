@@ -538,6 +538,9 @@ Then click on Connect.
 
 
 We are now connected to the command line on my EC2 instance.
+
+![5](https://github.com/user-attachments/assets/cad5bf3b-22d9-4a23-bc3f-4c121b80286b)
+
  
 
 If I were to run ifconfig, it shows me the IP addresses associated with the instance. 
