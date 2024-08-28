@@ -462,6 +462,7 @@ So if we want to, we can use those to connect from the outside world.
 Let’s have a look at the varies different ways we can connect.
 If I click on Connect with the instance selected.
  
+![3](https://github.com/user-attachments/assets/91b2dc8e-dc9e-4085-96d8-6f887033df1e)
 
 
 
