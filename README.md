@@ -527,6 +527,9 @@ However, our instances have been launched into the default VPC – which by defa
 
 
 The username has been specified as ec2-user - which is correct.
+
+![3](https://github.com/user-attachments/assets/fdb9ef67-356e-408f-9ebd-469cd757bc41)
+
  
 
 Then click on Connect.
