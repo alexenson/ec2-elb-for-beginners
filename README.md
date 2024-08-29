@@ -660,7 +660,9 @@ Now we need to upload the private key file.
  
 
 Here I have uploaded my private key file. That is the one you have downloaded previously – when you created the Key pair.
- 
+
+![6](https://github.com/user-attachments/assets/f74df4a7-8b11-4d4e-8a8d-ff87d2e97640)
+
 
 You can select the file and it going to download all the contents for you. 
  
