@@ -670,6 +670,8 @@ You can select the file and it going to download all the contents for you.
 
  
 The click on Decrypt password.
+
+![2](https://github.com/user-attachments/assets/f1f0610f-8ea6-454c-97c1-a2a4edff6f1b)
  
 
 Now we are able to see the password.
