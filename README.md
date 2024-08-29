@@ -645,21 +645,10 @@ But we need to go and retrieve the password first, so click cancel – till we h
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 To retrieve the password, click on Get password.
  
 
+![3](https://github.com/user-attachments/assets/7713f4df-9a87-49a7-b75e-192ed3d4c76f)
 
  
 
