@@ -722,7 +722,7 @@ So here we have the Windows desktop, and this server is now ready to administer.
 
 
 
-As with the Linux server needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.
+As with the Linux server, it needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.
  
 
 
