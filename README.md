@@ -715,6 +715,7 @@ We are being logged into the desktop of a Windows server on AWS.
 So here we have the Windows desktop, and this server is now ready to administer.
  
 
+![1](https://github.com/user-attachments/assets/98530297-bed2-45be-8511-b0f6ee913f7c)
 
 
 
