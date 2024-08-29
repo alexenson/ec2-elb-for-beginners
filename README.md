@@ -636,6 +636,9 @@ Enter this as the PC name and click on Add.
  
 
 What will happen now, it is going to connect and it will ask for the username and password.
+
+![2](https://github.com/user-attachments/assets/d827ef69-56d5-40ab-b079-c74ae10855d3)
+
  
 
 But we need to go and retrieve the password first, so click cancel – till have that information.
