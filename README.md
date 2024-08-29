@@ -650,7 +650,8 @@ To retrieve the password, click on Get password.
 
 ![3](https://github.com/user-attachments/assets/7713f4df-9a87-49a7-b75e-192ed3d4c76f)
 
- 
+ ![4](https://github.com/user-attachments/assets/08fe6396-4fa3-48b5-bf04-50926efd30cd)
+
 
 Now we need to upload the private key file.
  
