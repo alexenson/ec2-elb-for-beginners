@@ -763,21 +763,7 @@ It will stay in the console for a while. Don’t worry about it, it will disappe
 The other thing we can do, in terms of administration, is under Action, there are a variety of settings.
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![8](https://github.com/user-attachments/assets/cd53da76-ff06-4398-a7b9-614b1d88fe7f)
 
 
 
