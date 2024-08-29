@@ -669,7 +669,7 @@ You can select the file and it going to download all the contents for you.
 ![1](https://github.com/user-attachments/assets/be7078e6-badf-413c-a308-d6f3b5c2215c)
 
  
-The click on Decrypt password.
+Then click on Decrypt password.
 
 ![2](https://github.com/user-attachments/assets/f1f0610f-8ea6-454c-97c1-a2a4edff6f1b)
  
