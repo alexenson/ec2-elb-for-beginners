@@ -654,6 +654,9 @@ To retrieve the password, click on Get password.
 
 
 Now we need to upload the private key file.
+
+![5](https://github.com/user-attachments/assets/7485731f-848a-4801-bec4-24931b7f352a)
+
  
 
 Here I have uploaded my private key file. That is the one you have downloaded previously – when you created the Key pair.
