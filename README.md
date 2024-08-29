@@ -775,27 +775,13 @@ I'm going to talk about Access Keys and IAM roles. Two different ways that we ca
 ![1](https://github.com/user-attachments/assets/da742aac-8693-4ce9-b235-12e504d720a0)
 
 
-Instead, what we can do is we can utilize IAM roles.  Roles have policies assigned to them. So now we can supply the permissions that we want our instance to have. There are no credentials stored on the instance. So we don't have that security exposure that we have with those access keys. Now, the instance is going to assume the role and gain the access permissions that it needs on the S3 bucket.  So two different ways of performing the same thing. But the second way, this way is more secure than using access key. So we want to try and use this method whenever we can. One thing to note when we're using IAM roles is it is utilizing the AWS security token service, AWS STS, in order to gain credentials. So it's actually gaining essentially access keys. But those access keys have a much shorter expiration and the instance will automatically renegotiate with STS and get some new credentials before they expire. So it's all happening automatically in the background. And those shorter term credentials are of course more secure than if we have the long term ones stored in plain text on the computer. So this is the best option we're going to use these as much as possible. 
+Instead, what we can do is we can utilise IAM roles.  Roles have policies assigned to them. So now we can supply the permissions that we want our instance to have. There are no credentials stored on the instance. So we don't have that security exposure that we have with those access keys. Now, the instance is going to assume the role and gain the access permissions that it needs on the S3 bucket.  So two different ways of performing the same thing. But the second way, this way is more secure than using access key. So we want to try and use this method whenever we can. One thing to note when we're using IAM roles is it is utilizing the AWS security token service, AWS STS, in order to gain credentials. So it's actually gaining essentially access keys. But those access keys have a much shorter expiration and the instance will automatically renegotiate with STS and get some new credentials before they expire. So it's all happening automatically in the background. And those shorter term credentials are of course more secure than if we have the long term ones stored in plain text on the computer. So this is the best option we're going to use these as much as possible. 
  
+![2](https://github.com/user-attachments/assets/8ce56d01-b4cd-4498-9f62-4509b212a282)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Practice with Access Keys and IAM Roles
+**Practice with Access Keys and IAM Roles**
 
 We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console back in the console. I still have a Linux server running has a public IP address and I'm able to connect to this instance.
  
