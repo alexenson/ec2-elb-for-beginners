@@ -686,6 +686,7 @@ Back in the RDP client – we will double click and put in the Administrator use
 
 ![4](https://github.com/user-attachments/assets/04f32b08-42df-4dc1-a55e-3634a51d0d3c)
 
+![5](https://github.com/user-attachments/assets/02a33a7a-a528-4ae9-8653-e94423522505)
 
  
  
