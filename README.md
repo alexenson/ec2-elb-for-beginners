@@ -693,6 +693,9 @@ Back in the RDP client – we will double click and put in the Administrator use
 Click continue.
 
 Then continue again.
+
+![6](https://github.com/user-attachments/assets/d6141c23-4732-4675-9ee8-679080f9cfd2)
+
  
 
 This should then connect you to the desktop of the server.
