@@ -702,6 +702,8 @@ This should then connect you to the desktop of the server.
  
 ![7](https://github.com/user-attachments/assets/295378b1-bed6-4aae-a98c-486aab1649c1)
 
+![8](https://github.com/user-attachments/assets/79c5aa44-51fb-45f9-aa0b-ef4124873c39)
+
  
 
 We are being logged into the desktop of a Windows server on AWS.
