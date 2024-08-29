@@ -683,6 +683,10 @@ Now we are able to see the password.
 We know the username is Administrator, so copy the password.
 
 Back in the RDP client – we will double click and put in the Administrator username and put in the password.
+
+![4](https://github.com/user-attachments/assets/04f32b08-42df-4dc1-a55e-3634a51d0d3c)
+
+
  
  
 Click continue.
