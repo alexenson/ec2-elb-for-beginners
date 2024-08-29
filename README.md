@@ -707,6 +707,9 @@ This should then connect you to the desktop of the server.
  
 
 We are being logged into the desktop of a Windows server on AWS.
+
+![9](https://github.com/user-attachments/assets/f341690b-ee7a-467b-9be3-f92bb1abd63c)
+
  
 
 So here we have the Windows desktop, and this server is now ready to administer.
