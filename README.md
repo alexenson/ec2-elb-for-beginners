@@ -742,6 +742,9 @@ We have now launched two virtual servers in the Cloud, running Windows and Linux
 
 
 In your instances - under instance state (top menu), you can stop or terminate your instances.
+
+![5](https://github.com/user-attachments/assets/3fdfb032-3461-44a8-9ab9-23170f07081f)
+
  
 This means that you are not going to pay for the running compute and memory. You will still pay for the storage that is allocated to this server.
 
