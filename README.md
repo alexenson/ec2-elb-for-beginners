@@ -754,6 +754,9 @@ You can reboot instances and terminate instances (this essentially deletes them)
 
 
 When you click terminate, you’ll see that the instance changes to a terminated state quickly.
+
+![7](https://github.com/user-attachments/assets/640935b6-4a82-468d-a7ae-d1037a82e1d2)
+
  
 It will stay in the console for a while. Don’t worry about it, it will disappear after a little while.
 
