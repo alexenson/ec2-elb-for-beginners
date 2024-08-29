@@ -641,7 +641,7 @@ What will happen now, it is going to connect and it will ask for the username an
 
  
 
-But we need to go and retrieve the password first, so click cancel – till have that information.
+But we need to go and retrieve the password first, so click cancel – till we have that information.
 
 
 
