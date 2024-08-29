@@ -700,6 +700,7 @@ Then continue again.
 
 This should then connect you to the desktop of the server.
  
+![7](https://github.com/user-attachments/assets/295378b1-bed6-4aae-a98c-486aab1649c1)
 
  
 
