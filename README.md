@@ -675,6 +675,9 @@ Then click on Decrypt password.
  
 
 Now we are able to see the password.
+
+![3](https://github.com/user-attachments/assets/e104b4eb-6859-4c30-8c50-2cd9b4654eec)
+
  
 
 We know the username is Administrator, so copy the password.
