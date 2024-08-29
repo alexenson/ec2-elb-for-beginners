@@ -779,7 +779,7 @@ Instead, what we can do is we can utilise IAM roles.  Roles have policies assign
  
 ![2](https://github.com/user-attachments/assets/8ce56d01-b4cd-4498-9f62-4509b212a282)
 
-
+<br>
 
 **Practice with Access Keys and IAM Roles**
 
