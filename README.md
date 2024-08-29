@@ -765,7 +765,7 @@ The other thing we can do, in terms of administration, is under Action, there ar
 
 ![8](https://github.com/user-attachments/assets/cd53da76-ff06-4398-a7b9-614b1d88fe7f)
 
-
+<br>
 
 
 **Access Keys and IAM Roles with EC2**
