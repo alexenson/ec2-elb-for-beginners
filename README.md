@@ -723,6 +723,9 @@ So here we have the Windows desktop, and this server is now ready to administer.
 
 
 As with the Linux server, it needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.
+
+![2](https://github.com/user-attachments/assets/5b89ce44-3acc-468f-a3ae-a78e6a44bbc1)
+
  
 
 
