@@ -749,7 +749,9 @@ In your instances - under instance state (top menu), you can stop or terminate y
 This means that you are not going to pay for the running compute and memory. You will still pay for the storage that is allocated to this server.
 
 You can reboot instances and terminate instances (this essentially deletes them).
- 
+
+ ![6](https://github.com/user-attachments/assets/aeaf9599-d9fb-48f8-83f8-40b7061069ab)
+
 
 When you click terminate, you’ll see that the instance changes to a terminated state quickly.
  
