@@ -630,6 +630,9 @@ Now with your remote desktop software, click Add PC.
 
 
 Enter this as the PC name and click on Add.
+
+![1](https://github.com/user-attachments/assets/2f469ac1-02ec-40f7-8e23-ec647221a0a9)
+
  
 
 What will happen now, it is going to connect and it will ask for the username and password.
