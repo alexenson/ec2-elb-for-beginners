@@ -825,6 +825,9 @@ And straight away you can see there's a bit of a warning here. There's better wa
  
 
 Now this information is displayed to you now.
+
+![6](https://github.com/user-attachments/assets/471939eb-72b5-4586-a28e-74a9a1216449)
+
  
 
 You can retrieve the access key later on. You can only retrieve the secret access key now and optionally you can download it. This is very important information. This is essentially like a user name and password. Because anyone with this access key and secret access key are able to perform API actions in your account and they will inherit your user permissions. So very dangerous. Watch out for that. 
