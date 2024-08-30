@@ -863,6 +863,9 @@ This will create a container. I'll call it my bucket and then make it unique wit
 
  
 So that's just proven that we now have access to AWS services. Sounds good. However, there are some security problems here. If I change directory to this weird directory path, we can see and by the way that's the ~/.aws. And now we can see these two files, config and credentials. Interesting. What's in those? I'm going to use the cat utility. So cat config and in here we can see some of that information I entered when I ran aws configure, the default region that we specified. But what about the other one, cat credentials. Now I can see my access key and my secret access key. Remember, this is highly sensitive information. It's there on the hard drive of this computer. 
+
+![4](https://github.com/user-attachments/assets/d6468dfe-22ca-4e3f-8f00-68c4f38644f0)
+
  
 
 It's there in plain text for anyone who can get into this user account. If there was some kind of compromise of the server and they found this, they've now compromised your entire AWS account. So it's not really very good. Here's what I'm going to do. I'm going to change directory up a level.  
