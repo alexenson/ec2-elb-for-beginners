@@ -795,7 +795,7 @@ So let's go ahead and connect using EC2 Instance Connect.
 ![3](https://github.com/user-attachments/assets/880d00f0-1a08-43e8-93fb-bc93619fa329)
  
 
-So I'm logged into the console. I can run commands on Windows.
+So I'm now logged into the console. I can run commands on Windows.
  
 ![4](https://github.com/user-attachments/assets/fd4e30b2-d42e-48d7-afae-38ebd7b8d9f2)
 
