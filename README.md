@@ -49,7 +49,8 @@ There are lots of different instance types and they come with varying amounts of
 
 The instance type defines the hardware profile and therefore the cost. We also need to select an Amazon Machine Image (AMI). The AMIs defines which operating system we want to use and how it is being configured. It might have for example an application pre-installed on it. You can choose an AMI that has Windows with a Microsoft SQL Server database installed, as an example.
 So the AMI define the configuration of the instance, including the operating system and any software that is installed. And how the virtual drives, the EBS volumes are defined. These are backed by what is called a snapshot. So the actual data is stored in a snapshot. Snapshots are actually taken from live instances, as a kind of backup. Then we create an AMI from them and we can keep launching more instances that are the same as the original. So a snapshot is a point in time backup of an EC2 instance. Once we have done that, we can create our own customised AMIs. So for example we might launch an existing AMI, we might make some customisations to it. And then create our own AMI that we can then launch instances from, later on. 
- ![3](https://github.com/user-attachments/assets/29c7adf6-90b6-472e-bbcc-6c9f5f994b8f)
+
+![3](https://github.com/user-attachments/assets/29c7adf6-90b6-472e-bbcc-6c9f5f994b8f)
 
 
 
@@ -58,15 +59,18 @@ So the AMI define the configuration of the instance, including the operating sys
 
 In the Amazon console – go to EC2.
 Click on Launch Instance.
+
 ![4](https://github.com/user-attachments/assets/4e0861a6-e8b0-4f0d-b03d-7f324c37c6c5) 
 
 You can name your instance if you want – it is optional.
+
 ![5](https://github.com/user-attachments/assets/294df4f4-ec12-4281-8e19-2ddde3adb022)
 
 Further down, you can see the Application and OS images (Amazon Machine Image)
 By default it selected the Amazon Linux – that is a version of Linux that has been customised by AWS. It includes variety of things, like certain agents and the command line interface for AWS. The Amazon Linux AMI has been customised by AWS and it includes certain agents and the AWS command line interface. 
 
 Here we have chosen the Amazon Linux 2023 AMI, which has been selected for us.
+
 ![6](https://github.com/user-attachments/assets/10c24271-da78-4764-b453-a13511008343)
 
 
@@ -75,6 +79,7 @@ It says free tier eligible – which is good news.
 
 
 If we scroll down a little, we have the instance type.
+
 ![1](https://github.com/user-attachments/assets/9ecbcb39-1e52-418f-a6b7-8cc2e52aff87)
 
 
@@ -82,37 +87,44 @@ If we scroll down a little, we have the instance type.
 The t2.micro has been selected by default. (Also free tier eligible)
 
 If you want to change it, you can click the little arrow. 
+
 ![2](https://github.com/user-attachments/assets/44950845-0f1f-4561-926a-fc0c156aa0f9)
 
  
 
 And you can choose from the list of options. But we will leave it as is.
+
 ![3](https://github.com/user-attachments/assets/e84dd512-57f6-45f6-86ce-c68861a75c7f)
 
  
 
 
 Next we have the key pair. Key pairs are used for connecting to our instances using the secure shell, if we are connecting from outside AWS.
+
 ![4](https://github.com/user-attachments/assets/a8217238-019e-4af3-b7c7-af95f17c5010)
 
  
 
 But we don’t have any key pairs, so we will create a new one.
+
 ![7](https://github.com/user-attachments/assets/8cd32cef-3064-48b6-b69b-2315eb50db3f)
 
  
 
 
 We will leave the default RSA and .pem.
+
 ![1](https://github.com/user-attachments/assets/a4bc0d69-10fd-43cf-ada1-55bbf28f5306)
 
  
 
 We will give it a name that is descriptive. For example dct-lab-training-us-east-1. (Suggest you name it to your region, if you decide to go by region or something else that is descriptive)
+
 ![2](https://github.com/user-attachments/assets/54c427aa-ec85-4dea-8f62-4c303b1d0d7f)
 
  
 Then click create.
+
 ![4](https://github.com/user-attachments/assets/c17111a1-4cd7-4e95-9699-16ce94c94017)
 
  
@@ -121,11 +133,13 @@ What will then happen is it will download a file to your computer. It is using c
 Make sure you move it somewhere, you can find it later on and where it is kept securely - because it is sensitive information. Anybody with that particular file will be able to connect to your instances and manage them. 
 
 Next for network settings we will leave some of the defaults here.
+
 ![1](https://github.com/user-attachments/assets/cf1728f3-e659-45c4-8fb8-73653ac0d4ce)
 
  
 But we need to create a new security group.
 If you do it from here on the console, it will give it a weird name. 
+
 ![1](https://github.com/user-attachments/assets/c9fcc883-a755-4d65-bc4c-fafa516da79e)
 
 
@@ -138,26 +152,31 @@ So click on Edit
 
 
 Then you can give it a name.
+
 ![2](https://github.com/user-attachments/assets/389f508b-364b-47fb-b44c-6474e67fd783)
 
  
 
 We will call it – WebAccess.
+
 ![3](https://github.com/user-attachments/assets/613e814e-3f91-4e34-b35a-3b030e38bdf8)
 
  
 
 We will copy the name into the description.
+
 ![4](https://github.com/user-attachments/assets/1b74004d-8912-429c-ba6c-fd7595a71e2a)
 
  
 
 Then we have ssh – secure shell
+
 ![6](https://github.com/user-attachments/assets/880a5c92-96fd-48df-944b-d615ccb92a3b)
 
  
 
 It’s going to allow any source address. The 0s mean any source IP address.
+
 ![1](https://github.com/user-attachments/assets/ae13282c-e6e5-4399-9a65-f2839916e5ec)
 
  
@@ -165,6 +184,7 @@ It’s going to allow any source address. The 0s mean any source IP address.
 
 
 Scroll down a bit and leave the Configure storage section as defaults.
+
 ![2](https://github.com/user-attachments/assets/1ff6bf32-b359-48b1-bb69-9084427ffb6c)
 
  
@@ -173,6 +193,7 @@ That is all we need for now. There is some advanced details/options. We will loo
 
 We just want 1 instance and the summary is fine.
 Then click Launch instance.
+
 ![3](https://github.com/user-attachments/assets/76c21a38-6a65-464b-b5cc-bfc94764b7e9)
 
  
@@ -184,16 +205,19 @@ Then click Launch instance.
 
 
 So the instance is launching. 
+
 ![4](https://github.com/user-attachments/assets/e42a3c8c-51da-4d22-a289-c61a29681e19)
 
  
 
 We can click on View all instances, and we can see it is pending. That should change to a running state soon.
+
 ![5](https://github.com/user-attachments/assets/51f0a9da-e9ed-4854-87f7-db2caba8cd9c)
 
  
 
 You can see lots of information by clicking on the instance.
+
 ![6](https://github.com/user-attachments/assets/ef0b99d9-87a7-48fa-9028-a807e148a7fc)
 
  
@@ -204,38 +228,45 @@ Now you can see its Instance ID – a unique identifier. Public IP address, the 
 
 
 There are also varies tabs for Monitoring information. We can see the Security group we assigned. It is essentially the firewall that is allowing access on port 22 in this case.
+
 ![7](https://github.com/user-attachments/assets/3fd2a354-0a9b-4d24-beb9-0b7dcf3cfe68)
 
  
 
 There is lots of Networking information. We can see it is in the us-east-1d Availability Zone.
+
 ![1](https://github.com/user-attachments/assets/7a01084d-7a77-4285-9c9f-cf53821f915c)
 
  
 
 This will be deployed in our default Virtual Private Cloud.
+
 ![2](https://github.com/user-attachments/assets/d3ed7a24-036e-4c22-aa59-bab1d8b84184)
 
   
 
 
 This is running – lets launch another instance.
+
 ![3](https://github.com/user-attachments/assets/3e738192-a2c9-4218-9a55-5f4af7646549)
 
  
 
 
 We will call it Windows-Server.
+
 ![4](https://github.com/user-attachments/assets/0a07bef0-5ceb-41fb-bdd6-79b9f32d7f04)
 
   
 
 Scroll down and chose the Windows AMI
+
 ![5](https://github.com/user-attachments/assets/34976161-2ccd-4dc6-adb2-3e017528419e)
 
  
 
 If you were to click Browse more AMIs.
+
 ![6](https://github.com/user-attachments/assets/1c62efb7-144b-4427-9bb2-c3dc05322f0c)
 
  
@@ -243,6 +274,7 @@ If you were to click Browse more AMIs.
 ---------------------------------------------------------------------------------------------------------
 
 You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community AMIs.
+
 ![7](https://github.com/user-attachments/assets/fca583ac-43c3-4ed6-a4aa-396c1617d2ad)
 
  
@@ -250,6 +282,7 @@ You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community
 My AMIs is if you have your own custom AMIs.
 AWS Marketplace AMIs – this will show you lots of AMIs that includes varies software like VPN servers, Backup & Recovery software, networking, firewall – like Palo Alto, Splunk Enterprise etc. That are built into the instance. You will typically pay higher rate for these, because the software charges are going to be included, however that is not always the case.
 CommunityAMIs which are AMIs that people in the community have created and shared for everyone else to use.
+
 ![8](https://github.com/user-attachments/assets/40453c1f-4c5d-4568-ad13-167d1e2cf967)
 
  
@@ -264,17 +297,20 @@ CommunityAMIs which are AMIs that people in the community have created and share
 
 
 We will go back to this screen and click on Windows.
+
 ![9](https://github.com/user-attachments/assets/d6a3d644-f62a-4d86-b9a6-0b5065b37cd3)
 
  
 It chooses the Microsoft Windows Server Base. 
 
 Again we will select the t2.micro
+
 ![1](https://github.com/user-attachments/assets/7b156ba4-ad47-44ba-ad65-af8855520698)
 
  
 
 For the Key pair, it is very important for the Windows instances that we select this.
+
 ![2](https://github.com/user-attachments/assets/2d154455-2f50-448c-8e41-ab75f0673e25)
 
  
@@ -290,6 +326,7 @@ For Windows, in order to retrieve the password, we have to have a Key pair assig
 
 
 Under Network settings we will select an existing security group and choose WebAccess.
+
 ![1](https://github.com/user-attachments/assets/b7930907-028c-4683-8787-a0157a60f939)
 
  
@@ -297,6 +334,7 @@ Under Network settings we will select an existing security group and choose WebA
 In this case WebAccess does not have the rule that we need to connect to Windows at this point in time. So we will edit that in a moment.
 
 That is all you need for now so click on Launch instance.
+
 ![2](https://github.com/user-attachments/assets/651d853f-f64a-45d5-9c12-4c4311e062cd)
 
  
@@ -312,6 +350,7 @@ And we will have our Windows instance up and running shortly.
 
 I need to be able to connect to my Windows server and want to use the remote desktop protocol.
 Under Security I can see that I have a security group and which has port 22 open.
+
 ![4](https://github.com/user-attachments/assets/c53fc494-b224-4d06-94ca-713b2ffa16a9)
 
  
@@ -319,59 +358,71 @@ Under Security I can see that I have a security group and which has port 22 open
 That is not for the remote desktop protocol that is for the Linux server when we use the secure shell protocol. 
 
 You can click on the security group to edit it.
+
 ![5](https://github.com/user-attachments/assets/07e7be32-c66a-42e3-bd84-9a35bf2f126a)
 
  
 Or on the left hand side under network and security you can select security groups.
+
 ![6](https://github.com/user-attachments/assets/c5f60f50-bc19-4004-807c-7ba19085b49e)
 
  
 
 And you can find the same security group here.
+
 ![7](https://github.com/user-attachments/assets/8f487c5b-57bc-41db-a7c9-307bbf5989ce)
 
  
 We will click on the relevant security group ID.
+
 ![8](https://github.com/user-attachments/assets/aa618b4e-e61c-4a95-ab56-1bbdb0cbb5fe)
 
  
 
 
 We have Inbound and Outbound rules.
+
 ![9](https://github.com/user-attachments/assets/e72832a5-6c82-48c7-912d-f99648fa88eb)
 
  
 
 I only want to edit the inbound rules at the moment.
 So we will click Edit inbound rules.
+
 ![1](https://github.com/user-attachments/assets/fe1c170d-4a1e-4cf2-a89c-005bf00e3533)
 
  
 
 Click Add rule.
+
 ![2](https://github.com/user-attachments/assets/e6e62b61-3156-4fee-922e-8c35ebe77610)
 
  
 Click on the drop down.
+
 ![3](https://github.com/user-attachments/assets/d798675e-5168-4bb8-ac52-41763335fab9)
 
  
 
 Type in RDP to easily find the RDP protocol.
+
 ![4](https://github.com/user-attachments/assets/4ab14ca7-b5c6-42d8-b0b7-d771a529faf2)
 
  
 
 Which will allow access on port 3389 and select to Anywhere IPv4.
+
 ![5](https://github.com/user-attachments/assets/a49fd6cb-9031-4427-9680-5b07274a48d1)
 
  
 
 Allowing any source address.
+
 ![6](https://github.com/user-attachments/assets/a2f179d7-9234-4c44-a83d-1d743dbbacc3)
 
  
 Then Save rules.
+
 ![7](https://github.com/user-attachments/assets/8873d8b1-7502-4e95-a07c-ab0e1262b1a4)
 
 
@@ -387,12 +438,14 @@ Here we will connect to our EC2 instances using the secure shell protocol and th
 Make sure your Windows and Linux instances are running in EC2.
 
 Back in the EC2 management console, I have selected the Linux server.
+
 ![1](https://github.com/user-attachments/assets/060d91fc-6eba-402c-ac0c-80fd300e2a43)
 
  
 
 
 We can see that we have a public IP address and a public DNS address as well.
+
 ![2](https://github.com/user-attachments/assets/8e90d9e7-4074-49d9-8e98-5a5af6482cab)
 
  
@@ -401,18 +454,21 @@ So if we want to, we can use those to connect from the outside world.
 
 Let’s have a look at the varies different ways we can connect.
 If I click on Connect with the instance selected.
+
 ![3](https://github.com/user-attachments/assets/91b2dc8e-dc9e-4085-96d8-6f887033df1e)
 
 
 
 
 We can now use the EC2 Instance Connect.
+
 ![4](https://github.com/user-attachments/assets/6f6d7060-a481-4be3-bfaf-006bde33ce27)
 
  
 
 Or we can use Session Manager, this is using the Systems Manager service.
 It is one of the features of System Manager. 
+
 ![5](https://github.com/user-attachments/assets/710a58ed-8513-45f2-bc18-04fb1e7e68da)
 
 ![6](https://github.com/user-attachments/assets/2cf2d006-face-4c27-955d-8022f989b219)
@@ -422,6 +478,7 @@ It is one of the features of System Manager.
  
 Gives us a very secure way of connecting, without opening any ports. 
 We then have the SSH client, if you want to connect from your home computer, this is what you could use.
+
 ![7](https://github.com/user-attachments/assets/7c18b987-5676-49fa-92da-a17a191a2f43)
 
  
@@ -429,6 +486,7 @@ You would need your private key file.
 Earlier we created a Key pair and it downloaded a file to our computer, that's the private key file. 
 It actually gives the full command. The command is ssh –I “then the name of the pem file” that was the file that was downloaded, the key pair. Then ec2-user@ then we have the public DNS name or this could be the public IP address.
 This would be the full command you need to connect from your home computer.
+
 ![8](https://github.com/user-attachments/assets/30563623-05f7-46da-b1ca-a123ab847f40)
 
  
@@ -443,6 +501,7 @@ If you are on a Mac for example, you will always have a SSH client installed –
 
 
 However, we are going to use the EC2 Instance Connect.
+
 ![1](https://github.com/user-attachments/assets/686c3aa2-c6b0-4785-aaba-27ad602dcdaf)
 
 
@@ -461,15 +520,18 @@ However, our instances have been launched into the default VPC – which by defa
 
 
 The username has been specified as ec2-user - which is correct.
+
 ![3](https://github.com/user-attachments/assets/fdb9ef67-356e-408f-9ebd-469cd757bc41)
 
  
 
 Then click on Connect.
- ![4](https://github.com/user-attachments/assets/178f91d6-7c9c-47ca-a0b6-27d9025607c7)
+
+![4](https://github.com/user-attachments/assets/178f91d6-7c9c-47ca-a0b6-27d9025607c7)
 
 
 We are now connected to the command line on my EC2 instance.
+
 ![5](https://github.com/user-attachments/assets/cad5bf3b-22d9-4a23-bc3f-4c121b80286b)
 
  
@@ -490,32 +552,38 @@ There are two main things which you need to check.
 
 
 Firstly, you do need to have public IP address. 
+
 ![6](https://github.com/user-attachments/assets/e4b98c5b-655a-43f2-a65e-e6bb4d5b77f5)
 
  
 
 Secondly, your instances must have port 22 open in its security group.
 Click on Security, port 22 with the Source, should be all 0s. That is any source address. If you have those two selected then instance connect should work – with the Amazon Linux AMI.
+
 ![7](https://github.com/user-attachments/assets/db1066d4-3aa1-4819-85bc-1522e975cfde)
 
  
 Now we are free to manage the server from the command line.
+
 ![8](https://github.com/user-attachments/assets/636364fb-b0ee-45cd-92d4-d10bfe11a017)
 
  
 
 Next we will move on to Windows.
+
 ![9](https://github.com/user-attachments/assets/3b799e25-88fe-4178-b261-35e1fe542ca6)
 
  
 For Windows we will select the server and click on connect.
 
 The options are slightly different now.
+
 ![1](https://github.com/user-attachments/assets/e5add1a0-883e-4a52-847f-ac93d03ee8be)
 
  
 There is an option for Session Manager – for remote PowerShell on the command line.
 But we will use the RDP (Remote Desktop Protocol) client.
+
 ![2](https://github.com/user-attachments/assets/10630ef5-9c0f-4399-9ac1-2fe001f4b5d5)
 
  
@@ -525,32 +593,38 @@ If you are using Windows – it is easy – as there is already a RDP client ins
 If you are using Mac, then you would have to download an installer. (on the Internet just search for RDP client Mac installer)
 
 What we need to do is to Get password for login. 
+
 ![3](https://github.com/user-attachments/assets/ba1515df-c91a-41c8-86b6-ed2f7e06f9ef)
 
  
 
 Firstly, however we will copy the Public DNS name. 
+
 ![4](https://github.com/user-attachments/assets/eee0f91e-9a24-42e4-bb06-99eacfe2817f)
 
  
 
 We can see the username is Administrator.
+
 ![5](https://github.com/user-attachments/assets/ba1836e5-f472-4721-9466-0f8ac32eac3f)
 
  
 
 Now with your remote desktop software, click Add PC.
+
 ![6](https://github.com/user-attachments/assets/b206d3bf-0342-4a69-99a7-5c0aed893f7d)
  
 ![7](https://github.com/user-attachments/assets/86524ea5-c967-436f-b78f-f107c9adba1d)
 
 
 Enter this as the PC name and click on Add.
+
 ![1](https://github.com/user-attachments/assets/2f469ac1-02ec-40f7-8e23-ec647221a0a9)
 
  
 
 What will happen now, it is going to connect and it will ask for the username and password.
+
 ![2](https://github.com/user-attachments/assets/d827ef69-56d5-40ab-b079-c74ae10855d3)
 
  
@@ -560,29 +634,35 @@ But we need to go and retrieve the password first, so click cancel – till we h
 
 
 To retrieve the password, click on Get password.
- ![3](https://github.com/user-attachments/assets/7713f4df-9a87-49a7-b75e-192ed3d4c76f)
 
- ![4](https://github.com/user-attachments/assets/08fe6396-4fa3-48b5-bf04-50926efd30cd)
+![3](https://github.com/user-attachments/assets/7713f4df-9a87-49a7-b75e-192ed3d4c76f)
+
+![4](https://github.com/user-attachments/assets/08fe6396-4fa3-48b5-bf04-50926efd30cd)
 
 
 Now we need to upload the private key file.
+
 ![5](https://github.com/user-attachments/assets/7485731f-848a-4801-bec4-24931b7f352a)
 
  
 
 Here I have uploaded my private key file. That is the one you have downloaded previously – when you created the Key pair.
+
 ![6](https://github.com/user-attachments/assets/f74df4a7-8b11-4d4e-8a8d-ff87d2e97640)
 
 
 You can select the file and it going to download all the contents for you. 
+
 ![1](https://github.com/user-attachments/assets/be7078e6-badf-413c-a308-d6f3b5c2215c)
 
  
 Then click on Decrypt password.
+
 ![2](https://github.com/user-attachments/assets/f1f0610f-8ea6-454c-97c1-a2a4edff6f1b)
  
 
 Now we are able to see the password.
+
 ![3](https://github.com/user-attachments/assets/e104b4eb-6859-4c30-8c50-2cd9b4654eec)
 
  
@@ -590,6 +670,7 @@ Now we are able to see the password.
 We know the username is Administrator, so copy the password.
 
 Back in the RDP client – we will double click and put in the Administrator username and put in the password.
+
 ![4](https://github.com/user-attachments/assets/04f32b08-42df-4dc1-a55e-3634a51d0d3c)
 
 ![5](https://github.com/user-attachments/assets/02a33a7a-a528-4ae9-8653-e94423522505)
@@ -599,11 +680,13 @@ Back in the RDP client – we will double click and put in the Administrator use
 Click continue.
 
 Then continue again.
+
 ![6](https://github.com/user-attachments/assets/d6141c23-4732-4675-9ee8-679080f9cfd2)
 
  
 
 This should then connect you to the desktop of the server.
+
 ![7](https://github.com/user-attachments/assets/295378b1-bed6-4aae-a98c-486aab1649c1)
 
 ![8](https://github.com/user-attachments/assets/79c5aa44-51fb-45f9-aa0b-ef4124873c39)
@@ -611,11 +694,13 @@ This should then connect you to the desktop of the server.
  
 
 We are being logged into the desktop of a Windows server on AWS.
+
 ![9](https://github.com/user-attachments/assets/f341690b-ee7a-467b-9be3-f92bb1abd63c)
 
  
 
 So here we have the Windows desktop, and this server is now ready to administer.
+
 ![1](https://github.com/user-attachments/assets/98530297-bed2-45be-8511-b0f6ee913f7c)
 
 
@@ -624,6 +709,7 @@ So here we have the Windows desktop, and this server is now ready to administer.
 
 
 As with the Linux server, it needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.
+
 ![2](https://github.com/user-attachments/assets/5b89ce44-3acc-468f-a3ae-a78e6a44bbc1)
 
  
@@ -631,6 +717,7 @@ As with the Linux server, it needs to have a certain port open so if it failed, 
 
 Select Security.
 Make sure that port 3389 is open and the source has to be from anywhere. This is the Remote Desktop Protocol. 
+
 ![3](https://github.com/user-attachments/assets/33097f96-ed37-487c-9d27-cd9630965680)
 
 ![4](https://github.com/user-attachments/assets/782e2f2e-3177-45fe-9837-4c3c9954ec4f)
@@ -641,22 +728,26 @@ We have now launched two virtual servers in the Cloud, running Windows and Linux
 
 
 In your instances - under instance state (top menu), you can stop or terminate your instances.
+
 ![5](https://github.com/user-attachments/assets/3fdfb032-3461-44a8-9ab9-23170f07081f)
 
  
 This means that you are not going to pay for the running compute and memory. You will still pay for the storage that is allocated to this server.
 
 You can reboot instances and terminate instances (this essentially deletes them).
+
 ![6](https://github.com/user-attachments/assets/aeaf9599-d9fb-48f8-83f8-40b7061069ab)
 
 
 When you click terminate, you’ll see that the instance changes to a terminated state quickly.
+
 ![7](https://github.com/user-attachments/assets/640935b6-4a82-468d-a7ae-d1037a82e1d2)
 
  
 It will stay in the console for a while. Don’t worry about it, it will disappear after a little while.
 
 The other thing we can do, in terms of administration, is under Action, there are a variety of settings.
+
 ![8](https://github.com/user-attachments/assets/cd53da76-ff06-4398-a7b9-614b1d88fe7f)
 
 <br>
@@ -676,31 +767,37 @@ Instead, what we can do is we can utilise IAM roles.  Roles have policies assign
 **Practice with Access Keys and IAM Roles**
 
 We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console, back in the console -I still have a Linux server running has a public IP address and I'm able to connect to this instance.
+
 ![1](https://github.com/user-attachments/assets/e7a24c73-da97-42dd-b7a8-880e7e7eea94)
 
 
 So let's go ahead and connect using EC2 Instance Connect. 
+
 ![2](https://github.com/user-attachments/assets/027c1cb4-ab26-4147-856c-23889d7a2cbd)
 
 ![3](https://github.com/user-attachments/assets/880d00f0-1a08-43e8-93fb-bc93619fa329)
  
 
 So I'm now logged into the console. I can run commands on Windows.
+
 ![4](https://github.com/user-attachments/assets/fd4e30b2-d42e-48d7-afae-38ebd7b8d9f2)
 
 
 
 Now, the great thing about the Amazon Linux 2023 AMI or one of the great things is it has the AWS command line interface already installed. So I can run commands like aws s3 ls. 
+
 ![5](https://github.com/user-attachments/assets/0c1db074-a89c-4220-8a6a-819c20babdee)
 
  
 
 But when I do so, I get this message unable to locate credentials. You can configure credentials by running aws configure. So it basically means we do not have any permissions. That makes sense. Even though I have permissions under my user account.  Linux, the operating system does not have any permissions. That's a good thing. We don't want it to inherit permissions from us. In fact, we're actually logged in as a user called EC2 user. That user account does not have too many permissions on Linux. Certainly doesn't have any permissions to any AWS services. So, what we need to do is supply those permissions. Now, there's two ways of doing that. One is through access keys. That's when we use the AWS configure, the other is an IAM role. So let's head over to the IAM service and open that up in a new tab.
+
 ![6](https://github.com/user-attachments/assets/66c5976d-7fc7-4aef-a624-94d5af02a719)
 
  
 
 And what I need to do, to get some access keys. 
+
 ![7](https://github.com/user-attachments/assets/ffe80158-de1a-48e9-9154-b18c1b272b80)
 
  
