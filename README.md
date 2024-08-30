@@ -838,7 +838,8 @@ Now, I'm going to copy the access key come back to the server and I'm going to r
  
 It's now going to ask me for the access key ID, I'll paste it in. 
 
-![7](https://github.com/user-attachments/assets/5c796df0-b4b3-4913-b7f6-0e662d29e3e8)
+![8](https://github.com/user-attachments/assets/6d723c3d-716c-4c52-900e-e036f73218fe)
+
 
  
 
