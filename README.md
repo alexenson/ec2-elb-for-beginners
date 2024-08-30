@@ -792,6 +792,7 @@ So let's go ahead and connect using EC2 Instance Connect.
  
 ![2](https://github.com/user-attachments/assets/027c1cb4-ab26-4147-856c-23889d7a2cbd)
 
+![3](https://github.com/user-attachments/assets/880d00f0-1a08-43e8-93fb-bc93619fa329)
  
 
 
