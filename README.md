@@ -783,8 +783,10 @@ Instead, what we can do is we can utilise IAM roles.  Roles have policies assign
 
 **Practice with Access Keys and IAM Roles**
 
-We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console back in the console. I still have a Linux server running has a public IP address and I'm able to connect to this instance.
- 
+We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console, back in the console -I still have a Linux server running has a public IP address and I'm able to connect to this instance.
+
+ ![1](https://github.com/user-attachments/assets/e7a24c73-da97-42dd-b7a8-880e7e7eea94)
+
 
 So let's go ahead and connect using EC2 Instance Connects. 
  
