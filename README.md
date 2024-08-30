@@ -847,7 +847,10 @@ It's now going to ask me for the access key ID, I'll paste it in.
 
  
 
- I'm going to copy that come back, paste it in and then it wants the region name or the default region.
+I'm going to copy that come back, paste it in and then it wants the region name or the default region.
+
+![1](https://github.com/user-attachments/assets/ea91a182-ae53-4329-85dc-b482c072c69f)
+
  
 I'm going to set mine to us-east-1 with dashes in between and press enter and enter again. So now let's try and rerun that command from earlier aws s3 ls and no response there. That actually means that we didn't get an error. That's good news. So that just means we now have permissions. In fact, I can run a service like aws s3 mb to make a bucket. 
  
