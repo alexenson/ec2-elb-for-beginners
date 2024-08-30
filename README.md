@@ -853,6 +853,9 @@ I'm going to copy that come back, paste it in and then it wants the region name 
 
  
 I'm going to set mine to us-east-1 with dashes in between and press enter and enter again. So now let's try and rerun that command from earlier aws s3 ls and no response there. That actually means that we didn't get an error. That's good news. So that just means we now have permissions. In fact, I can run a service like aws s3 mb to make a bucket. 
+
+![2](https://github.com/user-attachments/assets/0b2175d5-c5d9-4eda-a035-ad0263b2a3b7)
+
  
 
 This will create a container. I'll call it my bucket and then make it unique with a bunch of random characters that creates a bucket which is basically like a folder that you can store data into. So now when I rerun that command, it actually comes back with a response and it shows me the buckets in my account. 
