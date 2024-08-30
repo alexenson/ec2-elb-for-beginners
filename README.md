@@ -788,8 +788,9 @@ We're going to work with Access keys and IAM roles on Amazon EC2 instances. So l
  ![1](https://github.com/user-attachments/assets/e7a24c73-da97-42dd-b7a8-880e7e7eea94)
 
 
-So let's go ahead and connect using EC2 Instance Connects. 
+So let's go ahead and connect using EC2 Instance Connect. 
  
+![2](https://github.com/user-attachments/assets/027c1cb4-ab26-4147-856c-23889d7a2cbd)
 
  
 
