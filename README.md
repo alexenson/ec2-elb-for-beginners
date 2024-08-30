@@ -814,7 +814,6 @@ But when I do so, I get this message unable to locate credentials. You can confi
  
 
 And what I need to do, to get some access keys. 
-
 ![7](https://github.com/user-attachments/assets/ffe80158-de1a-48e9-9154-b18c1b272b80)
 
  
