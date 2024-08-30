@@ -841,10 +841,10 @@ It's now going to ask me for the access key ID, I'll paste it in.
 ![8](https://github.com/user-attachments/assets/6d723c3d-716c-4c52-900e-e036f73218fe)
 
 
- 
+ It's going to ask for the secret access key.
 
+ ![9](https://github.com/user-attachments/assets/99137df9-710f-438f-9aa4-429e3e38ae9a)
 
-It's going to ask for the secret access key.
  
 
  I'm going to copy that come back, paste it in and then it wants the region name or the default region.
