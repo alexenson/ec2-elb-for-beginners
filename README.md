@@ -869,6 +869,9 @@ So that's just proven that we now have access to AWS services. Sounds good. Howe
  
 
 It's there in plain text for anyone who can get into this user account. If there was some kind of compromise of the server and they found this, they've now compromised your entire AWS account. So it's not really very good. Here's what I'm going to do. I'm going to change directory up a level.  
+
+![5](https://github.com/user-attachments/assets/aa391d1a-bb3f-4345-b68b-da3433d8fe11)
+
  
 
 So now we've got those two commands. Let me just clear screen. So now I'm back in my user directory. I am going to run rm –rf ~/.aws/*. So that has removed those credentials. Let's rerun aws s3 ls. 
