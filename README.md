@@ -814,6 +814,9 @@ But when I do so, I get this message unable to locate credentials. You can confi
  
 
 And what I need to do, to get some access keys. 
+
+![7](https://github.com/user-attachments/assets/ffe80158-de1a-48e9-9154-b18c1b272b80)
+
  
 
 I'm going to click on users, choose my user account, go to security credentials and then we're going to come down here to where it says create access key. 
