@@ -819,6 +819,9 @@ I'm going to choose Command Line Interface (CLI) as the use case.
  
 
 And straight away you can see there's a bit of a warning here. There's better ways of doing this and there certainly are. This is not the recommended way to actually administer your servers or provide permissions to your servers so that they can access AWS applications. The role is the better way, for now I'm ok with this because I just want to demonstrate it to you. Let's click on next. I don't need a description and create access key.
+
+![5](https://github.com/user-attachments/assets/ccf38912-12cf-4089-bdaa-2175bd472a59)
+
  
 
 Now this information is displayed to you now.
