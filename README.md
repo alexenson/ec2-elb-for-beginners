@@ -804,7 +804,8 @@ And what I need to do, to get some access keys.
 
 I'm going to click on users, choose my user account, go to security credentials and then we're going to come down here to where it says create access key. 
 
-https://github.com/alexenson/ec2-elb-for-beginners/issues/115#issue-2498106624 
+![1](https://github.com/user-attachments/assets/5e120891-74da-47e9-bca7-3e4810d93644)
+ 
  
 
  
