@@ -832,6 +832,9 @@ Now this information is displayed to you now.
 
 You can retrieve the access key later on. You can only retrieve the secret access key now and optionally you can download it. This is very important information. This is essentially like a user name and password. Because anyone with this access key and secret access key are able to perform API actions in your account and they will inherit your user permissions. So very dangerous. Watch out for that. 
 Now, I'm going to copy the access key come back to the server and I'm going to run that AWS configure command. 
+
+![7](https://github.com/user-attachments/assets/5c796df0-b4b3-4913-b7f6-0e662d29e3e8)
+
  
 It's now going to ask me for the access key ID, I'll paste it in. 
  
