@@ -808,6 +808,7 @@ I'm going to click on users, choose my user account, go to security credentials 
  
 ![2](https://github.com/user-attachments/assets/01c96b70-82c1-4530-8e5c-734b7f8811d2)
  
+![3](https://github.com/user-attachments/assets/8ee92d07-51a4-4e45-ba30-17cec54a6ee9)
 
  
 
