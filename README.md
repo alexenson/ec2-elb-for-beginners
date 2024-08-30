@@ -801,12 +801,10 @@ So I'm now logged into the console. I can run commands on Windows.
 
 
 
-
-
-
-
-
 Now, the great thing about the Amazon Linux 2023 AMI or one of the great things is it has the AWS command line interface already installed. So I can run commands like aws s3 ls. 
+
+![5](https://github.com/user-attachments/assets/0c1db074-a89c-4220-8a6a-819c20babdee)
+
  
 
 But when I do so, I get this message unable to locate credentials. You can configure credentials by running aws configure. So it basically means we do not have any permissions. That makes sense. Even though I have permissions under my user account.  Linux, the operating system does not have any permissions. That's a good thing. We don't want it to inherit permissions from us. In fact, we're actually logged in as a user called EC2 user. That user account does not have too many permissions on Linux. Certainly doesn't have any permissions to any AWS services. So, what we need to do is supply those permissions. Now, there's two ways of doing that. One is through access keys. That's when we use the AWS configure, the other is an IAM role. So let's head over to the IAM service and open that up in a new tab. 
