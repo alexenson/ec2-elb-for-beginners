@@ -813,6 +813,9 @@ I'm going to click on users, choose my user account, go to security credentials 
  
 
 I'm going to choose Command Line Interface (CLI) as the use case. 
+
+![4](https://github.com/user-attachments/assets/d307664f-9f50-4d02-9fb7-22042688fe21)
+
  
 
 And straight away you can see there's a bit of a warning here. There's better ways of doing this and there certainly are. This is not the recommended way to actually administer your servers or provide permissions to your servers so that they can access AWS applications. The role is the better way, for now I'm ok with this because I just want to demonstrate it to you. Let's click on next. I don't need a description and create access key.
