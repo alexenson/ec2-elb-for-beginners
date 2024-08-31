@@ -966,6 +966,9 @@ Now, we need to go back to EC2. Select the instance, go to Actions, Security and
  
 
 Now, the roles that appear here are the ones that have that trust policy. 
+
+![2](https://github.com/user-attachments/assets/5296ed70-090a-4838-89c9-b86c34a2f14e)
+
  
 So we've just got the one at the moment S3ReadOnly. Choose that option, select update IAM role and that's done. 
  
