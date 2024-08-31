@@ -911,9 +911,9 @@ So let's go to roles.
 
  
 
-We're going to create a roll for EC2and here we're going to choose the AWS service this time. 
+We're going to create a role for EC2 and here we're going to choose the AWS service this time. 
  
-
+![1](https://github.com/user-attachments/assets/665bdb38-41cb-46be-afb6-a63e0fd82d70)
 
 
 
