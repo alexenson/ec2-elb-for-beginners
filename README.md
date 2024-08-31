@@ -953,6 +953,7 @@ So the trust policy is very important. Remember, the trust policy with a role de
  
 So let's create the role that's done. 
  
+![8](https://github.com/user-attachments/assets/af282df7-91e1-4ba2-b375-88693e9f7a0c)
 
  
 
