@@ -893,6 +893,9 @@ No credentials. They're gone. Now, let's do it the better way. Let's go back to 
 
 ![6](https://github.com/user-attachments/assets/30eacf22-4793-4672-abfd-aab9aa7f25ff)
 
+![7](https://github.com/user-attachments/assets/51cde37c-a474-495d-8548-ac1a2f258787)
+
+
 
  
 So now it's no use to anyone. So let's just copy this into the confirmation delete. Now, my account is secure again. 
