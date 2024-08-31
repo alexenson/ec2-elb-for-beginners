@@ -900,10 +900,14 @@ No credentials. They're gone. Now, let's do it the better way. Let's go back to 
  
 So now it's no use to anyone. So let's just copy this into the confirmation delete. Now, my account is secure again. 
 
- ![8](https://github.com/user-attachments/assets/9129c402-cf1e-4a24-80aa-459c79cdca5b)
+![8](https://github.com/user-attachments/assets/9129c402-cf1e-4a24-80aa-459c79cdca5b)
 
+<br>
 
 So let's go to roles. 
+
+![9](https://github.com/user-attachments/assets/e71766c7-376d-4c79-9d3d-23c4f36510bd)
+
  
 
 We're going to create a roll for EC2and here we're going to choose the AWS service this time. 
