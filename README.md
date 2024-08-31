@@ -942,6 +942,9 @@ It's a useful permission to have. I'll call this one S3ReadOnly and then it's ju
 
 
 We can see a couple of things here. 
+
+![6](https://github.com/user-attachments/assets/b0fec38f-5129-455f-91ef-e3e6587fd081)
+
  
 So the trust policy is very important. Remember, the trust policy with a role defines who is allowed to assume the role, who is able to perform this action, sts:AssumeRole who or what. In this case, it's a service. So it's the principle is a service and it's EC2. And when EC2 assumes this role, they will, it will gain these permissions.
  
