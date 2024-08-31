@@ -883,6 +883,7 @@ So now we've got those two commands. Let me just clear screen. So now I'm back i
 
 No credentials. They're gone. Now, let's do it the better way. Let's go back to IAM and we're going to use a role. Now, I've actually shown you my access keys, which is not very secure of course. Because that's very sensitive information. So what we can do with our access keys is we can always deactivate them and after you've deactivated them, you can delete them. 
  
+![2](https://github.com/user-attachments/assets/0d629ddb-d961-4d6a-b486-4673a2e967c2)
 
  
 
