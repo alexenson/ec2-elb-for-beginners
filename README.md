@@ -932,6 +932,7 @@ Click on next.
  
 Now, I need to supply some permissions. Let's provide AmazonS3ReadOnlyAccess. 
  
+![4](https://github.com/user-attachments/assets/b2d8ca0b-cf73-42d4-9c43-842f99588dc2)
 
 
 
