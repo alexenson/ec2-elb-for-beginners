@@ -936,14 +936,10 @@ Now, I need to supply some permissions. Let's provide AmazonS3ReadOnlyAccess.
 
 
 
+It's a useful permission to have. I'll call this one S3ReadOnly and then it's just scroll down. 
 
+![5](https://github.com/user-attachments/assets/eef749cb-ae79-4115-88c0-9c0e72026c79)
 
-
-
-
-
-It's a useful permission to have. I'll call this one S3ReadOnlyand then it's just scroll down. 
- 
 
 We can see a couple of things here. 
  
