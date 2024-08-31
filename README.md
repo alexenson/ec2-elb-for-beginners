@@ -875,7 +875,9 @@ It's there in plain text for anyone who can get into this user account. If there
  
 
 So now we've got those two commands. Let me just clear screen. So now I'm back in my user directory. I am going to run rm –rf ~/.aws/*. So that has removed those credentials. Let's rerun aws s3 ls. 
-* 
+
+![1](https://github.com/user-attachments/assets/f823a513-52d4-46ff-a49c-9eb78a17c6c2)
+
 
 
 
