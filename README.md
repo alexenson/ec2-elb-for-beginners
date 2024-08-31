@@ -960,6 +960,9 @@ So let's create the role that's done.
 
 
 Now, we need to go back to EC2. Select the instance, go to Actions, Security and Modify IAM role.
+
+![1](https://github.com/user-attachments/assets/1ed7f1c3-33b2-47e1-bb33-26ee7f66a0fd)
+
  
 
 Now, the roles that appear here are the ones that have that trust policy. 
