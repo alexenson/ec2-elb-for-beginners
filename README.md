@@ -926,6 +926,9 @@ So under use case with AWS service selected, I'm going to type EC2, choose EC2 a
  
 
 Click on next. 
+
+![3](https://github.com/user-attachments/assets/0c66758c-07d8-465a-a221-c37fc5acd59a)
+
  
 Now, I need to supply some permissions. Let's provide AmazonS3ReadOnlyAccess. 
  
