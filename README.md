@@ -947,6 +947,9 @@ We can see a couple of things here.
 
  
 So the trust policy is very important. Remember, the trust policy with a role defines who is allowed to assume the role, who is able to perform this action, sts:AssumeRole who or what. In this case, it's a service. So it's the principle is a service and it's EC2. And when EC2 assumes this role, they will, it will gain these permissions.
+
+![7](https://github.com/user-attachments/assets/8e5cf270-2386-45d9-909d-c24a5f1d3783)
+
  
 So let's create the role that's done. 
  
