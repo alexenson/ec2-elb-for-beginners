@@ -916,16 +916,13 @@ We're going to create a role for EC2 and here we're going to choose the AWS serv
 ![1](https://github.com/user-attachments/assets/665bdb38-41cb-46be-afb6-a63e0fd82d70)
 
 
+<br>
 
 
+So under use case with AWS service selected, I'm going to type EC2, choose EC2 and then I'll leave the default option. 
 
+![2](https://github.com/user-attachments/assets/f370ba73-541a-4d7c-a85e-9434b32b70f9)
 
-
-
-
-
-
-So under use case with AWS service selected, I'm going to type EC2, choose EC2and then I'll leave the default option. 
  
 
 Click on next. 
