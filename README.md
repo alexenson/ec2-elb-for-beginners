@@ -971,7 +971,9 @@ Now, the roles that appear here are the ones that have that trust policy.
 
  
 So we've just got the one at the moment S3ReadOnly. Choose that option, select update IAM role and that's done. 
- 
+
+ ![3](https://github.com/user-attachments/assets/177ed9d6-c9b6-4e80-a66e-c34e2f36f241)
+
 
  
 
