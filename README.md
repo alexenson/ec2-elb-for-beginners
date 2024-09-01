@@ -1017,9 +1017,7 @@ We will go over the AWS console and launch a Linux instance with some code that 
 <br>
 
 #!/bin/bash
-
 **#Update the system and install necessary packages** 
-
 yum update -y
 yum install -y httpd
 
