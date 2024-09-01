@@ -1040,7 +1040,7 @@ AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/met
 
 The purpose of this line is to assign a value to the variable AZ. That is the Availability Zone. The way it does it, after authenticating using the token, it is going to call the instance meta data service - which can gather information about the instance. The instance meta data service is always available at http://169.254.169.254/latest/meta-data <br>
 Then you can find certain information by call various different paths.
-/placement/availability-zone
+/placement/availability-zone <br>
 In this case it is going to identify the availability zone the instance is in and assign it to the variable AZ.
 
 After that we will create the index.html file. This is the web page that will be displayed when we visit the particular instance.
