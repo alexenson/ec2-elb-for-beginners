@@ -1028,11 +1028,11 @@ We will go over the AWS console and launch a Linux instance with some code that 
 
 #!/bin/bash
 
-# Update the system and install necessary packages
+#Update the system and install necessary packages
 yum update -y
 yum install -y httpd
 
-# Start the Apache server
+#Start the Apache server
 systemctl start httpd
 systemctl enable httpd
 
