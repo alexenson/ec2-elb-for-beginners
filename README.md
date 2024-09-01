@@ -994,10 +994,10 @@ So now we have credentials again. But guess what? There's nothing on the hard dr
  
 
  
+<br>
+<br>
 
-
-
-Create a Website with User Data
+**Create a Website with User Data**
 
 In this lesson we are going to launch an EC2 instance using user data. The user data is going to install a website on the server.
 User data is a way that we can supply lines of code that is executed in the form of a script, as the instance is launching for the time. 
