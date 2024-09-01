@@ -1027,11 +1027,11 @@ We will go over the AWS console and launch a Linux instance with some code that 
 This line will update the system with the latest patches.  -> yum update -y
 Then we will install httpd the Apache webserver. -> yum install -y httpd
 
-Then using the system control we will start the Apache webserver and enable it so it starts again after a reboot. 
+Then using the system control we will start the Apache webserver and enable it so it starts again after a reboot. <br>
 ->    systemctl start httpd
          systemctl enable httpd
  
-The next section of code is going to assign a couple of variables. 
+The next section of code is going to assign a couple of variables. <br>
 Firstly ->  TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
 
 This is authenticating, it is gathering an authentication token that can then be used on the following line of code.
