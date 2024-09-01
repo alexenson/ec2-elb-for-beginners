@@ -119,7 +119,8 @@ Next for network settings we will leave some of the defaults here.<br>
 
  
 But we need to create a new security group.
-If you do it from here on the console, it will give it a weird name. <br>
+If you do it from here on the console, it will give it a weird name. 
+
 ![1](https://github.com/user-attachments/assets/c9fcc883-a755-4d65-bc4c-fafa516da79e)<br>
 So click on Edit
  
