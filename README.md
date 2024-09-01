@@ -1069,13 +1069,14 @@ cat > /var/www/html/index.html <<EOF
 </html>
 EOF
 
+
 #Ensure the httpd service is correctly set up to start on boot
 
 chkconfig httpd on
 <br>
 <br>
 
-Explanation of the code:
+**Explanation of the code:**
 
 This line will update the system with the latest patches.  -> yum update -y
 Then we will install httpd the Apache webserver. -> yum install -y httpd
