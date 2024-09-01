@@ -1022,7 +1022,7 @@ We will go over the AWS console and launch a Linux instance with some code that 
 <br>
 <br>
 
-**Explanation of the code:**
+# **Explanation of the code:**
 
 This line will update the system with the latest patches.  -> yum update -y <br>
 Then we will install httpd the Apache webserver. -> yum install -y httpd
