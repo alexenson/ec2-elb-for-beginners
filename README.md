@@ -979,6 +979,9 @@ So we've just got the one at the moment S3ReadOnly. Choose that option, select u
  
 
 That should take instant effect. Let's rerun that command and now we get our bucket returned. 
+
+![1](https://github.com/user-attachments/assets/32645bf9-1394-41df-9b0f-a9225d75cf62)
+
  
 So now we have credentials again. But guess what? There's nothing on the hard drive of this computer that, that directory with the credentials in does not exist anymore. I deleted those files. They're gone. My hard drive is secure. There's no plain text data stored in here for credentials that will essentially supply people access to my account. So much better to use roles which leverage those temporary credentials which don't get stored on the computer. So that's it for this lesson. I will leave that role where it is because it is useful. Sometimes we'll use it in other labs, but I'm finished with this particular Linux server. So I'm going to terminate this instance and that's it. We're all cleaned up.
  
