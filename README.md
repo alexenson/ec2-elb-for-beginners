@@ -1069,7 +1069,7 @@ cat > /var/www/html/index.html <<EOF
 </html>
 EOF
 
-# Ensure the httpd service is correctly set up to start on boot
+#Ensure the httpd service is correctly set up to start on boot
 chkconfig httpd on
 
 
