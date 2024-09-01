@@ -24,7 +24,7 @@ Networking is quite important to understand when it comes to EC2.So let's just l
 
 
 So let's have a look at public and private deployments. Here, we have a VPC, we have an availability zone and we have a public and a private subnet. When we launch our instances, we can choose which subnets and which availability zones we want to launch them into. So here I've launched one in a public subnet. So it's going to have either a public IP or an Elastic IP associated with it. We then have something called an Internet gateway. This is attached to the VPC. The Internet gateway is the pathway out to the internet. Now, subnets have route tables associated with them. This one here you can see it has a local route that's for the overall IP address block range for the VPC. That's called the cider block. So this is the cider block of the VPC. And what this means is that any connections to any IP addresses within this range are going to be routed internally within the VPC locally. Then everything else, the all zeros means everything else is going to go to the Internet gateway ID that's going to actually map to a specific ID for the individual Internet gateway that's associated with this particular VPC. So now the instance can communicate via the Internet gateway out to the Internet. Now, because this is an instance in a public subnet, we can also connect from the Internet to the instance. So if it's a web server, for example, then computers on the Internet will be able to communicate with it and they come in through the Internet gateway. 
- ![3](https://github.com/user-attachments/assets/4929e01c-bf9c-4480-9385-ee016bbe4c58)
+![3](https://github.com/user-attachments/assets/4929e01c-bf9c-4480-9385-ee016bbe4c58)
 
 
 
@@ -42,7 +42,6 @@ There are lots of different instance types and they come with varying amounts of
 
 The instance type defines the hardware profile and therefore the cost. We also need to select an Amazon Machine Image (AMI). The AMIs defines which operating system we want to use and how it is being configured. It might have for example an application pre-installed on it. You can choose an AMI that has Windows with a Microsoft SQL Server database installed, as an example.
 So the AMI define the configuration of the instance, including the operating system and any software that is installed. And how the virtual drives, the EBS volumes are defined. These are backed by what is called a snapshot. So the actual data is stored in a snapshot. Snapshots are actually taken from live instances, as a kind of backup. Then we create an AMI from them and we can keep launching more instances that are the same as the original. So a snapshot is a point in time backup of an EC2 instance. Once we have done that, we can create our own customised AMIs. So for example we might launch an existing AMI, we might make some customisations to it. And then create our own AMI that we can then launch instances from, later on. 
-
 ![3](https://github.com/user-attachments/assets/29c7adf6-90b6-472e-bbcc-6c9f5f994b8f)
 
 
@@ -51,12 +50,11 @@ So the AMI define the configuration of the instance, including the operating sys
 
 
 In the Amazon console – go to EC2.
-Click on Launch Instance.
 
+Click on Launch Instance.<br>
 ![4](https://github.com/user-attachments/assets/4e0861a6-e8b0-4f0d-b03d-7f324c37c6c5) 
 
-You can name your instance if you want – it is optional.
-
+You can name your instance if you want – it is optional.<br>
 ![5](https://github.com/user-attachments/assets/294df4f4-ec12-4281-8e19-2ddde3adb022)
 
 Further down, you can see the Application and OS images (Amazon Machine Image)
