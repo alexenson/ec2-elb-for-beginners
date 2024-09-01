@@ -1008,20 +1008,8 @@ Batch and PowerShell scripts can also be run on Windows instances.
 What we will do is go over to AWS console and we will launch a Linux instance, with some code that is going to install a customised webserver.
 ![5](https://github.com/user-attachments/assets/722fee6c-2fe6-451f-8f14-7ccf2a302096)
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 We will go over the AWS console and launch a Linux instance with some code that is going to install a customised webserver. 
 
