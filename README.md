@@ -1006,6 +1006,7 @@ Here we can see a simple script that is going to install a webserver on this EC2
 User data is limited to 16 KB, but that is quite a lot of room to run some code as we launch our instance.
 Batch and PowerShell scripts can also be run on Windows instances. 
 What we will do is go over to AWS console and we will launch a Linux instance, with some code that is going to install a customised webserver.
+![5](https://github.com/user-attachments/assets/722fee6c-2fe6-451f-8f14-7ccf2a302096)
  
 
 
