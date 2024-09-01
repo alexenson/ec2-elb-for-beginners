@@ -60,8 +60,7 @@ You can name your instance if you want – it is optional.<br>
 Further down, you can see the Application and OS images (Amazon Machine Image)
 By default it selected the Amazon Linux – that is a version of Linux that has been customised by AWS. It includes variety of things, like certain agents and the command line interface for AWS. The Amazon Linux AMI has been customised by AWS and it includes certain agents and the AWS command line interface. 
 
-Here we have chosen the Amazon Linux 2023 AMI, which has been selected for us.
-
+Here we have chosen the Amazon Linux 2023 AMI, which has been selected for us.<br>
 ![6](https://github.com/user-attachments/assets/10c24271-da78-4764-b453-a13511008343)
 
 
@@ -69,53 +68,45 @@ Here we have chosen the Amazon Linux 2023 AMI, which has been selected for us.
 It says free tier eligible – which is good news.
 
 
-If we scroll down a little, we have the instance type.
-
+If we scroll down a little, we have the instance type.<br>
 ![1](https://github.com/user-attachments/assets/9ecbcb39-1e52-418f-a6b7-8cc2e52aff87)
 
 
  
 The t2.micro has been selected by default. (Also free tier eligible)
 
-If you want to change it, you can click the little arrow. 
-
+If you want to change it, you can click the little arrow.<br> 
 ![2](https://github.com/user-attachments/assets/44950845-0f1f-4561-926a-fc0c156aa0f9)
 
  
 
-And you can choose from the list of options. But we will leave it as is.
-
+And you can choose from the list of options. But we will leave it as is.<br>
 ![3](https://github.com/user-attachments/assets/e84dd512-57f6-45f6-86ce-c68861a75c7f)
 
  
 
 
-Next we have the key pair. Key pairs are used for connecting to our instances using the secure shell, if we are connecting from outside AWS.
-
+Next we have the key pair. Key pairs are used for connecting to our instances using the secure shell, if we are connecting from outside AWS.<br>
 ![4](https://github.com/user-attachments/assets/a8217238-019e-4af3-b7c7-af95f17c5010)
 
  
 
-But we don’t have any key pairs, so we will create a new one.
-
+But we don’t have any key pairs, so we will create a new one.<br>
 ![7](https://github.com/user-attachments/assets/8cd32cef-3064-48b6-b69b-2315eb50db3f)
 
  
 
 
-We will leave the default RSA and .pem.
-
+We will leave the default RSA and .pem.<br>
 ![1](https://github.com/user-attachments/assets/a4bc0d69-10fd-43cf-ada1-55bbf28f5306)
 
  
 
-We will give it a name that is descriptive. For example dct-lab-training-us-east-1. (Suggest you name it to your region, if you decide to go by region or something else that is descriptive)
-
+We will give it a name that is descriptive. For example dct-lab-training-us-east-1. (Suggest you name it to your region, if you decide to go by region or something else that is descriptive)<br>
 ![2](https://github.com/user-attachments/assets/54c427aa-ec85-4dea-8f62-4c303b1d0d7f)
 
  
-Then click create.
-
+Then click create.<br>
 ![4](https://github.com/user-attachments/assets/c17111a1-4cd7-4e95-9699-16ce94c94017)
 
  
@@ -123,14 +114,12 @@ Then click create.
 What will then happen is it will download a file to your computer. It is using cryptography – public and private keys. The private key is being downloaded to your computer; it is probably in your downloads directory. 
 Make sure you move it somewhere, you can find it later on and where it is kept securely - because it is sensitive information. Anybody with that particular file will be able to connect to your instances and manage them. 
 
-Next for network settings we will leave some of the defaults here.
-
+Next for network settings we will leave some of the defaults here.<br>
 ![1](https://github.com/user-attachments/assets/cf1728f3-e659-45c4-8fb8-73653ac0d4ce)
 
  
 But we need to create a new security group.
-If you do it from here on the console, it will give it a weird name. 
-
+If you do it from here on the console, it will give it a weird name. <br>
 ![1](https://github.com/user-attachments/assets/c9fcc883-a755-4d65-bc4c-fafa516da79e)
 
 
