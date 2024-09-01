@@ -987,6 +987,7 @@ So now we have credentials again. But guess what? There's nothing on the hard dr
 
 ![2](https://github.com/user-attachments/assets/2e3be69b-ed2a-490d-8293-3ecd71050771)
 
+![3](https://github.com/user-attachments/assets/5375c3c8-3017-4411-94d3-620fcb2a8a05)
  
 
  
