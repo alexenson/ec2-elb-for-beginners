@@ -1025,6 +1025,8 @@ What we will do is go over to AWS console and we will launch a Linux instance, w
 
 We will go over the AWS console and launch a Linux instance with some code that is going to install a customised webserver. 
 
+<br>
+<br>
 
 #!/bin/bash
 
