@@ -1069,6 +1069,7 @@ cat > /var/www/html/index.html <<EOF
 </html>
 EOF
 
+<br>
 
 #Ensure the httpd service is correctly set up to start on boot
 
