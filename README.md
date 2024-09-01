@@ -1024,7 +1024,7 @@ We will go over the AWS console and launch a Linux instance with some code that 
 
 **Explanation of the code:**
 
-This line will update the system with the latest patches.  -> yum update -y
+This line will update the system with the latest patches.  -> yum update -y <br>
 Then we will install httpd the Apache webserver. -> yum install -y httpd
 
 Then using the system control we will start the Apache webserver and enable it so it starts again after a reboot. <br>
