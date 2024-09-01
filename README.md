@@ -32,13 +32,7 @@ Now we can also launch our instances into private subnets. When we do that, they
 
 
 
-
-
-
-
-
-
-**Launching Amazon EC2 Instances**
+## Launching Amazon EC2 Instances
 
 We are going to launch virtual servers on AWS using the Amazon EC2 service.
 We will launch a Linux instance and a Windows instance.
