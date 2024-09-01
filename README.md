@@ -136,28 +136,24 @@ We will call it – WebAccess.<br>
 
  
 
-We will copy the name into the description.
-
+We will copy the name into the description.<br>
 ![4](https://github.com/user-attachments/assets/1b74004d-8912-429c-ba6c-fd7595a71e2a)
 
  
 
-Then we have ssh – secure shell
-
+Then we have ssh – secure shell<br>
 ![6](https://github.com/user-attachments/assets/880a5c92-96fd-48df-944b-d615ccb92a3b)
 
  
 
-It’s going to allow any source address. The 0s mean any source IP address.
-
+It’s going to allow any source address. The 0s mean any source IP address.<br>
 ![1](https://github.com/user-attachments/assets/ae13282c-e6e5-4399-9a65-f2839916e5ec)
 
  
 
 
 
-Scroll down a bit and leave the Configure storage section as defaults.
-
+Scroll down a bit and leave the Configure storage section as defaults.<br>
 ![2](https://github.com/user-attachments/assets/1ff6bf32-b359-48b1-bb69-9084427ffb6c)
 
  
