@@ -1,10 +1,9 @@
-
- **Amazon EC2**
+## Amazon EC2
  
 <br>
 
 
-**Introduction**
+## Introduction
 
 Amazon EC2 enables us to deploy virtual servers in the cloud, which is basically virtual machines. We call them instances in EC2. We can launch instances running Windows, Linux and there are even options to launch macOS hosts as well. 
 AWS provide management for the underlying platform. Including the hardware, the virtualisation layer and they expose the controls for us to then deploy our instances. 
@@ -12,7 +11,7 @@ They also have a service called Amazon EC2 Auto Scaling, for automatically launc
 Then we can put a load balancer in front, using the Elastic Load Balancing service as well.
 
 
-**Amazon EC2 Overview**   
+## Amazon EC2 Overview   
 
 I'm going to cover the Amazon Elastic Compute Cloud, EC2. EC2 is a service in which we can run EC2 instances in the Cloud and EC2 instances are basically virtual servers. So when we learned about virtualization earlier, this is exactly what we're talking about here. So there's a host server in the AWS data centre or of course, there are hundreds and thousands of these things. And AWS manage those host servers and they run their own virtualization. They use a combination of Zen and Nitro, those are different hypervisors that they use. That's the virtualization layer. We then get to launch EC2 instances, we manage the instance. So here, for example, I have an EC2 instance and it has a certain amount of hardware assigned to it. Of course, we get to choose that. And the way that we choose how much hardware is assigned to our instance is by choosing an instance type.  There are instance families and then within each family there's instance types and they come with varying combinations of CPU, memory, storage and also networking capabilities. So here I've got one with Windows. There are other options as well. Mainly with EC2, you're choosing Windows or Linux. There is a version of EC2 where you can launch a MacOS operating system. It's basically a dedicated piece of hardware. It's quite expensive to run compared to Windows and Linux instances. But it is there for use cases where you need MacOS. So, essentially EC2 is a virtualization stack. It's infrastructure as a service or IaaS. AWS are managing the underlying infrastructure and all we have to do is manage from the operating system upwards. So we get to launch our instances, choose the operating system, choose what the hardware is that we want to be assigned depending of course on our workload and our requirements. And then we manage that operating system and the applications that are running on top of it. 
  ![3](https://github.com/user-attachments/assets/b9d254db-ebb0-4abb-90a5-e664898ba748)
