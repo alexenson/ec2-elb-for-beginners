@@ -173,113 +173,88 @@ Then click Launch instance.
 
 
 
-So the instance is launching. 
-
+So the instance is launching.<br> 
 ![4](https://github.com/user-attachments/assets/e42a3c8c-51da-4d22-a289-c61a29681e19)
 
  
 
-We can click on View all instances, and we can see it is pending. That should change to a running state soon.
-
+We can click on View all instances, and we can see it is pending. That should change to a running state soon.<br>
 ![5](https://github.com/user-attachments/assets/51f0a9da-e9ed-4854-87f7-db2caba8cd9c)
 
  
 
-You can see lots of information by clicking on the instance.
-
+You can see lots of information by clicking on the instance.<br>
 ![6](https://github.com/user-attachments/assets/ef0b99d9-87a7-48fa-9028-a807e148a7fc)
 
  
 Now you can see its Instance ID – a unique identifier. Public IP address, the Private IP address. It also has a Public and Private DNS name that we can use. 
 
 
-
-
-
-There are also varies tabs for Monitoring information. We can see the Security group we assigned. It is essentially the firewall that is allowing access on port 22 in this case.
-
+There are also varies tabs for Monitoring information. We can see the Security group we assigned. It is essentially the firewall that is allowing access on port 22 in this case.<br>
 ![7](https://github.com/user-attachments/assets/3fd2a354-0a9b-4d24-beb9-0b7dcf3cfe68)
 
  
 
-There is lots of Networking information. We can see it is in the us-east-1d Availability Zone.
-
+There is lots of Networking information. We can see it is in the us-east-1d Availability Zone.<br>
 ![1](https://github.com/user-attachments/assets/7a01084d-7a77-4285-9c9f-cf53821f915c)
 
  
 
-This will be deployed in our default Virtual Private Cloud.
-
+This will be deployed in our default Virtual Private Cloud.<br>
 ![2](https://github.com/user-attachments/assets/d3ed7a24-036e-4c22-aa59-bab1d8b84184)
 
   
 
 
-This is running – lets launch another instance.
-
+This is running – lets launch another instance.<br>
 ![3](https://github.com/user-attachments/assets/3e738192-a2c9-4218-9a55-5f4af7646549)
 
  
 
 
-We will call it Windows-Server.
-
+We will call it Windows-Server.<br>
 ![4](https://github.com/user-attachments/assets/0a07bef0-5ceb-41fb-bdd6-79b9f32d7f04)
 
   
 
-Scroll down and chose the Windows AMI
-
+Scroll down and chose the Windows AMI<br>
 ![5](https://github.com/user-attachments/assets/34976161-2ccd-4dc6-adb2-3e017528419e)
 
  
 
-If you were to click Browse more AMIs.
-
+If you were to click Browse more AMIs.<br>
 ![6](https://github.com/user-attachments/assets/1c62efb7-144b-4427-9bb2-c3dc05322f0c)
 
  
 
 ---------------------------------------------------------------------------------------------------------
 
-You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community AMIs.
-
+You are able to see Quickstart AMIs, My AMIs, AWS Marketplace AMIs and Community AMIs.<br>
 ![7](https://github.com/user-attachments/assets/fca583ac-43c3-4ed6-a4aa-396c1617d2ad)
 
  
 
 My AMIs is if you have your own custom AMIs.
 AWS Marketplace AMIs – this will show you lots of AMIs that includes varies software like VPN servers, Backup & Recovery software, networking, firewall – like Palo Alto, Splunk Enterprise etc. That are built into the instance. You will typically pay higher rate for these, because the software charges are going to be included, however that is not always the case.
-CommunityAMIs which are AMIs that people in the community have created and shared for everyone else to use.
-
+CommunityAMIs which are AMIs that people in the community have created and shared for everyone else to use.<br>
 ![8](https://github.com/user-attachments/assets/40453c1f-4c5d-4568-ad13-167d1e2cf967)
 
  
 ----------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-We will go back to this screen and click on Windows.
-
+We will go back to this screen and click on Windows.<br>
 ![9](https://github.com/user-attachments/assets/d6a3d644-f62a-4d86-b9a6-0b5065b37cd3)
 
  
 It chooses the Microsoft Windows Server Base. 
 
-Again we will select the t2.micro
-
+Again we will select the t2.micro<br>
 ![1](https://github.com/user-attachments/assets/7b156ba4-ad47-44ba-ad65-af8855520698)
 
  
 
-For the Key pair, it is very important for the Windows instances that we select this.
-
+For the Key pair, it is very important for the Windows instances that we select this.<br>
 ![2](https://github.com/user-attachments/assets/2d154455-2f50-448c-8e41-ab75f0673e25)
 
  
@@ -288,119 +263,88 @@ For the Key pair, it is very important for the Windows instances that we select 
 We don’t always need to assign a key pair for our Linux instances, because we can often use a service called CloudShell to connect to them. If we want to connect using the secure shell protocol. 
 
 For Windows, in order to retrieve the password, we have to have a Key pair assigned.
+<br>
 
-
-
-
-
-
-Under Network settings we will select an existing security group and choose WebAccess.
-
+Under Network settings we will select an existing security group and choose WebAccess.<br>
 ![1](https://github.com/user-attachments/assets/b7930907-028c-4683-8787-a0157a60f939)
 
  
 
 In this case WebAccess does not have the rule that we need to connect to Windows at this point in time. So we will edit that in a moment.
 
-That is all you need for now so click on Launch instance.
-
+That is all you need for now so click on Launch instance.<br>
 ![2](https://github.com/user-attachments/assets/651d853f-f64a-45d5-9c12-4c4311e062cd)
 
  
-
-
-And we will have our Windows instance up and running shortly.
- 
-![3](https://github.com/user-attachments/assets/bf1879d4-ef64-44b2-8439-0084ca77d5c5)
-
-
-
+And we will have our Windows instance up and running shortly.<br>
+ ![3](https://github.com/user-attachments/assets/bf1879d4-ef64-44b2-8439-0084ca77d5c5)
 
 
 I need to be able to connect to my Windows server and want to use the remote desktop protocol.
-Under Security I can see that I have a security group and which has port 22 open.
-
+Under Security I can see that I have a security group and which has port 22 open.<br>
 ![4](https://github.com/user-attachments/assets/c53fc494-b224-4d06-94ca-713b2ffa16a9)
 
  
 
 That is not for the remote desktop protocol that is for the Linux server when we use the secure shell protocol. 
 
-You can click on the security group to edit it.
-
+You can click on the security group to edit it.<br>
 ![5](https://github.com/user-attachments/assets/07e7be32-c66a-42e3-bd84-9a35bf2f126a)
 
  
-Or on the left hand side under network and security you can select security groups.
-
+Or on the left hand side under network and security you can select security groups.<br>
 ![6](https://github.com/user-attachments/assets/c5f60f50-bc19-4004-807c-7ba19085b49e)
 
  
 
-And you can find the same security group here.
-
+And you can find the same security group here.<br>
 ![7](https://github.com/user-attachments/assets/8f487c5b-57bc-41db-a7c9-307bbf5989ce)
 
  
-We will click on the relevant security group ID.
-
+We will click on the relevant security group ID.<br>
 ![8](https://github.com/user-attachments/assets/aa618b4e-e61c-4a95-ab56-1bbdb0cbb5fe)
 
  
-
-
-We have Inbound and Outbound rules.
-
+We have Inbound and Outbound rules.<br>
 ![9](https://github.com/user-attachments/assets/e72832a5-6c82-48c7-912d-f99648fa88eb)
 
  
-
 I only want to edit the inbound rules at the moment.
-So we will click Edit inbound rules.
-
+So we will click Edit inbound rules.<br>
 ![1](https://github.com/user-attachments/assets/fe1c170d-4a1e-4cf2-a89c-005bf00e3533)
 
  
-
-Click Add rule.
-
+Click Add rule.<br>
 ![2](https://github.com/user-attachments/assets/e6e62b61-3156-4fee-922e-8c35ebe77610)
 
  
-Click on the drop down.
-
+Click on the drop down.<br>
 ![3](https://github.com/user-attachments/assets/d798675e-5168-4bb8-ac52-41763335fab9)
 
  
 
-Type in RDP to easily find the RDP protocol.
-
+Type in RDP to easily find the RDP protocol.<br>
 ![4](https://github.com/user-attachments/assets/4ab14ca7-b5c6-42d8-b0b7-d771a529faf2)
 
  
 
-Which will allow access on port 3389 and select to Anywhere IPv4.
-
+Which will allow access on port 3389 and select to Anywhere IPv4.<br>
 ![5](https://github.com/user-attachments/assets/a49fd6cb-9031-4427-9680-5b07274a48d1)
 
  
 
-Allowing any source address.
-
+Allowing any source address.<br>
 ![6](https://github.com/user-attachments/assets/a2f179d7-9234-4c44-a83d-1d743dbbacc3)
 
  
-Then Save rules.
-
+Then Save rules.<br>
 ![7](https://github.com/user-attachments/assets/8873d8b1-7502-4e95-a07c-ab0e1262b1a4)
 
-
+<br>
+<br>
  
 
-
-
-
-**Connecting to Amazon EC2**
+## Connecting to Amazon EC2
 
 Here we will connect to our EC2 instances using the secure shell protocol and the RDP protocol. 
 
