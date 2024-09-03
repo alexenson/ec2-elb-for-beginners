@@ -350,15 +350,11 @@ Here we will connect to our EC2 instances using the secure shell protocol and th
 
 Make sure your Windows and Linux instances are running in EC2.
 
-Back in the EC2 management console, I have selected the Linux server.
-
+Back in the EC2 management console, I have selected the Linux server.<br>
 ![1](https://github.com/user-attachments/assets/060d91fc-6eba-402c-ac0c-80fd300e2a43)
 
  
-
-
-We can see that we have a public IP address and a public DNS address as well.
-
+We can see that we have a public IP address and a public DNS address as well.<br>
 ![2](https://github.com/user-attachments/assets/8e90d9e7-4074-49d9-8e98-5a5af6482cab)
 
  
@@ -366,22 +362,17 @@ We can see that we have a public IP address and a public DNS address as well.
 So if we want to, we can use those to connect from the outside world.
 
 Let’s have a look at the varies different ways we can connect.
-If I click on Connect with the instance selected.
-
+If I click on Connect with the instance selected.<br>
 ![3](https://github.com/user-attachments/assets/91b2dc8e-dc9e-4085-96d8-6f887033df1e)
 
 
-
-
-We can now use the EC2 Instance Connect.
-
+We can now use the EC2 Instance Connect.<br>
 ![4](https://github.com/user-attachments/assets/6f6d7060-a481-4be3-bfaf-006bde33ce27)
 
  
 
 Or we can use Session Manager, this is using the Systems Manager service.
-It is one of the features of System Manager. 
-
+It is one of the features of System Manager. <br>
 ![5](https://github.com/user-attachments/assets/710a58ed-8513-45f2-bc18-04fb1e7e68da)
 
 ![6](https://github.com/user-attachments/assets/2cf2d006-face-4c27-955d-8022f989b219)
@@ -390,16 +381,14 @@ It is one of the features of System Manager.
  
  
 Gives us a very secure way of connecting, without opening any ports. 
-We then have the SSH client, if you want to connect from your home computer, this is what you could use.
-
+We then have the SSH client, if you want to connect from your home computer, this is what you could use.<br>
 ![7](https://github.com/user-attachments/assets/7c18b987-5676-49fa-92da-a17a191a2f43)
 
  
 You would need your private key file.
 Earlier we created a Key pair and it downloaded a file to our computer, that's the private key file. 
 It actually gives the full command. The command is ssh –I “then the name of the pem file” that was the file that was downloaded, the key pair. Then ec2-user@ then we have the public DNS name or this could be the public IP address.
-This would be the full command you need to connect from your home computer.
-
+This would be the full command you need to connect from your home computer.<br>
 ![8](https://github.com/user-attachments/assets/30563623-05f7-46da-b1ca-a123ab847f40)
 
  
@@ -409,12 +398,7 @@ It is recommended that if you are using Windows, that you install an SSH client.
 If you are on a Mac for example, you will always have a SSH client installed – same with Linux.
 
 
-
-
-
-
-However, we are going to use the EC2 Instance Connect.
-
+However, we are going to use the EC2 Instance Connect.<br>
 ![1](https://github.com/user-attachments/assets/686c3aa2-c6b0-4785-aaba-27ad602dcdaf)
 
 
@@ -432,19 +416,16 @@ However, our instances have been launched into the default VPC – which by defa
 
 
 
-The username has been specified as ec2-user - which is correct.
-
+The username has been specified as ec2-user - which is correct.<br>
 ![3](https://github.com/user-attachments/assets/fdb9ef67-356e-408f-9ebd-469cd757bc41)
 
  
 
-Then click on Connect.
-
+Then click on Connect.<br>
 ![4](https://github.com/user-attachments/assets/178f91d6-7c9c-47ca-a0b6-27d9025607c7)
 
 
-We are now connected to the command line on my EC2 instance.
-
+We are now connected to the command line on my EC2 instance.<br>
 ![5](https://github.com/user-attachments/assets/cad5bf3b-22d9-4a23-bc3f-4c121b80286b)
 
  
@@ -458,45 +439,32 @@ There are two main things which you need to check.
 
 
 
-
-
-
-
-
-
-Firstly, you do need to have public IP address. 
-
+Firstly, you do need to have public IP address.<br> 
 ![6](https://github.com/user-attachments/assets/e4b98c5b-655a-43f2-a65e-e6bb4d5b77f5)
 
  
 
 Secondly, your instances must have port 22 open in its security group.
-Click on Security, port 22 with the Source, should be all 0s. That is any source address. If you have those two selected then instance connect should work – with the Amazon Linux AMI.
-
+Click on Security, port 22 with the Source, should be all 0s. That is any source address. If you have those two selected then instance connect should work – with the Amazon Linux AMI.<br>
 ![7](https://github.com/user-attachments/assets/db1066d4-3aa1-4819-85bc-1522e975cfde)
 
  
-Now we are free to manage the server from the command line.
-
+Now we are free to manage the server from the command line.<br>
 ![8](https://github.com/user-attachments/assets/636364fb-b0ee-45cd-92d4-d10bfe11a017)
 
  
 
 Next we will move on to Windows.
 
-![9](https://github.com/user-attachments/assets/3b799e25-88fe-4178-b261-35e1fe542ca6)
-
- 
+![9](https://github.com/user-attachments/assets/3b799e25-88fe-4178-b261-35e1fe542ca6)<br>
 For Windows we will select the server and click on connect.
 
-The options are slightly different now.
-
+The options are slightly different now.<br>
 ![1](https://github.com/user-attachments/assets/e5add1a0-883e-4a52-847f-ac93d03ee8be)
 
  
 There is an option for Session Manager – for remote PowerShell on the command line.
-But we will use the RDP (Remote Desktop Protocol) client.
-
+But we will use the RDP (Remote Desktop Protocol) client.<br>
 ![2](https://github.com/user-attachments/assets/10630ef5-9c0f-4399-9ac1-2fe001f4b5d5)
 
  
@@ -505,39 +473,32 @@ For this exercise however, you will need the RDP client (software) on your compu
 If you are using Windows – it is easy – as there is already a RDP client installed. 
 If you are using Mac, then you would have to download an installer. (on the Internet just search for RDP client Mac installer)
 
-What we need to do is to Get password for login. 
-
+What we need to do is to Get password for login.<br> 
 ![3](https://github.com/user-attachments/assets/ba1515df-c91a-41c8-86b6-ed2f7e06f9ef)
 
  
 
-Firstly, however we will copy the Public DNS name. 
-
+Firstly, however we will copy the Public DNS name.<br> 
 ![4](https://github.com/user-attachments/assets/eee0f91e-9a24-42e4-bb06-99eacfe2817f)
 
  
-
-We can see the username is Administrator.
-
+We can see the username is Administrator.<br>
 ![5](https://github.com/user-attachments/assets/ba1836e5-f472-4721-9466-0f8ac32eac3f)
 
  
 
-Now with your remote desktop software, click Add PC.
-
+Now with your remote desktop software, click Add PC.<br>
 ![6](https://github.com/user-attachments/assets/b206d3bf-0342-4a69-99a7-5c0aed893f7d)
  
 ![7](https://github.com/user-attachments/assets/86524ea5-c967-436f-b78f-f107c9adba1d)
 
 
-Enter this as the PC name and click on Add.
-
+Enter this as the PC name and click on Add.<br>
 ![1](https://github.com/user-attachments/assets/2f469ac1-02ec-40f7-8e23-ec647221a0a9)
 
  
 
-What will happen now, it is going to connect and it will ask for the username and password.
-
+What will happen now, it is going to connect and it will ask for the username and password.<br>
 ![2](https://github.com/user-attachments/assets/d827ef69-56d5-40ab-b079-c74ae10855d3)
 
  
@@ -546,15 +507,13 @@ But we need to go and retrieve the password first, so click cancel – till we h
 
 
 
-To retrieve the password, click on Get password.
-
+To retrieve the password, click on Get password.<br>
 ![3](https://github.com/user-attachments/assets/7713f4df-9a87-49a7-b75e-192ed3d4c76f)
 
 ![4](https://github.com/user-attachments/assets/08fe6396-4fa3-48b5-bf04-50926efd30cd)
 
 
-Now we need to upload the private key file.
-
+Now we need to upload the private key file.<br>
 ![5](https://github.com/user-attachments/assets/7485731f-848a-4801-bec4-24931b7f352a)
 
  
@@ -564,26 +523,22 @@ Here I have uploaded my private key file. That is the one you have downloaded pr
 ![6](https://github.com/user-attachments/assets/f74df4a7-8b11-4d4e-8a8d-ff87d2e97640)
 
 
-You can select the file and it going to download all the contents for you. 
-
+You can select the file and it going to download all the contents for you.<br> 
 ![1](https://github.com/user-attachments/assets/be7078e6-badf-413c-a308-d6f3b5c2215c)
 
  
-Then click on Decrypt password.
-
+Then click on Decrypt password.<br>
 ![2](https://github.com/user-attachments/assets/f1f0610f-8ea6-454c-97c1-a2a4edff6f1b)
  
 
-Now we are able to see the password.
-
+Now we are able to see the password.<br>
 ![3](https://github.com/user-attachments/assets/e104b4eb-6859-4c30-8c50-2cd9b4654eec)
 
  
 
 We know the username is Administrator, so copy the password.
 
-Back in the RDP client – we will double click and put in the Administrator username and put in the password.
-
+Back in the RDP client – we will double click and put in the Administrator username and put in the password.<br>
 ![4](https://github.com/user-attachments/assets/04f32b08-42df-4dc1-a55e-3634a51d0d3c)
 
 ![5](https://github.com/user-attachments/assets/02a33a7a-a528-4ae9-8653-e94423522505)
@@ -592,37 +547,29 @@ Back in the RDP client – we will double click and put in the Administrator use
  
 Click continue.
 
-Then continue again.
-
+Then continue again.<br>
 ![6](https://github.com/user-attachments/assets/d6141c23-4732-4675-9ee8-679080f9cfd2)
 
  
 
-This should then connect you to the desktop of the server.
-
+This should then connect you to the desktop of the server.<br>
 ![7](https://github.com/user-attachments/assets/295378b1-bed6-4aae-a98c-486aab1649c1)
 
 ![8](https://github.com/user-attachments/assets/79c5aa44-51fb-45f9-aa0b-ef4124873c39)
 
  
 
-We are being logged into the desktop of a Windows server on AWS.
-
+We are being logged into the desktop of a Windows server on AWS.<br>
 ![9](https://github.com/user-attachments/assets/f341690b-ee7a-467b-9be3-f92bb1abd63c)
 
  
 
-So here we have the Windows desktop, and this server is now ready to administer.
-
+So here we have the Windows desktop, and this server is now ready to administer.<br>
 ![1](https://github.com/user-attachments/assets/98530297-bed2-45be-8511-b0f6ee913f7c)
 
 
 
-
-
-
-As with the Linux server, it needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.
-
+As with the Linux server, it needs to have a certain port open so if it failed, you can go back and check -  by clicking on your Windows server.<br>
 ![2](https://github.com/user-attachments/assets/5b89ce44-3acc-468f-a3ae-a78e6a44bbc1)
 
  
@@ -630,8 +577,7 @@ As with the Linux server, it needs to have a certain port open so if it failed, 
 
 Select Security.
 Make sure that port 3389 is open and the source has to be from anywhere. This is the Remote Desktop Protocol. 
-
-![3](https://github.com/user-attachments/assets/33097f96-ed37-487c-9d27-cd9630965680)
+![3](https://github.com/user-attachments/assets/33097f96-ed37-487c-9d27-cd9630965680)<br>
 
 ![4](https://github.com/user-attachments/assets/782e2f2e-3177-45fe-9837-4c3c9954ec4f)
  
@@ -640,27 +586,23 @@ Make sure that port 3389 is open and the source has to be from anywhere. This is
 We have now launched two virtual servers in the Cloud, running Windows and Linux.
 
 
-In your instances - under instance state (top menu), you can stop or terminate your instances.
-
+In your instances - under instance state (top menu), you can stop or terminate your instances.<br>
 ![5](https://github.com/user-attachments/assets/3fdfb032-3461-44a8-9ab9-23170f07081f)
 
  
 This means that you are not going to pay for the running compute and memory. You will still pay for the storage that is allocated to this server.
 
-You can reboot instances and terminate instances (this essentially deletes them).
-
+You can reboot instances and terminate instances (this essentially deletes them).<br>
 ![6](https://github.com/user-attachments/assets/aeaf9599-d9fb-48f8-83f8-40b7061069ab)
 
 
-When you click terminate, you’ll see that the instance changes to a terminated state quickly.
-
+When you click terminate, you’ll see that the instance changes to a terminated state quickly.<br>
 ![7](https://github.com/user-attachments/assets/640935b6-4a82-468d-a7ae-d1037a82e1d2)
 
  
 It will stay in the console for a while. Don’t worry about it, it will disappear after a little while.
 
-The other thing we can do, in terms of administration, is under Action, there are a variety of settings.
-
+The other thing we can do, in terms of administration, is under Action, there are a variety of settings.<br>
 ![8](https://github.com/user-attachments/assets/cd53da76-ff06-4398-a7b9-614b1d88fe7f)
 
 <br>
@@ -676,40 +618,36 @@ Instead, what we can do is we can utilise IAM roles.  Roles have policies assign
 ![2](https://github.com/user-attachments/assets/8ce56d01-b4cd-4498-9f62-4509b212a282)
 
 <br>
+<br>
 
-**Practice with Access Keys and IAM Roles**
+## Practice with Access Keys and IAM Roles
 
-We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console, back in the console -I still have a Linux server running has a public IP address and I'm able to connect to this instance.
-
+We're going to work with Access keys and IAM roles on Amazon EC2 instances. So let's head over to the console, back in the console - I still have a Linux server running has a public IP address and I'm able to connect to this instance.<br>
 ![1](https://github.com/user-attachments/assets/e7a24c73-da97-42dd-b7a8-880e7e7eea94)
 
 
-So let's go ahead and connect using EC2 Instance Connect. 
-
+So let's go ahead and connect using EC2 Instance Connect.<br> 
 ![2](https://github.com/user-attachments/assets/027c1cb4-ab26-4147-856c-23889d7a2cbd)
 
 ![3](https://github.com/user-attachments/assets/880d00f0-1a08-43e8-93fb-bc93619fa329)
  
 
-So I'm now logged into the console. I can run commands on Windows.
-
+So I'm now logged into the console. I can run commands on Windows.<br>
 ![4](https://github.com/user-attachments/assets/fd4e30b2-d42e-48d7-afae-38ebd7b8d9f2)
 
 
 
-Now, the great thing about the Amazon Linux 2023 AMI or one of the great things is it has the AWS command line interface already installed. So I can run commands like aws s3 ls. 
-
+Now, the great thing about the Amazon Linux 2023 AMI or one of the great things is it has the AWS command line interface already installed. So I can run commands like aws s3 ls. <br>
 ![5](https://github.com/user-attachments/assets/0c1db074-a89c-4220-8a6a-819c20babdee)
 
  
 
-But when I do so, I get this message unable to locate credentials. You can configure credentials by running aws configure. So it basically means we do not have any permissions. That makes sense. Even though I have permissions under my user account.  Linux, the operating system does not have any permissions. That's a good thing. We don't want it to inherit permissions from us. In fact, we're actually logged in as a user called EC2 user. That user account does not have too many permissions on Linux. Certainly doesn't have any permissions to any AWS services. So, what we need to do is supply those permissions. Now, there's two ways of doing that. One is through access keys. That's when we use the AWS configure, the other is an IAM role. So let's head over to the IAM service and open that up in a new tab.
-
+But when I do so, I get this message unable to locate credentials. You can configure credentials by running aws configure. So it basically means we do not have any permissions. That makes sense. Even though I have permissions under my user account.  Linux, the operating system does not have any permissions. That's a good thing. We don't want it to inherit permissions from us. In fact, we're actually logged in as a user called EC2 user. That user account does not have too many permissions on Linux. Certainly doesn't have any permissions to any AWS services. So, what we need to do is supply those permissions. Now, there's two ways of doing that. One is through access keys. That's when we use the AWS configure, the other is an IAM role. So let's head over to the IAM service and open that up in a new tab.<br>
 ![6](https://github.com/user-attachments/assets/66c5976d-7fc7-4aef-a624-94d5af02a719)
 
  
 
-And what I need to do, to get some access keys. 
+And what I need to do, to get some access keys.<br>
 
 ![7](https://github.com/user-attachments/assets/ffe80158-de1a-48e9-9154-b18c1b272b80)
 
@@ -725,8 +663,7 @@ I'm going to click on users, choose my user account, go to security credentials 
 
  
 
-I'm going to choose Command Line Interface (CLI) as the use case. 
-
+I'm going to choose Command Line Interface (CLI) as the use case. <br>
 ![4](https://github.com/user-attachments/assets/d307664f-9f50-4d02-9fb7-22042688fe21)
 
  
@@ -737,65 +674,54 @@ And straight away you can see there's a bit of a warning here. There's better wa
 
  
 
-Now this information is displayed to you now.
-
+Now this information is displayed to you now.<br>
 ![6](https://github.com/user-attachments/assets/471939eb-72b5-4586-a28e-74a9a1216449)
 
  
 
 You can retrieve the access key later on. You can only retrieve the secret access key now and optionally you can download it. This is very important information. This is essentially like a user name and password. Because anyone with this access key and secret access key are able to perform API actions in your account and they will inherit your user permissions. So very dangerous. Watch out for that. 
-Now, I'm going to copy the access key come back to the server and I'm going to run that AWS configure command. 
-
+Now, I'm going to copy the access key come back to the server and I'm going to run that AWS configure command. <br>
 ![7](https://github.com/user-attachments/assets/5c796df0-b4b3-4913-b7f6-0e662d29e3e8)
 
  
-It's now going to ask me for the access key ID, I'll paste it in. 
-
+It's now going to ask me for the access key ID, I'll paste it in. <br>
 ![8](https://github.com/user-attachments/assets/6d723c3d-716c-4c52-900e-e036f73218fe)
 
 
- It's going to ask for the secret access key.
-
- ![9](https://github.com/user-attachments/assets/99137df9-710f-438f-9aa4-429e3e38ae9a)
+It's going to ask for the secret access key.<br>
+![9](https://github.com/user-attachments/assets/99137df9-710f-438f-9aa4-429e3e38ae9a)
 
  
 
-I'm going to copy that come back, paste it in and then it wants the region name or the default region.
-
+I'm going to copy that come back, paste it in and then it wants the region name or the default region.<br>
 ![1](https://github.com/user-attachments/assets/ea91a182-ae53-4329-85dc-b482c072c69f)
 
  
-I'm going to set mine to us-east-1 with dashes in between and press enter and enter again. So now let's try and rerun that command from earlier aws s3 ls and no response there. That actually means that we didn't get an error. That's good news. So that just means we now have permissions. In fact, I can run a service like aws s3 mb to make a bucket. 
-
+I'm going to set mine to us-east-1 with dashes in between and press enter and enter again. So now let's try and rerun that command from earlier aws s3 ls and no response there. That actually means that we didn't get an error. That's good news. So that just means we now have permissions. In fact, I can run a service like aws s3 mb to make a bucket. <br>
 ![2](https://github.com/user-attachments/assets/0b2175d5-c5d9-4eda-a035-ad0263b2a3b7)
 
  
-This will create a container. I'll call it my bucket and then make it unique with a bunch of random characters that creates a bucket which is basically like a folder that you can store data into. So now when I rerun that command, it actually comes back with a response and it shows me the buckets in my account. 
-
+This will create a container. I'll call it my bucket and then make it unique with a bunch of random characters that creates a bucket which is basically like a folder that you can store data into. So now when I rerun that command, it actually comes back with a response and it shows me the buckets in my account. <br>
 ![3](https://github.com/user-attachments/assets/95538627-7e19-4f79-b974-f77b778debc0)
 
  
-So that's just proven that we now have access to AWS services. Sounds good. However, there are some security problems here. If I change directory to this weird directory path, we can see and by the way that's the ~/.aws. And now we can see these two files, config and credentials. Interesting. What's in those? I'm going to use the cat utility. So cat config and in here we can see some of that information I entered when I ran aws configure, the default region that we specified. But what about the other one, cat credentials. Now I can see my access key and my secret access key. Remember, this is highly sensitive information. It's there on the hard drive of this computer. 
-
+So that's just proven that we now have access to AWS services. Sounds good. However, there are some security problems here. If I change directory to this weird directory path, we can see and by the way that's the ~/.aws. And now we can see these two files, config and credentials. Interesting. What's in those? I'm going to use the cat utility. So cat config and in here we can see some of that information I entered when I ran aws configure, the default region that we specified. But what about the other one, cat credentials. Now I can see my access key and my secret access key. Remember, this is highly sensitive information. It's there on the hard drive of this computer. <br>
 ![4](https://github.com/user-attachments/assets/d6468dfe-22ca-4e3f-8f00-68c4f38644f0)
 
  
 
-It's there in plain text for anyone who can get into this user account. If there was some kind of compromise of the server and they found this, they've now compromised your entire AWS account. So it's not really very good. Here's what I'm going to do. I'm going to change directory up a level.  
-
+It's there in plain text for anyone who can get into this user account. If there was some kind of compromise of the server and they found this, they've now compromised your entire AWS account. So it's not really very good. Here's what I'm going to do. I'm going to change directory up a level.  <br>
 ![5](https://github.com/user-attachments/assets/aa391d1a-bb3f-4345-b68b-da3433d8fe11)
 
  
 
-So now we've got those two commands. Let me just clear screen. So now I'm back in my user directory. I am going to run rm –rf ~/.aws/*. So that has removed those credentials. Let's rerun aws s3 ls. 
-
+So now we've got those two commands. Let me just clear screen. So now I'm back in my user directory. I am going to run rm –rf ~/.aws/*. So that has removed those credentials. Let's rerun aws s3 ls. <br>
 ![1](https://github.com/user-attachments/assets/f823a513-52d4-46ff-a49c-9eb78a17c6c2)
 
 
 
 
-No credentials. They're gone. Now, let's do it the better way. Let's go back to IAM and we're going to use a role. Now, I've actually shown you my access keys, which is not very secure of course. Because that's very sensitive information. So what we can do with our access keys is we can always deactivate them and after you've deactivated them, you can delete them. 
- 
+No credentials. They're gone. Now, let's do it the better way. Let's go back to IAM and we're going to use a role. Now, I've actually shown you my access keys, which is not very secure of course. Because that's very sensitive information. So what we can do with our access keys is we can always deactivate them and after you've deactivated them, you can delete them. <br>
 ![2](https://github.com/user-attachments/assets/0d629ddb-d961-4d6a-b486-4673a2e967c2)
 
 ![3](https://github.com/user-attachments/assets/7b3aa54f-7294-4348-b33e-be9c86d3ec6d)
@@ -811,51 +737,43 @@ No credentials. They're gone. Now, let's do it the better way. Let's go back to 
 
 
  
-So now it's no use to anyone. So let's just copy this into the confirmation delete. Now, my account is secure again. 
-
+So now it's no use to anyone. So let's just copy this into the confirmation delete. Now, my account is secure again. <br>
 ![8](https://github.com/user-attachments/assets/9129c402-cf1e-4a24-80aa-459c79cdca5b)
 
 <br>
 <br>
 
-So let's go to roles. 
-
+So let's go to roles.<br> 
 ![9](https://github.com/user-attachments/assets/e71766c7-376d-4c79-9d3d-23c4f36510bd)
 
  
 
-We're going to create a role for EC2 and here we're going to choose the AWS service this time. 
- 
+We're going to create a role for EC2 and here we're going to choose the AWS service this time. <br>
 ![1](https://github.com/user-attachments/assets/665bdb38-41cb-46be-afb6-a63e0fd82d70)
 
 
 <br>
 
 
-So under use case with AWS service selected, I'm going to type EC2, choose EC2 and then I'll leave the default option. 
-
+So under use case with AWS service selected, I'm going to type EC2, choose EC2 and then I'll leave the default option. <br>
 ![2](https://github.com/user-attachments/assets/f370ba73-541a-4d7c-a85e-9434b32b70f9)
 
  
 
-Click on next. 
-
+Click on next. <br>
 ![3](https://github.com/user-attachments/assets/0c66758c-07d8-465a-a221-c37fc5acd59a)
 
  
-Now, I need to supply some permissions. Let's provide AmazonS3ReadOnlyAccess. 
- 
+Now, I need to supply some permissions. Let's provide AmazonS3ReadOnlyAccess. <br>
 ![4](https://github.com/user-attachments/assets/b2d8ca0b-cf73-42d4-9c43-842f99588dc2)
 
 
 
-It's a useful permission to have. I'll call this one S3ReadOnly and then it's just scroll down. 
-
+It's a useful permission to have. I'll call this one S3ReadOnly and then it's just scroll down. <br>
 ![5](https://github.com/user-attachments/assets/eef749cb-ae79-4115-88c0-9c0e72026c79)
 
 
-We can see a couple of things here. 
-
+We can see a couple of things here. <br>
 ![6](https://github.com/user-attachments/assets/b0fec38f-5129-455f-91ef-e3e6587fd081)
 
  
@@ -864,35 +782,30 @@ So the trust policy is very important. Remember, the trust policy with a role de
 ![7](https://github.com/user-attachments/assets/8e5cf270-2386-45d9-909d-c24a5f1d3783)
 
  
-So let's create the role that's done. 
- 
+So let's create the role that's done. <br>
 ![8](https://github.com/user-attachments/assets/af282df7-91e1-4ba2-b375-88693e9f7a0c)
 
 ![9](https://github.com/user-attachments/assets/c0b464a5-3bf2-4a03-a446-9d6e61907d77)
  
 
 
-Now, we need to go back to EC2. Select the instance, go to Actions, Security and Modify IAM role.
-
+Now, we need to go back to EC2. Select the instance, go to Actions, Security and Modify IAM role.<br>
 ![1](https://github.com/user-attachments/assets/1ed7f1c3-33b2-47e1-bb33-26ee7f66a0fd)
 
  
 
-Now, the roles that appear here are the ones that have that trust policy. 
-
+Now, the roles that appear here are the ones that have that trust policy. <br>
 ![2](https://github.com/user-attachments/assets/5296ed70-090a-4838-89c9-b86c34a2f14e)
 
  
-So we've just got the one at the moment S3ReadOnly. Choose that option, select update IAM role and that's done. 
-
+So we've just got the one at the moment S3ReadOnly. Choose that option, select update IAM role and that's done. <br>
 ![3](https://github.com/user-attachments/assets/177ed9d6-c9b6-4e80-a66e-c34e2f36f241)
 
 ![4](https://github.com/user-attachments/assets/50fba843-e5d8-42ee-85eb-8951d57a2aa5)
 
  
 
-That should take instant effect. Let's rerun that command and now we get our bucket returned. 
-
+That should take instant effect. Let's rerun that command and now we get our bucket returned. <br>
 ![1](https://github.com/user-attachments/assets/32645bf9-1394-41df-9b0f-a9225d75cf62)
 
  
