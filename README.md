@@ -576,8 +576,8 @@ As with the Linux server, it needs to have a certain port open so if it failed, 
 
 
 Select Security.
-Make sure that port 3389 is open and the source has to be from anywhere. This is the Remote Desktop Protocol. 
-![3](https://github.com/user-attachments/assets/33097f96-ed37-487c-9d27-cd9630965680)<br>
+Make sure that port 3389 is open and the source has to be from anywhere. This is the Remote Desktop Protocol. <br>
+![3](https://github.com/user-attachments/assets/33097f96-ed37-487c-9d27-cd9630965680)
 
 ![4](https://github.com/user-attachments/assets/782e2f2e-3177-45fe-9837-4c3c9954ec4f)
  
