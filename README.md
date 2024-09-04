@@ -883,8 +883,10 @@ After that we will create the index.html file. This is the web page that will be
 
 
 And finally, this line of code, which we will see on the page:
-<div>This instance is located in Availability Zone: $AZ</div>
+*<div>This instance is located in Availability Zone: $AZ</div>*
 This instance is located in Availability Zone and $AZ is going to resolve to the availability zone of the instance. It will let us know which availability zone the instance is in.
+<br>
+<br>
 
 
 So copy all this code:
