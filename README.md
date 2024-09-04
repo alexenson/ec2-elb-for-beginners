@@ -882,8 +882,8 @@ After that we will create the index.html file. This is the web page that will be
 
 
 
-And finally, this line of code, which we will see on the page:
-*<div>This instance is located in Availability Zone: $AZ</div>*
+And finally, this line of code, which we will see on the page:<br>
+![Capture](https://github.com/user-attachments/assets/88c99297-b49c-47c0-99cc-3a386cea7f27)
 This instance is located in Availability Zone and $AZ is going to resolve to the availability zone of the instance. It will let us know which availability zone the instance is in.
 <br>
 <br>
