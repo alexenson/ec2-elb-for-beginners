@@ -871,13 +871,13 @@ In this case it is going to identify the availability zone the instance is in an
 
 After that we will create the index.html file. This is the web page that will be displayed when we visit the particular instance.
 
-# Create the index.html file<br>
+## Create the index.html file <br>
 ![Capture](https://github.com/user-attachments/assets/136487da-c431-4630-a38a-0b94e6ba5baa)
 <br<
 <br>
 
 
-Here we are setting some colour and formatting.<br>
+Here we are setting some colour and formatting. <br>
 ![Capture](https://github.com/user-attachments/assets/ad0b2c5d-c7ad-44bd-8181-47441a89a7ac)
 
 
