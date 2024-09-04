@@ -873,7 +873,7 @@ After that we will create the index.html file. This is the web page that will be
 
 ## Create the index.html file <br>
 ![Capture](https://github.com/user-attachments/assets/136487da-c431-4630-a38a-0b94e6ba5baa)
-<br<
+<br>
 <br>
 
 
