@@ -608,7 +608,7 @@ The other thing we can do, in terms of administration, is under Action, there ar
 <br>
 <br>
 
-**Access Keys and IAM Roles with EC2**
+## Access Keys and IAM Roles with EC2
 
 I'm going to talk about Access Keys and IAM roles. Two different ways that we can actually supply permissions to Amazon EC2 instances.   Here we have an instance in a public subnet and AWS CLI has been configured with access keys, because we want to work with a S3 bucket from the command line on this particular instance. Now the actual access keys are associated with an account. So whichever account created the access keys, that's the account they're associated with and they pick up the permissions assigned to any permissions policies assigned to that IAM user. So essentially through this IAM user, we've created access keys, we've configured the command line interface on the instance with those access keys. So now whatever commands we run on that instance, will have the same permissions as that user would have. So now we've found a way to give our instance permissions.  Problem is when we use access keys, these are long term credentials and we want to try and avoid using them as much as possible. Because if they're compromised and someone gets access to those keys, they get access essentially to our account.  And they are actually stored in plain text on the actual instance itself. So not really the most secure configuration.  
 ![1](https://github.com/user-attachments/assets/da742aac-8693-4ce9-b235-12e504d720a0)
