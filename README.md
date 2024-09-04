@@ -871,30 +871,11 @@ In this case it is going to identify the availability zone the instance is in an
 
 After that we will create the index.html file. This is the web page that will be displayed when we visit the particular instance.
 
-# Create the index.html file
-cat > /var/www/html/index.html <<EOF
-<html>
-<head>
-    <title>Instance Availability Zone</title>
-    <style>
-        body {
-            background-color: #6495ED; /* Cornflower Blue - a darker shade */
-            color: white;
-            font-size: 36px; /* Significantly larger text */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <div>This instance is located in Availability Zone: $AZ</div>
-</body>
-</html>
-EOF
+# Create the index.html file<br>
+![Capture](https://github.com/user-attachments/assets/136487da-c431-4630-a38a-0b94e6ba5baa)
+<br<
+<br>
+
 
 Here we are setting some colour and formatting.
 <style>
