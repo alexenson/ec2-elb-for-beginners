@@ -877,7 +877,7 @@ After that we will create the index.html file. This is the web page that will be
 <br>
 
 
-Here we are setting some colour and formatting. <br>
+**Here we are setting some colour and formatting.** <br>
 ![Capture](https://github.com/user-attachments/assets/ad0b2c5d-c7ad-44bd-8181-47441a89a7ac)
 
 
