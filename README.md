@@ -900,7 +900,8 @@ Go the AWS console under EC2 and click Launch instances.<br>
 
  
 
-We will name the instance WebServer.
+We will name the instance WebServer.<br>
+![1](https://github.com/user-attachments/assets/ac3aa853-e670-4264-bf7d-db9ef59b7dda)
  
 
 
