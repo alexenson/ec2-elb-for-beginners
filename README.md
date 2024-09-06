@@ -979,8 +979,10 @@ Type HTTP.
 We will choose HTTP as we do not have a certificate for HTTPS - which is the encrypted version.<br>
 ![2](https://github.com/user-attachments/assets/c6e49990-b962-4baf-9156-aa6bc4fe24f0)
  
+<br>
 
-We want to enable access from anywhere, because we want people on the Internet to be able to connect to our web server. 
+We want to enable access from anywhere, because we want people on the Internet to be able to connect to our web server.<br>
+![3](https://github.com/user-attachments/assets/121c0e97-827f-4a0d-a341-c18c1bb09065)
  
 
  
