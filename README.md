@@ -921,8 +921,8 @@ For Network settings we will select one of the existing security groups. The Web
 We will adjust the rules on that security group shortly.
 
 
-Scroll down to Advanced details and expand it.
- 
+Scroll down to Advanced details and expand it.<br>
+![6](https://github.com/user-attachments/assets/ed3637e6-73f4-4f2c-93f0-e23141d2272e)<br>
 Scroll all the way to the bottom of the page.
 
 
