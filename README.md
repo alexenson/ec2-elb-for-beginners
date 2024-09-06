@@ -912,7 +912,8 @@ It will be a t2.micro instance type as it falls under the free tier.<br>
 ![3](https://github.com/user-attachments/assets/fa3a436c-2ae5-4e34-93e1-42688b5c27bd)
  
 
-We don’t need a Key pair.
+We don’t need a Key pair.<br>
+![4](https://github.com/user-attachments/assets/1c593c31-1924-4dc4-8b7a-576691dcaa63)
  
 
 
