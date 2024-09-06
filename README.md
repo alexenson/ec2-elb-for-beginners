@@ -958,7 +958,9 @@ We have these two ports open for management but we don’t have port 80 open, wh
 
  
 
-So click on the security group.
+So click on the security group.<br>
+![6](https://github.com/user-attachments/assets/1d96ba50-5efd-4d18-96d8-70924176c2be)
+
  
 
 For inbound rules click Edit Inbound rules.
