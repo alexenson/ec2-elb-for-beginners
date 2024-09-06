@@ -943,7 +943,8 @@ Then we are going to launch the instance.<br>
 The code is going to run as the instance boots. 
 
 
-Now we need to go and check the security group, as mentioned earlier.
+Now we need to go and check the security group, as mentioned earlier.<br>
+![3](https://github.com/user-attachments/assets/9e3cd12b-ce60-4876-a0b7-17343c30ff29)
  
 
 
