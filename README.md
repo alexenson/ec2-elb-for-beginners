@@ -904,8 +904,8 @@ We will name the instance WebServer.<br>
 ![1](https://github.com/user-attachments/assets/ac3aa853-e670-4264-bf7d-db9ef59b7dda)
  
 
-
-We will use the Amazon Linux AMI.
+We will use the Amazon Linux AMI.<br>
+![2](https://github.com/user-attachments/assets/729d5841-6f73-4909-9c0b-5181971bfd28)
  
 
 It will be a t2.micro instance type as it falls under the free tier.
