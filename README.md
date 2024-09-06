@@ -927,16 +927,10 @@ Scroll all the way to the bottom of the page.
 
 
 
+This is where we can enter the user data. All I have to do is paste my user data in here.<br>
+![7](https://github.com/user-attachments/assets/de3be2a3-59fb-42de-9a0e-b9ddbb8633c9)
 
 
-
-
-
-
-
-
-
-This is where we can enter the user data. All I have to do is paste my user data in here.
  
 
  
