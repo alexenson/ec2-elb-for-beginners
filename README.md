@@ -917,7 +917,7 @@ We don’t need a Key pair.<br>
  
 
 For Network settings we will select one of the existing security groups. The WebAccess group.<br>
-![5](https://github.com/user-attachments/assets/54a0073c-d96e-4946-9efe-4d27b1a2b3b8)
+![5](https://github.com/user-attachments/assets/54a0073c-d96e-4946-9efe-4d27b1a2b3b8)<br>
 We will adjust the rules on that security group shortly.
 
 
