@@ -933,8 +933,8 @@ This is where we can enter the user data. All I have to do is paste my user data
 ![8](https://github.com/user-attachments/assets/8cf94e05-0c8b-4740-a5e3-e21e6185d3aa)
 
  
-
- Then we are going to launch the instance.
+Then we are going to launch the instance.<br>
+![1](https://github.com/user-attachments/assets/6cd9385b-eefe-44a4-89b8-360ea3038a59)
  
 
  
