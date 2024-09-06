@@ -976,7 +976,8 @@ Then click Add rule.<br>
 Custom<br>
 ![1](https://github.com/user-attachments/assets/6d5073db-6962-4612-880d-e60557f9339c)<br>
 Type HTTP. 
-We will choose HTTP as we do not have a certificate for HTTPS - which is the encrypted version.
+We will choose HTTP as we do not have a certificate for HTTPS - which is the encrypted version.<br>
+![2](https://github.com/user-attachments/assets/c6e49990-b962-4baf-9156-aa6bc4fe24f0)
  
 
 We want to enable access from anywhere, because we want people on the Internet to be able to connect to our web server. 
