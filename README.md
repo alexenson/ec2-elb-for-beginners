@@ -969,7 +969,9 @@ For inbound rules click Edit Inbound rules.<br>
 ![8](https://github.com/user-attachments/assets/57aa985c-2421-4ed1-860f-b58ec0f8fca4)
 
 
-Then click Add rule.
+Then click Add rule.<br>
+![9](https://github.com/user-attachments/assets/a2cca362-ac2e-4b79-ae7d-904dcafd6cb0)
+
  
 
 Custom
