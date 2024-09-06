@@ -991,8 +991,8 @@ Then click Save rules.<br>
 
  
 
- 
-Now we have set up the rules correctly for access.
+Now we have set up the rules correctly for access.<br>
+![5](https://github.com/user-attachments/assets/5d0b94fe-73dc-4b85-b8ee-1c2faa383b30)
 
 
 
