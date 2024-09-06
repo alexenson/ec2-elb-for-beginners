@@ -973,9 +973,8 @@ Then click Add rule.<br>
 ![9](https://github.com/user-attachments/assets/a2cca362-ac2e-4b79-ae7d-904dcafd6cb0)
 
  
-
-Custom
- 
+Custom<br>
+![1](https://github.com/user-attachments/assets/6d5073db-6962-4612-880d-e60557f9339c)<br>
 Type HTTP. 
 We will choose HTTP as we do not have a certificate for HTTPS - which is the encrypted version.
  
