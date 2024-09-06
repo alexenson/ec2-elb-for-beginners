@@ -963,16 +963,10 @@ So click on the security group.<br>
 
  
 
-For inbound rules click Edit Inbound rules.
+For inbound rules click Edit Inbound rules.<br>
+![7](https://github.com/user-attachments/assets/dca91584-2563-4764-942c-5791b28512a4)
  
 
-
-
-
-
-
-
- 
 
 Then click Add rule.
  
