@@ -948,10 +948,9 @@ Now we need to go and check the security group, as mentioned earlier.<br>
  
 
 
+So select your WebServer and go to Security.<br>
+![4](https://github.com/user-attachments/assets/fb0f66e7-e3be-48fb-bb02-462d1918a104)
 
-
-
-So select your WebServer and go to Security.
  
 
 We have these two ports open for management but we don’t have port 80 open which is what we need for a website. 
