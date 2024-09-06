@@ -986,7 +986,9 @@ We want to enable access from anywhere, because we want people on the Internet t
  
 
  
-Then click Save rules.
+Then click Save rules.<br>
+![4](https://github.com/user-attachments/assets/96c3ec22-8203-48ad-ae42-14198c6d4190)
+
  
 
  
