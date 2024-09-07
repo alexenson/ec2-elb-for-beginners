@@ -1030,16 +1030,13 @@ That’s fine, you can do that, but it won’t run again anyway. It only runs th
 
 We can scroll and see the user data that is being run on the system.
 
-As we have finished with our instance, remember to terminate it.
+As we have finished with our instance, remember to terminate it.<br>
+![7](https://github.com/user-attachments/assets/ec31a27d-b1cc-4114-a4df-3f7e51f0daa1)
  
 
- 
 
 
-
-
-
-Amazon EC2 Auto Scaling
+## Amazon EC2 Auto Scaling
 
 I'm going to cover Amazon EC2, auto scaling. Auto scaling is a really important service for maintaining the availability and automatic scaling of our EC2 instances. What it does is it will automatically launch or terminate instances based on whether the instance needs to be replaced or potentially you need to increase or decrease the capacity of your cluster. So you get to maintain the availability of your application and then scale it in response to certain things like changes in demand. It works with many different services. So we have EC2, it's actually launching and terminating EC2 instances, the Elastic Container Service (ECS) where it can be used to launch or terminate the nodes on which the actual containers run and the same for the Elastic Kubernetes Service (EKS) as well. It integrates with quite a few different AWS services. A few of the important ones are firstly CloudWatch for monitoring and scaling. Your instances are constantly sending information to CloudWatch and that can be information such as metrics on the CPU utilisation, that information can be utilised by auto scaling to determine whether it needs to scale the cluster out or in, so adding more nodes or terminating nodes. We've got Elastic Load Balancing for distribution of connections. If you're automatically scaling your instances. So auto scaling is adding instances to the deployment, then you want to make sure that the load balancer knows about that so it can send incoming connections. So there's an integration there between the ASG the Auto Scaling Group and the load balancer. And EC2 spot instances for cost optimisation. Amazon VPC of course, because we want the EC2 auto scaling group to deploy the instances within a VPC and across availability zones. 
  
