@@ -1033,7 +1033,8 @@ We can scroll and see the user data that is being run on the system.
 As we have finished with our instance, remember to terminate it.<br>
 ![7](https://github.com/user-attachments/assets/ec31a27d-b1cc-4114-a4df-3f7e51f0daa1)
  
-
+<br>
+<br>
 
 
 ## Amazon EC2 Auto Scaling
