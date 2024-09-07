@@ -1002,8 +1002,9 @@ Hopefully the code has run already, so let’s go over to the public IPv4 addres
 
  
 
+Open a new browser window and paste address into the URL.<br>
+![2](https://github.com/user-attachments/assets/89fef89c-c726-42f7-9059-3c98bdec0e10)
 
-Open a new browser window and paste address into the URL.
  
 
 It is working correctly.
