@@ -997,11 +997,9 @@ Now we have set up the rules correctly for access.<br>
 
 
 
+Hopefully the code has run already, so let’s go over to the public IPv4 address, copy the address.<br>
+![1](https://github.com/user-attachments/assets/2980e146-9f5a-4443-a785-a804a35843f8)
 
-
-
-
-Hopefully the code has run already, so let’s go over to the public IPv4 address, copy the address.
  
 
 
