@@ -1008,9 +1008,7 @@ Open a new browser window and paste address into the URL.<br>
  
 
 It is working correctly.<br>
-![3](https://github.com/user-attachments/assets/d8bdf8dc-20c3-4e9e-a042-cb8e9860e85c)
-
- 
+![3](https://github.com/user-attachments/assets/d8bdf8dc-20c3-4e9e-a042-cb8e9860e85c)<br>
 We can see a message on the screen saying the instance is located in Availability Zone: us-east-1d
 
 
