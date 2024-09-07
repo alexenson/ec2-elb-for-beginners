@@ -1013,14 +1013,9 @@ We can see a message on the screen saying the instance is located in Availabilit
 
 
 
+We can always validate on the Networking page.<br>
+![4](https://github.com/user-attachments/assets/74c67059-ed02-42fa-99a5-c12248606d0f)
 
-
-
-
-
-
-
-We can always validate on the Networking page.
  
 
 So the code is working exactly as expected. It has gone through and run the code as the system launches.
