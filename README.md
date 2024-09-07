@@ -1020,7 +1020,9 @@ We can always validate on the Networking page.<br>
 
 So the code is working exactly as expected. It has gone through and run the code as the system launches.
 
-If you want to view the user data associated with an instance. You can click on Action > Instance settings > Edit user data.
+If you want to view the user data associated with an instance. You can click on Action > Instance settings > Edit user data.<br>
+![5](https://github.com/user-attachments/assets/987b146f-13f4-4a39-8f79-803d802dc614)
+
  
 
  
