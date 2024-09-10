@@ -1089,10 +1089,7 @@ AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/met
 
 
 
-
-
-
-So I'm going to copy all of this user data. This is going to be used for our launch template so that all of our instances will, which will be across different availability zones will have a slightly different webpage that tells us which availability zone they are actually deployed into. Now back in the EC2 management console. The first thing I need to do is create something called a launch template. 
+So I'm going to copy all of this user data. This is going to be used for our launch template so that all of our instances, which will be across different availability zones will have a slightly different webpage that tells us which availability zone they are actually deployed into. Now back in the EC2 management console. The first thing I need to do is create something called a launch template. 
  
 
 The Auto Scaling Group uses the launch template. 
