@@ -1084,7 +1084,7 @@ Code:<br>
 
 
 
-Now this user data is going to install the Apache web server and it's going to set a custom web page which tells us which availability zone the instance is in based on a variable that we set in the middle of the code here. 
+Now this user data is going to install the Apache web server and it's going to set a custom web page which tells us which availability zone the instance is in based on a variable that we set in the middle of the code here. <br>
 AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/meta-data/placement/availability-zone`
 
 
