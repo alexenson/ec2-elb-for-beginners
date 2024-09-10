@@ -1067,29 +1067,8 @@ A few more key facts - so health checks, these are really important. We've got t
 
 
 
-So we have different types of Auto Scaling. We've got manual that just means you're going in and manually making changes to the ASG size. So the number of instances you want deployed in the Auto Scaling Group or we have dynamic and that automatically scales based on demand - so now we're looking at those CloudWatch metrics. There's something called predictive as well, which uses machine learning to predict what it thinks is going to happen based on what it's seen in the past. And then lastly, you got scheduled where you're scaling based on a schedule that you define. So when you expect you're going to need more or less capacity.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+So we have different types of Auto Scaling. We've got manual that just means you're going in and manually making changes to the ASG size. So the number of instances you want deployed in the Auto Scaling Group or we have dynamic and that automatically scales based on demand - so now we're looking at those CloudWatch metrics. There's something called predictive as well, which uses machine learning to predict what it thinks is going to happen based on what it's seen in the past. And then lastly, you got scheduled where you're scaling based on a schedule that you define. So when you expect you're going to need more or less capacity.<br>
+![7](https://github.com/user-attachments/assets/016bc605-3220-4838-b4a0-c27ca75353ed)
 
 
 
