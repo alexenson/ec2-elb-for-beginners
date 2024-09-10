@@ -1052,26 +1052,8 @@ So let's have a look at what it looks like in a nice diagram here. So here we ha
 
  
 
-
-With auto scaling, the scaling is horizontal, we're scaling out. So we're adding instances or we're terminating instances. So it's providing both elasticity and scalability. Elasticity is the scaling out. But then elastic means that it's able to scale back in again as well. So we're not just adding capacity. We're removing it when we no longer need it. Auto Scaling will respond to EC2 status checks as well as CloudWatch metrics. And it can scale based on demand so the performance or we can do it on a schedule instead. So we can say, well, we know that we're going to need more capacity at a certain point in time, maybe 9 a.m. on a Monday morning when people are starting to utilise the application more. So we can scale on a schedule ahead of that point in time to make sure we've got the capacity if we want to. And it's scaling policies that we create, which define how the auto scaling group will change to demand based on those metrics or based on schedules. 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+With Auto Scaling, the scaling is horizontal, we're scaling out. So we're adding instances or we're terminating instances. So it's providing both elasticity and scalability. Elasticity is the scaling out. But then elastic means that it's able to scale back in again as well. So we're not just adding capacity. We're removing it when we no longer need it. Auto Scaling will respond to EC2 status checks as well as CloudWatch metrics. And it can scale based on demand so the performance or we can do it on a schedule instead. So we can say, well, we know that we're going to need more capacity at a certain point in time, maybe 9 a.m. on a Monday morning when people are starting to utilise the application more. So we can scale on a schedule ahead of that point in time to make sure we've got the capacity if we want to. And it's scaling policies that we create, which define how the auto scaling group will change to demand based on those metrics or based on schedules. <br>
+![4](https://github.com/user-attachments/assets/3d8a4b00-0681-4884-a96a-103085f3c409)
 
 
 
