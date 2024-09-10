@@ -1062,22 +1062,8 @@ So let's have a look at the config. We have something called a Launch Template. 
  
 
 
-A few more key facts - so health checks, these are really important. We've got the EC2 health checks that the Auto Scaling group makes. That's essentially an integration into the EC2 status checks. So it's looking at what's coming through from the EC2 status checks. Is the system OK, or is it impaired in some way. We've then got the ELB health checks. These are used in addition to the EC2 status checks. And this just means that we're also able to receive information in the Auto Scaling Group about what the Load Balancer that is seeing happening. So the Load Balancer is also doing its health checks to the instances. If they fail, it's going to report that information back to Auto Scaling. So it knows that it should terminate and restart that instance. We've got something called a health check grace period. This is how long to wait before checking the health of an instance. So we don't want the health check to start too quickly. If for example, we're running some kind of bootstrap scripts or we're installing some applications and maybe the application's not quite ready yet. So we can give a little bit of a grace period to allow the system to come up once it's been launched and become operational. So Auto Scaling doesn't act on health checks until that period expires. 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A few more key facts - so health checks, these are really important. We've got the EC2 health checks that the Auto Scaling group makes. That's essentially an integration into the EC2 status checks. So it's looking at what's coming through from the EC2 status checks. Is the system OK, or is it impaired in some way. We've then got the ELB health checks. These are used in addition to the EC2 status checks. And this just means that we're also able to receive information in the Auto Scaling Group about what the Load Balancer that is seeing happening. So the Load Balancer is also doing its health checks to the instances. If they fail, it's going to report that information back to Auto Scaling. So it knows that it should terminate and restart that instance. We've got something called a health check grace period. This is how long to wait before checking the health of an instance. So we don't want the health check to start too quickly. If for example, we're running some kind of bootstrap scripts or we're installing some applications and maybe the application's not quite ready yet. So we can give a little bit of a grace period to allow the system to come up once it's been launched and become operational. So Auto Scaling doesn't act on health checks until that period expires. <br>
+![6](https://github.com/user-attachments/assets/cdb8a24c-7625-4639-8a0e-27f0c17d63a0)
 
 
 
