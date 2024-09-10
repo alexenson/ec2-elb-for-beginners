@@ -1078,48 +1078,11 @@ So we have different types of Auto Scaling. We've got manual that just means you
 
 We're going to create an Auto Scaling Group for Amazon EC2 instances.  To perform this exercise, we're going to need the user data for installing a web server. Now this user data is in the course download last lesson of section one and in the Amazon EC2 folder, it's called user–data-web-server. sh. 
 
-Code:
-#!/bin/bash
+Code:<br>
 
-# Update the system and install necessary packages
-yum update -y
-yum install -y httpd
+![Capture](https://github.com/user-attachments/assets/f8014ed4-dae7-40ff-8a1b-054d8e9daf11)
 
-# Start the Apache server
-systemctl start httpd
-systemctl enable httpd
 
-# Fetch the Availability Zone information using IMDSv2
-TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
-AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/meta-data/placement/availability-zone`
-
-# Create the index.html file
-cat > /var/www/html/index.html <<EOF
-<html>
-<head>
-    <title>Instance Availability Zone</title>
-    <style>
-        body {
-            background-color: #6495ED; /* Cornflower Blue - a darker shade */
-            color: white;
-            font-size: 36px; /* Significantly larger text */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <div>This instance is located in Availability Zone: $AZ</div>
-</body>
-</html>
-EOF
-
-# Ensure the httpd service is correctly set up to start on boot
-chkconfig httpd on
 
 Now this user data is going to install the Apache web server and it's going to set a custom web page which tells us which availability zone the instance is in based on a variable that we set in the middle of the code here. 
 AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/meta-data/placement/availability-zone`
