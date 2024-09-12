@@ -1122,10 +1122,10 @@ For Security groups, I'm going to select WebAccess, but I'm not going to change 
 ![6](https://github.com/user-attachments/assets/eff33aaa-33f8-4ff8-9c33-7ad2589b0fba)
 
  
-
-
 Where the instances are deployed is going to be configured in the Auto Scaling Group in terms of the Availability Zones. 
-Then I'm just going to scroll to the bottom, go to Advanced details. 
+Then I'm just going to scroll to the bottom, go to Advanced details. <br>
+![7](https://github.com/user-attachments/assets/3936e7d3-5d14-48d7-bf2b-dbe67afef6ed)
+
  
 
 Scroll all the way down and simply paste in my user data and then I can create my launch template. 
