@@ -1186,10 +1186,10 @@ I'm going to leave the default VPC selected.<br>
 
  
 
-And I'm going to choose two Availability Zones. These are both public,  us-east-1a and us-east- 1b. 
+And I'm going to choose two Availability Zones. These are both public,  us-east-1a and us-east-1b. <br>
+![3](https://github.com/user-attachments/assets/3902e8f5-ffcd-4bd0-b94f-5e37964dc960)
+
  
-
-
 
 Scroll down, click on next. 
  
