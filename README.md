@@ -1118,7 +1118,9 @@ For Key pair, I'm not going to include one in the launch template, that’s fine
 
 
 
-For Security groups, I'm going to select WebAccess, but I'm not going to change any other settings. 
+For Security groups, I'm going to select WebAccess, but I'm not going to change any other settings.<br>
+![6](https://github.com/user-attachments/assets/eff33aaa-33f8-4ff8-9c33-7ad2589b0fba)
+
  
 
 
