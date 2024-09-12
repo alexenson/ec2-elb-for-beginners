@@ -1152,6 +1152,7 @@ Scroll down and on the left hand side, click on Auto Scaling Groups.<br>
 Here, I'm going to click Create Auto Scaling group.<br>
 ![4](https://github.com/user-attachments/assets/d7e189fe-c1f8-4c92-a56f-b517bcc96436)
 
+![5](https://github.com/user-attachments/assets/ad191f04-672d-499d-a979-5cfed561f277)
  
 
 I will give this a name, ASG1.
