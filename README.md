@@ -1113,14 +1113,8 @@ For instance, type I'm going to select t2.micro. <br>
 
  
 
-For Key pair, I'm not going to include one in the launch template, that’s fine. 
- 
-
-
-
-
-
-
+For Key pair, I'm not going to include one in the launch template, that’s fine. <br>
+![5](https://github.com/user-attachments/assets/3abb02a5-beab-4058-83cd-4bed421f6a1f)
 
 
 
