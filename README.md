@@ -1139,7 +1139,9 @@ That's ready. <br>
 ![1](https://github.com/user-attachments/assets/1fa6e1f6-9705-4325-886c-00faf63e7795)
 
 
-Now, I'm going to click back up to EC2.
+Now, I'm going to click back up to EC2.<br>
+![2](https://github.com/user-attachments/assets/f41c1fb9-24a7-4c8b-918b-209e73408fb6)
+
  
 
 Scroll down and on the left hand side, click on Auto Scaling Groups
