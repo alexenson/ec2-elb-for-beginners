@@ -1108,7 +1108,9 @@ Let's scroll down a little way for application and OS images. I want to choose A
 
  
 
-For instance, type I'm going to select t2.micro. 
+For instance, type I'm going to select t2.micro. <br>
+![4](https://github.com/user-attachments/assets/5da0713b-47da-4292-af09-4725490afa94)
+
  
 
 For Key pair, I'm not going to include one in the launch template, that’s fine. 
