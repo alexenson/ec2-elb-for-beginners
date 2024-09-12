@@ -1127,8 +1127,9 @@ Then I'm just going to scroll to the bottom, go to Advanced details. <br>
 ![7](https://github.com/user-attachments/assets/3936e7d3-5d14-48d7-bf2b-dbe67afef6ed)
 
  
+Scroll all the way down and simply paste in my user data and then I can create my launch template.<br>
+![8](https://github.com/user-attachments/assets/38aaf321-4270-4b30-aca9-4db27247edba)
 
-Scroll all the way down and simply paste in my user data and then I can create my launch template. 
  
 
 So let's click this button and there we go. 
