@@ -1103,7 +1103,9 @@ This defines the settings that we want to use. So I'm going to click on create l
 ![2](https://github.com/user-attachments/assets/e6a1ffcc-6e1e-4067-8221-10adfbac9b8a)
 
  
-Let's scroll down a little way for application and OS images. I want to choose Amazon Linux, the Linux 2023 AMI.
+Let's scroll down a little way for application and OS images. I want to choose Amazon Linux, the Linux 2023 AMI.<br>
+![3](https://github.com/user-attachments/assets/8c8f0c48-e9d8-4f7a-a78f-110f00a98b60)
+
  
 
 For instance, type I'm going to select t2.micro. 
