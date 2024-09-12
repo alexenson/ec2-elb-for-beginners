@@ -1144,7 +1144,9 @@ Now, I'm going to click back up to EC2.<br>
 
  
 
-Scroll down and on the left hand side, click on Auto Scaling Groups
+Scroll down and on the left hand side, click on Auto Scaling Groups.<br>
+![3](https://github.com/user-attachments/assets/121ab5bf-5e2a-4dcd-b44e-7c74585e783b)
+
 
  
 Here, I'm going to click, create Auto Scaling Group.
