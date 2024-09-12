@@ -1181,8 +1181,9 @@ So now I can click on next on this page. <br>
 
  
 
+I'm going to leave the default VPC selected.<br>
+![2](https://github.com/user-attachments/assets/d09ab78f-4343-4c33-9912-c4dbbf6c6b6e)
 
-I'm going to leave the default VPC selected 
  
 
 And I'm going to choose two Availability Zones. These are both public,  us-east-1a and us-east- 1b. 
