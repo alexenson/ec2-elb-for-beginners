@@ -1163,10 +1163,10 @@ I will give this a name, ASG1.<br>
 And now I need to select the launch template that I want to use.<br>
 ![7](https://github.com/user-attachments/assets/a7a4127d-25cf-487b-b2cb-00f5bb0a2650)
 
+![8](https://github.com/user-attachments/assets/d02ee493-d93a-4e8b-8003-3301e6fed1a2)
  
 
  
-
 And of course, this is going to define what's run when the Auto Scaling Group scales. 
  
 
