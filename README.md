@@ -1197,22 +1197,9 @@ Scroll down, click on next. <br>
  
 
 We don't have a Load Balancer, at this point in time. <br>
-![5](https://github.com/user-attachments/assets/3b8c5c1b-f3c4-41c3-887e-684d2e32ecb0)
-
- 
-
-We're not using the VPC Lattice service so we can just scroll down and click on next.
- 
-
-
-
-
-
-
-
-
-
-
+![5](https://github.com/user-attachments/assets/3b8c5c1b-f3c4-41c3-887e-684d2e32ecb0)<br>
+We're not using the VPC Lattice service so we can just scroll down and click on next.<br>
+![6](https://github.com/user-attachments/assets/f087a55b-ba92-4325-8679-2a765aed9300)
 
 
 I'm going to set a static capacity. 
