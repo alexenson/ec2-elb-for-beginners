@@ -1155,7 +1155,8 @@ Here, I'm going to click Create Auto Scaling group.<br>
 ![5](https://github.com/user-attachments/assets/ad191f04-672d-499d-a979-5cfed561f277)
  
 
-I will give this a name, ASG1.
+I will give this a name, ASG1.<br>
+![6](https://github.com/user-attachments/assets/06a4bed0-a515-42d0-9348-f5b48c007df3)
  
 
 
