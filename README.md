@@ -1160,8 +1160,9 @@ I will give this a name, ASG1.<br>
  
 
 
+And now I need to select the launch template that I want to use.<br>
+![7](https://github.com/user-attachments/assets/a7a4127d-25cf-487b-b2cb-00f5bb0a2650)
 
-And now I need to select the launch template that I want to use.
  
 
  
