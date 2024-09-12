@@ -1099,7 +1099,9 @@ The Auto Scaling Group uses the launch template.<br>
 
  
 
-This defines the settings that we want to use. So I'm going to click on create launch template. I'm going to give this a name, MyWebServer.
+This defines the settings that we want to use. So I'm going to click on create launch template. I'm going to give this a name, MyWebServer.<br>
+![2](https://github.com/user-attachments/assets/e6a1ffcc-6e1e-4067-8221-10adfbac9b8a)
+
  
 Let's scroll down a little way for application and OS images. I want to choose Amazon Linux, the Linux 2023 AMI.
  
