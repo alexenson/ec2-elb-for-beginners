@@ -1094,7 +1094,9 @@ So I'm going to copy all of this user data. This is going to be used for our lau
 
  
 
-The Auto Scaling Group uses the launch template. 
+The Auto Scaling Group uses the launch template.<br>
+![1](https://github.com/user-attachments/assets/5b534a65-d71a-440d-b35d-4077ea52a51e)
+
  
 
 This defines the settings that we want to use. So I'm going to click on create launch template. I'm going to give this a name, MyWebServer.
