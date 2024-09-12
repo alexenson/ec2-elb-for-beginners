@@ -1176,20 +1176,9 @@ Which AMI, which instance type are we going to use?
 It's going to run the user data every time it launches an instance as well. 
 
 
+So now I can click on next on this page. <br>
+![1](https://github.com/user-attachments/assets/ebff1c11-7564-43f8-9e86-2a776f7fe091)
 
-
-
-
-
-
-
-
-
-
-
-
-
-So now I can click on next on this page. 
  
 
 
