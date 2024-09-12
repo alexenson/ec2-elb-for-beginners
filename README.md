@@ -1149,8 +1149,8 @@ Scroll down and on the left hand side, click on Auto Scaling Groups.<br>
 
 
  
-Here, I'm going to click, create Auto Scaling Group.
- 
+Here, I'm going to click Create Auto Scaling group.<br>
+![4](https://github.com/user-attachments/assets/d7e189fe-c1f8-4c92-a56f-b517bcc96436)
 
  
 
