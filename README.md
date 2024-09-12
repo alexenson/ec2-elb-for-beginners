@@ -1191,7 +1191,9 @@ And I'm going to choose two Availability Zones. These are both public,  us-east-
 
  
 
-Scroll down, click on next. 
+Scroll down, click on next. <br>
+![4](https://github.com/user-attachments/assets/4a63c504-b6e7-46a6-91f1-cb9bb368955a)
+
  
 
 We don't have a Load Balancer, at this point in time. 
