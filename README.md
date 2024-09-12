@@ -1167,7 +1167,9 @@ And now I need to select the launch template that I want to use.<br>
  
 
  
-And of course, this is going to define what's run when the Auto Scaling Group scales. 
+And of course, this is going to define what's run when the Auto Scaling Group scales. <br>
+![9](https://github.com/user-attachments/assets/7bad31b0-22c8-4dc2-95e6-233bdfa52049)
+
  
 
 Which AMI, which instance type are we going to use?  
