@@ -1131,9 +1131,8 @@ Scroll all the way down and simply paste in my user data and then I can create m
 ![8](https://github.com/user-attachments/assets/38aaf321-4270-4b30-aca9-4db27247edba)
 
  
-
-So let's click this button and there we go. 
- 
+Then click Create launch template.<br>
+![9](https://github.com/user-attachments/assets/ad8ed17a-1135-4213-8910-3479410f51b6)
  
 
 That's ready. 
