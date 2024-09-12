@@ -1135,7 +1135,9 @@ Then click Create launch template.<br>
 ![9](https://github.com/user-attachments/assets/ad8ed17a-1135-4213-8910-3479410f51b6)
  
 
-That's ready. 
+That's ready. <br>
+![1](https://github.com/user-attachments/assets/1fa6e1f6-9705-4325-886c-00faf63e7795)
+
 
 Now, I'm going to click back up to EC2.
  
