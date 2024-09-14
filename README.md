@@ -1304,6 +1304,7 @@ Of course, you can enable more Availability Zones if you want to. And increase t
 Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we can see the activity. <br>
 ![1](https://github.com/user-attachments/assets/cbca1a1b-6db5-40c9-9e21-819b26013ce8)
  
+![2](https://github.com/user-attachments/assets/1b8e80ee-1373-4f2c-bd41-99df6596f6a4)
  
 
  
