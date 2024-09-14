@@ -1243,7 +1243,9 @@ If I click on the name of the Auto Scaling Group. <br>
 
  
 
-And go to activity, 
+And go to activity.<br>
+![8](https://github.com/user-attachments/assets/180431b5-fde2-428d-8b3e-c13048435043)
+
  
 
 We can actually see what's going on. 
