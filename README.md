@@ -1,4 +1,4 @@
-# Amazon EC2
+.# Amazon EC2
  
 <br>
 
@@ -1217,12 +1217,12 @@ So I can scroll down, click on next.<br>
 ![2](https://github.com/user-attachments/assets/5073232e-365c-4427-981c-7f1ae917ec49)
 
  
+Next again.<br>
+![3](https://github.com/user-attachments/assets/c9fc6157-409e-44d1-bf74-23f106ccaf81)
 
-
-Next again,
  
 
-Next again, 
+Next again. 
  
 
 Scroll down and we're ready to create the Auto Scaling Group.
