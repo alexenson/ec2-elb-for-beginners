@@ -1277,7 +1277,9 @@ So I've got port 80 from anywhere, which means that once the user data is run.
 
 
 
-I should be able to connect to the public IP address and view the web page.
+I should be able to connect to the public IP address and view the web page.<br>
+![5](https://github.com/user-attachments/assets/9e83407a-c7a6-49f3-a91d-3ef652a8eae2)
+
  
 
 And it should tell me the Availability Zone of the instance, which for this one should be us-east- 1a. 
