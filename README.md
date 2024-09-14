@@ -1296,9 +1296,9 @@ Let's try that out, there we go.<br>
  
 
  
-It tells us it's in us-east- 1a. So that's great. 
-So that's launching correctly. That's all I want to do right for now, is to set the Auto Scaling Group to launch 2 instances. They're across two different Availability Zones. 
- 
+It tells us it's in us-east-1a. So that's great. 
+So that's launching correctly. That's all I want to do right for now, is to set the Auto Scaling Group to launch 2 instances. They're across two different Availability Zones. <br>
+![9](https://github.com/user-attachments/assets/32f5722a-33b0-4a20-a821-47e1d526ed06)<br>
 Of course, you can enable more Availability Zones if you want to. And increase the number of instances that are launched. 
 
 Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we can see the activity. 
