@@ -1248,8 +1248,8 @@ And go to activity.<br>
 
  
 
-We can actually see what's going on. 
- 
+We can actually see what's going on.<br>
+![9](https://github.com/user-attachments/assets/53ef3efe-5b76-43fd-9bb1-ede06f90ee90)<br>
 It's a useful place to come to have a look at what's actually happening. So we can see that 2 instances are being launched. They're not yet in service. So that's going to take a couple of minutes. 
 
 
