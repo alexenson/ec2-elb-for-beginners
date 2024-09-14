@@ -1329,6 +1329,7 @@ We can look at some monitoring information and we can enable certain  Auto Scali
 
 ![1](https://github.com/user-attachments/assets/13ec7260-4964-43a0-9f3b-1c171811a7bf)
 
+![2](https://github.com/user-attachments/assets/a851e79e-8d6e-4c07-8990-5146781fc442)
  
 
 Now one of the things you can do to test auto scaling.
