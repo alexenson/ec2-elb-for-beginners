@@ -1231,7 +1231,9 @@ Scroll down and we're ready to create the Auto Scaling Group.<br>
 
  
 
-The auto scaling group is deploying now and we can see it's telling us it is updating capacity, it tells us the desire capacity and we can see which Availability Zones we enabled for the Auto Scaling Group. 
+The Auto Scaling Group is deploying now and we can see it's telling us it is updating capacity, it tells us the desire capacity and we can see which Availability Zones we enabled for the Auto Scaling Group. <br>
+![6](https://github.com/user-attachments/assets/1b4d06b9-f20b-4f52-958e-aadf48d2358b)
+
  
 
 That's where it's going to launch the instances. By default, it will spread the instances across the available Availability Zones. So here, we should have 1 in each. 
