@@ -1333,9 +1333,7 @@ We can look at some monitoring information and we can enable certain  Auto Scali
  
 
 Now one of the things you can do to test auto scaling.<br>
-![3](https://github.com/user-attachments/assets/40a65fa0-09ff-4b3d-a8f0-7136ececd533)
-
- 
+![3](https://github.com/user-attachments/assets/40a65fa0-09ff-4b3d-a8f0-7136ececd533)<br>
 We set the desired capacity to 2. So it's going to try and always keep 2 instances. 
 
 Let's go and just terminate one of these instances doesn't matter which one, we're just going to go ahead and terminate it. 
