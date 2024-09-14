@@ -1254,10 +1254,9 @@ It's a useful place to come to have a look at what's actually happening. So we c
 
 
 
+If I click back up to EC2.<br>
+![1](https://github.com/user-attachments/assets/94e85bb2-4c2d-46bc-921c-e21f2cb42868)
 
-
-
-If I click back up to EC2.
  
 
 And go to instances. 
