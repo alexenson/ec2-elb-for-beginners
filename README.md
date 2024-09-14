@@ -1221,8 +1221,9 @@ Next again.<br>
 ![3](https://github.com/user-attachments/assets/c9fc6157-409e-44d1-bf74-23f106ccaf81)
 
  
+Next again.<br>
+![4](https://github.com/user-attachments/assets/3c960cd2-2aec-4513-82ff-85efcfd28d79)
 
-Next again. 
  
 
 Scroll down and we're ready to create the Auto Scaling Group.
