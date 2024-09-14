@@ -1238,7 +1238,9 @@ The Auto Scaling Group is deploying now and we can see it's telling us it is upd
 
 That's where it's going to launch the instances. By default, it will spread the instances across the available Availability Zones. So here, we should have 1 in each. 
 
-If I click on the name of the Auto Scaling Group. 
+If I click on the name of the Auto Scaling Group. <br>
+![7](https://github.com/user-attachments/assets/044b88c7-cc3f-4b6b-b140-ba3dd0c871f7)
+
  
 
 And go to activity, 
