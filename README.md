@@ -1310,7 +1310,9 @@ Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we c
 
  
 
-So that's been successful now. So that's all good. 
+So that's been successful now. So that's all good. <br>
+![4](https://github.com/user-attachments/assets/4b4e24ac-7a1a-43d5-b2e4-603f382a045d)
+
  
 If we go to Automatic scaling. 
  
