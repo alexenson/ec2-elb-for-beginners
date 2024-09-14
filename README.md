@@ -1315,7 +1315,8 @@ So that's been successful now. So that's all good. <br>
 
  
 If we go to Automatic scaling.<br>
-![5](https://github.com/user-attachments/assets/59df065b-2920-49e6-80de-ed4cdd7b7167)
+![5](https://github.com/user-attachments/assets/59df065b-2920-49e6-80de-ed4cdd7b7167)<br>
+![6](https://github.com/user-attachments/assets/fad87129-48b7-4eee-9614-ced6a5e559fd)
 
  
  
