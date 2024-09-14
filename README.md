@@ -1339,6 +1339,7 @@ We set the desired capacity to 2. So it's going to try and always keep 2 instanc
 Let's go and just terminate one of these instances, doesn't matter which one, we're just going to go ahead and terminate it.<br> 
 ![4](https://github.com/user-attachments/assets/99a9a102-ab8f-43a4-adb6-971ca40bda88)
  
+![5](https://github.com/user-attachments/assets/b860f515-4808-4e8f-9bc3-3a65ddf41230)
 
  
 
