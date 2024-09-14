@@ -1268,12 +1268,12 @@ Here we go. I've got my 2 instances here running.<br>
 ![3](https://github.com/user-attachments/assets/31378a40-aa80-4d5e-96ef-6b32298841be)<br>
 So this was a previous one from another lab. It's the two running ones that have just been launched across us-east- 1-a and us-east-1b. 
 
-We need to make sure that we have port 80 open and I certainly do in my Security group.
+We need to make sure that we have port 80 open and I certainly do in my Security group.<br>
+![4](https://github.com/user-attachments/assets/da134775-f3ea-4c89-aaa3-53785b5edacf)
+
   
 
 So I've got port 80 from anywhere, which means that once the user data is run. 
-
-
 
 
 
