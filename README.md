@@ -1226,7 +1226,9 @@ Next again.<br>
 
  
 
-Scroll down and we're ready to create the Auto Scaling Group.
+Scroll down and we're ready to create the Auto Scaling Group.<br>
+![5](https://github.com/user-attachments/assets/9b54f332-cf18-41ec-a035-b9480aca74c2)
+
  
 
 The auto scaling group is deploying now and we can see it's telling us it is updating capacity, it tells us the desire capacity and we can see which Availability Zones we enabled for the Auto Scaling Group. 
