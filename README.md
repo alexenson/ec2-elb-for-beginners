@@ -1213,7 +1213,9 @@ Max is 2.<br>
 So this is how many instances we want running. I'm saying I want 2 instances to be running at all times. Minimum is 2 and maximum should be 2 as well, in this case. 
 Later on, we'll have a scaling policy, then we can set automatic scaling and then we need to change the maximum at the very least. 
 So we've got some room for the scaling to happen. I don't want to set a scaling policy right now. I just want 2 instances running and that's it. 
-So I can scroll down, click on next.
+So I can scroll down, click on next.<br>
+![2](https://github.com/user-attachments/assets/5073232e-365c-4427-981c-7f1ae917ec49)
+
  
 
 
