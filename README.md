@@ -1324,13 +1324,10 @@ There's instance management where we can take instances in and out of service, f
 So this instance is not terminated. 
 
 
-We can look at some monitoring information and we can enable certain  Auto Scaling Group metrics collection that will collect more information about uh all of the instances in the Auto Scaling Group rather than having to view that information individually for each instance, which you can do on the monitoring tab of course. 
- 
+We can look at some monitoring information and we can enable certain  Auto Scaling Group metrics collection that will collect more information about all of the instances in the Auto Scaling Group rather than having to view that information individually for each instance, which you can do on the monitoring tab of course. <br>
+![8](https://github.com/user-attachments/assets/a2b7ccc9-5f9d-4cef-a334-5f26d2147ce1)
 
  
-
- 
-
 
 Now one of the things you can do to test auto scaling.
  
