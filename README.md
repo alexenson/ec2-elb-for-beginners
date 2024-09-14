@@ -1306,6 +1306,7 @@ Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we c
  
 ![2](https://github.com/user-attachments/assets/1b8e80ee-1373-4f2c-bd41-99df6596f6a4)
  
+![3](https://github.com/user-attachments/assets/c399602a-b567-4040-9192-39f993dd019b)
 
  
 
