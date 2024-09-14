@@ -1282,7 +1282,9 @@ I should be able to connect to the public IP address and view the web page.<br>
 
  
 
-And it should tell me the Availability Zone of the instance, which for this one should be us-east- 1a. 
+And it should tell me the Availability Zone of the instance, which for this one should be us-east-1a. <br>
+![6](https://github.com/user-attachments/assets/5ae94aaa-77b2-4b85-91e4-8fdf9acef222)
+
  
 
 Let's try that out there we go.
