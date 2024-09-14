@@ -1264,7 +1264,9 @@ And go to Instances. <br>
 
  
 
-Here we go. I've got my 2 instances here running. 
+Here we go. I've got my 2 instances here running.<br>
+![3](https://github.com/user-attachments/assets/31378a40-aa80-4d5e-96ef-6b32298841be)
+
  
 
 So this was a previous one from another lab. It's the two running ones that have just been launched across us-east- 1-a and us-east-1b. 
