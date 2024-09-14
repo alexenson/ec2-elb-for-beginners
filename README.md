@@ -1301,7 +1301,8 @@ So that's launching correctly. That's all I want to do right for now, is to set 
 ![9](https://github.com/user-attachments/assets/32f5722a-33b0-4a20-a821-47e1d526ed06)<br>
 Of course, you can enable more Availability Zones if you want to. And increase the number of instances that are launched. 
 
-Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we can see the activity. 
+Now under Auto Scaling Groups, if we click on the Auto Scaling Group again, we can see the activity. <br>
+![1](https://github.com/user-attachments/assets/cbca1a1b-6db5-40c9-9e21-819b26013ce8)
  
  
 
