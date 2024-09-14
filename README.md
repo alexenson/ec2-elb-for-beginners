@@ -1319,8 +1319,8 @@ If we go to Automatic scaling.<br>
 ![6](https://github.com/user-attachments/assets/fad87129-48b7-4eee-9614-ced6a5e559fd)<br>
 In here, we can create dynamic scaling policies, predictive scaling policies and scheduled actions. 
 
-There's instance management where we can take instances in and out of service, for example, set them to stand by set scale-in protection. 
- 
+There's instance management where we can take instances in and out of service, for example, set them to stand by set scale-in protection. <br>
+![7](https://github.com/user-attachments/assets/aa7f7adf-4c9e-4dfc-99e4-3506522753ce)<br>
 So this instance is not terminated. 
 
 
