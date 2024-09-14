@@ -1332,7 +1332,9 @@ We can look at some monitoring information and we can enable certain  Auto Scali
 ![2](https://github.com/user-attachments/assets/a851e79e-8d6e-4c07-8990-5146781fc442)
  
 
-Now one of the things you can do to test auto scaling.
+Now one of the things you can do to test auto scaling.<br>
+![3](https://github.com/user-attachments/assets/40a65fa0-09ff-4b3d-a8f0-7136ececd533)
+
  
 We set the desired capacity to 2. So it's going to try and always keep 2 instances. 
 
