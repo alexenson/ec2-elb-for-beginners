@@ -1290,6 +1290,9 @@ And it should tell me the Availability Zone of the instance, which for this one 
 Let's try that out, there we go.<br>
 ![7](https://github.com/user-attachments/assets/58106527-d694-47ec-98c2-2bbab96342e2)
 
+![8](https://github.com/user-attachments/assets/aa99e952-3601-4c06-8dbb-d00bd1c8359f)
+
+
  
 
  
