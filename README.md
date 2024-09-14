@@ -1336,7 +1336,8 @@ Now one of the things you can do to test auto scaling.<br>
 ![3](https://github.com/user-attachments/assets/40a65fa0-09ff-4b3d-a8f0-7136ececd533)<br>
 We set the desired capacity to 2. So it's going to try and always keep 2 instances. 
 
-Let's go and just terminate one of these instances doesn't matter which one, we're just going to go ahead and terminate it. 
+Let's go and just terminate one of these instances, doesn't matter which one, we're just going to go ahead and terminate it.<br> 
+![4](https://github.com/user-attachments/assets/99a9a102-ab8f-43a4-adb6-971ca40bda88)
  
 
  
