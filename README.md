@@ -1205,7 +1205,9 @@ We're not using the VPC Lattice service so we can just scroll down and click on 
 I'm going to set a static capacity. 
 Desired is going to be 2, 
 Min is 2 
-Max is 2.
+Max is 2.<br>
+![1](https://github.com/user-attachments/assets/e0dbdb22-bc8e-4f9c-8a8c-154638423f36)
+
  
 
 So this is how many instances we want running. I'm saying I want 2 instances to be running at all times. Minimum is 2 and maximum should be 2 as well, in this case. 
