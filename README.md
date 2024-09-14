@@ -1259,7 +1259,9 @@ If I click back up to EC2.<br>
 
  
 
-And go to instances. 
+And go to Instances. <br>
+![2](https://github.com/user-attachments/assets/f6adc47c-44c2-4961-8afc-26a1449f935f)
+
  
 
 Here we go. I've got my 2 instances here running. 
