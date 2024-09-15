@@ -1397,9 +1397,9 @@ So now we have Instance 5 replacing the first instance that was terminated previ
  
 
 
-So now we have that level of availability and fault tolerance across multiple Availability Zones as new users come along, of course, they get distributed. 
- 
-Now by default, Auto Scaling is going to try and spread the load across multiple Availability Zones and the Load Balancer sitting in front is then going to distribute connections to all of the instances. And again, through integration between auto scanning and load balancing as the auto scanning group launches those instances, it's going to notify the Load Balancer. So the Load Balancer actually knows that they there and then can start sending connections through to them.
+So now we have that level of availability and fault tolerance across multiple Availability Zones as new users come along, of course, they get distributed. <br>
+![3](https://github.com/user-attachments/assets/044252b2-c35e-4ed4-8081-ef123a0f0984)
+Now by default, Auto Scaling is going to try and spread the load across multiple Availability Zones and the Load Balancer sitting in front is then going to distribute connections to all of the instances. And again, through integration between Auto Scaling and Load Balancing as the Auto Scaling Group launches those instances, it's going to notify the Load Balancer. So the Load Balancer actually knows that they there and then can start sending connections through to them.
 
 
 
