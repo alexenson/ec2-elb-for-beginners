@@ -1380,9 +1380,8 @@ I'm going to cover Amazon Elastic Load Balancing. So load balancers provide high
 ![1](https://github.com/user-attachments/assets/b29e4373-e925-4f75-8dae-9f30bf2478fb)
  
 
-
-So let's have a look at it in action. So here we have a few EC2 instances deployed in an ASG an Auto Scaling Group across multiple subnets in different availability zones. So when users come in the Load Balancer is automatically distributing connections. 
- 
+So let's have a look at it in action. So here we have a few EC2 instances deployed in an ASG an Auto Scaling Group across multiple subnets in different Availability Zones. So when users come in the Load Balancer is automatically distributing connections.<br> 
+![2](https://github.com/user-attachments/assets/1b0ba586-3f23-435e-9f6d-b4929e22ac71)
 If an instance fails, then it's going to be taken out of action. Now Elastic Load Balancing will perform health checks. So the target group, that's the collection of the targets that you define some characteristics for in some configuration settings. The target group is going to perform health checks. So it's going to check those instances. For example, if they are web servers, it might connect on port 80. So the HTTP port and just check a certain URL path to see if it gets a positive response, say a 200 return code. Now, if it gets that success code, then it's going to s assume that that instance is healthy and working and operational. If it doesn't, if it doesn't get a successful response, then it's going to assume that instance is out of action. So after a few tries, it's going to take it out of action and it's going to redistribute connections to a different EC2 instance. 
  
 
