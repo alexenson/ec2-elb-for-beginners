@@ -1360,10 +1360,11 @@ And you can watch in the Auto Scaling Group on the activity tab for this to happ
 ![4](https://github.com/user-attachments/assets/2af8544a-044a-4ca3-bbfb-1a16b2c2f7e1)
 
  
-
-So just leave that to happen, keep an eye on the activity and then go up to instances. And in a couple of minutes time, you should see a new instance launched, just a minute or two later. 
- 
+So just leave that to happen, keep an eye on the activity and then go up to instances. And in a couple of minutes time, you should see a new instance launched, just a minute or two later. <br>
+![5](https://github.com/user-attachments/assets/0700b4f1-65bb-44e6-9c33-7910c3851d87)<br>
 I can now see a couple of new entries in the activity log one said terminating EC2 instance and it says the instance was taken out of service in response to an EC2 health check indicating it had been terminated or stopped. That all makes sense. And now it's launching a new one. 
+
+
 So if I come back up to instances, let's give this a refresh. 
  
 
