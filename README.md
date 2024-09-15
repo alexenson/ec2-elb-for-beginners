@@ -8,7 +8,7 @@
 Amazon EC2 enables us to deploy virtual servers in the cloud, which is basically virtual machines. We call them instances in EC2. We can launch instances running Windows, Linux and there are even options to launch macOS hosts as well. 
 AWS provide management for the underlying platform. Including the hardware, the virtualisation layer and they expose the controls for us to then deploy our instances. 
 They also have a service called Amazon EC2 Auto Scaling, for automatically launching and terminating instances. Based on things like performance metrics or a schedule. So we can automatically scale the amount of instances running our application we need at any point in time.
-Then we can put a load balancer in front, using the Elastic Load Balancing service as well.
+Then we can put a Load Balancer in front, using the Elastic Load Balancing service as well.
 
 
 ## Amazon EC2 Overview   
