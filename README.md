@@ -1408,19 +1408,9 @@ Now, we've got a few different types of Load Balancer. So there's an old one cal
 Next we have the Network Load Balancer. So this is the connection level Load Balancer. So we say it runs at layer 4 because that's where these port numbers are the TCP ports and the UDP ports, for example, those protocols run up layer 4. So with this type of Load Balancer, it offers extremely high performance and extremely low latency. So watch out for those kind of keywords if you're taking an exam because they often come up. So this is the one for TLS offloading as well at scale. So it's very high performance Load Balancer. One of the other features of the Network Load Balancer, you can have static IPs so those are Elastic IPs in each Availability Zone. So that means you can hard code those, white list them in firewalls, for example. 
 
 
-
-
-
-
-
-
-
-
-
-
-Lastly, we have the Gateway Load Balancer. A very different thing here. What this is actually used for, is virtual appliances. So virtual networking appliances like firewalls, intrusion detection systems, intrusion prevention systems. So we're actually able to load balance some of the incoming traffic through to those virtual appliances where they can perform some kind of inspection. So it's using the Geneve protocol instead here. So different low balancers for different use cases.
+Lastly, we have the Gateway Load Balancer. A very different thing here. What this is actually used for, is virtual appliances. So virtual networking appliances like firewalls, intrusion detection systems, intrusion prevention systems. So we're actually able to Load Balance some of the incoming traffic through to those virtual appliances where they can perform some kind of inspection. So it's using the Geneve protocol instead here. So different Load Balancers for different use cases.<br>
+![5](https://github.com/user-attachments/assets/936704f0-eab6-4a45-9539-7b0cf22716d7)
  
-
 
 Let's have a look at what those might be. So for the Application Load Balancer use this one when you have web applications, HTTP and HTTPS and you need that sort of layer 7 routing capability. It's good for micro services architectures like Docker containers, Lambda targets, which are an option with the ALB. 
 With the NLB, TCP and UDP based applications extremely low latency, high performance and static IP addresses as well as VPC endpoint services as well.
