@@ -1435,12 +1435,9 @@ If I just give this a refresh, I should have my 2 instances running and they're 
 ![9](https://github.com/user-attachments/assets/11f40860-60a2-4933-a3ff-dd06872c0f23)
 
 
-So the Target Group is going to contain the instances. 
+So the Target Group is going to contain the instances. <br>
+![1](https://github.com/user-attachments/assets/b79eac92-0762-4835-a9c2-60b2d12ccddc)
  
-
-
-
-
 
 Let's click on create target group here. We need to choose what the target type is. We've got Instances, IP addresses, Lambda functions and Application Load Balancer. 
  
