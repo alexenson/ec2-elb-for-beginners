@@ -1403,29 +1403,8 @@ Now by default, Auto Scaling is going to try and spread the load across multiple
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Now, we've got a few different types of Load Balancer. So there's an old one called the classic Load Balancer. So I'm not going to cover that because it's really been deprecated quite a long time ago, but it's still there in the console. So the important ones are the Application Load Balancer. So this one is a layer 7 Load Balancer, that means it understands information in the HTTP and HTTPS header, layer 7. So it can perform things like path based routing or host based routing and a few others. So path based routing is the path in the URL. So if it's /orders versus /myaccount, it can actually send the connection to a different set of targets in a different target group. So that's path based routing. And that's obviously a layer 7 function. It actually has to look into that URL. It's not just looking at IP addresses and port numbers. Now, these listeners are always HTTP or HTTPS. 
- 
+Now, we've got a few different types of Load Balancer. So there's an old one called the classic Load Balancer. So I'm not going to cover that because it's really been deprecated quite a long time ago, but it's still there in the console. So the important ones are the Application Load Balancer. So this one is a layer 7 Load Balancer, that means it understands information in the HTTP and HTTPS header, layer 7. So it can perform things like path based routing or host based routing and a few others. So path based routing is the path in the URL. So if it's /orders versus /myaccount, it can actually send the connection to a different set of targets in a different target group. So that's path based routing. And that's obviously a layer 7 function. It actually has to look into that URL. It's not just looking at IP addresses and port numbers. Now, these listeners are always HTTP or HTTPS. <br>
+![4](https://github.com/user-attachments/assets/a624e623-cc18-42a7-86cf-a88608fe9d04)
 Next we have the Network Load Balancer. So this is the connection level Load Balancer. So we say it runs at layer 4 because that's where these port numbers are the TCP ports and the UDP ports, for example, those protocols run up layer 4. So with this type of Load Balancer, it offers extremely high performance and extremely low latency. So watch out for those kind of keywords if you're taking an exam because they often come up. So this is the one for TLS offloading as well at scale. So it's very high performance Load Balancer. One of the other features of the Network Load Balancer, you can have static IPs so those are Elastic IPs in each Availability Zone. So that means you can hard code those white list them in firewalls, for example. 
 
 
