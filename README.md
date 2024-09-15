@@ -1392,10 +1392,9 @@ This is the point where the Load Balancer can also with integration into Auto Sc
  
 
 
-So now we have Instance 5 replacing the first instance that was terminated previously. 
+So now we have Instance 5 replacing the first instance that was terminated previously.<br> 
+![1](https://github.com/user-attachments/assets/097a3d23-a9e6-45a1-baaa-429f12cf9727)
  
-
-
 
 
 So now we have that level of availability and fault tolerance across multiple Availability Zones as new users come along, of course, they get distributed. 
