@@ -1371,23 +1371,13 @@ So if I come back up to instances, let's give this a refresh. <br>
 ![7](https://github.com/user-attachments/assets/f3b8a546-5ac2-4e20-8fff-30ac5f03da3c)<br>
 And now we can see we've got 2 running instances again. So that's all working exactly as expected. Now that's it for this lesson. I'm going to leave this Auto Scaling Group running because we will be attaching a Load Balancer in a future lesson.
 
+<br>
+<br>
 
+## Amazon Elastic Load Balancing
 
-
-
-
-
-
-
-
-
-
-
-
-
-Amazon Elastic Load Balancing
-
-I'm going to cover Amazon Elastic Load Balancing. So load balancers provide high availability and fault tolerance. Essentially they are a single end point. So a single DNS name or IP address behind which a bunch of different instances sit. So it's going to automatically distribute connections to those EC2 instances. Now it's not just EC2 by the way. So targets include EC2 instances, also ECS containers, you've got IP addresses as a target as well and Lambda functions and also other load balancers. So you can actually chain them together. There's some use cases where that's advantageous. 
+I'm going to cover Amazon Elastic Load Balancing. So load balancers provide high availability and fault tolerance. Essentially they are a single end point. So a single DNS name or IP address behind which a bunch of different instances sit. So it's going to automatically distribute connections to those EC2 instances. Now it's not just EC2 by the way. So targets include EC2 instances, also ECS containers, you've got IP addresses as a target as well and Lambda functions and also other load balancers. So you can actually chain them together. There's some use cases where that's advantageous.<br> 
+![1](https://github.com/user-attachments/assets/b29e4373-e925-4f75-8dae-9f30bf2478fb)
  
 
 
