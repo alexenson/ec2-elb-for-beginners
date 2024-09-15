@@ -1343,14 +1343,8 @@ Let's go and just terminate one of these instances, doesn't matter which one, we
 
  
 
-And what should happen is over the course of the next couple of minutes. The Auto Scaling Group will notice that this instance is no longer accessible. 
- 
-
-
-
-
-
-
+And what should happen is over the course of the next couple of minutes. The Auto Scaling Group will notice that this instance is no longer accessible. <br>
+![1](https://github.com/user-attachments/assets/30bd4eed-0d19-45c5-b3f4-6bc6ae2d4058)
 
 
 It picks up this information from the status checks, the EC2 incident status checks. 
