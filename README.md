@@ -1417,37 +1417,15 @@ With the NLB, TCP and UDP based applications extremely low latency, high perform
 ![6](https://github.com/user-attachments/assets/6a46bcdc-59e7-4dfd-ac70-ca1523fcbfbe)
 
  
-And then lastly for the Gateway Load Balancer. So this is where you want to deploy scale and manage third party virtual network appliances. It gives you centralised inspection and monitoring capabilities. So we're talking about firewalls, intrusion detection, intrusion prevention systems, deep packet inspection systems and other similar virtual network appliances.
+And then lastly for the Gateway Load Balancer. So this is where you want to deploy scale and manage third party virtual network appliances. It gives you centralised inspection and monitoring capabilities. So we're talking about firewalls, intrusion detection, intrusion prevention systems, deep packet inspection systems and other similar virtual network appliances.<br>
+![7](https://github.com/user-attachments/assets/4df83259-901c-4f36-9861-2c3fe4a1484b)
  
+<br>
+<br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Create an Application Load Balancer
+## Create an Application Load Balancer
 
 I'm going to create an application load balancer. Now we've already got an Auto Scaling Group running. So you should have 2 instances across two Availability Zones. We're going to put an ALB in front of our Auto Scaling Group and we're going to direct traffic to the Application Load Balancer. Then in another lesson, we will adjust the Auto Scaling configuration to add a scaling policy. And we're going to test actually adding some load to our Auto Scaling Group. 
 
