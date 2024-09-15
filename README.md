@@ -1356,7 +1356,9 @@ That means it's going to identify the problem. It's going to realise that we are
 ![3](https://github.com/user-attachments/assets/6c9c0a51-b4b8-454b-8890-784899ac6894)
  
 
-And you can watch in the Auto Scaling Group on the activity tab for this to happen, it does take a couple of minutes. 
+And you can watch in the Auto Scaling Group on the activity tab for this to happen, it does take a couple of minutes.<br>
+![4](https://github.com/user-attachments/assets/2af8544a-044a-4ca3-bbfb-1a16b2c2f7e1)
+
  
 
 So just leave that to happen, keep an eye on the activity and then go up to instances. And in a couple of minutes time, you should see a new instance launched, just a minute or two later. 
