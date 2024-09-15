@@ -1352,7 +1352,8 @@ It picks up this information from the status checks, the EC2 incident status che
 
  
 
-That means it's going to identify the problem. It's going to realise that we are no longer at the desired capacity and it's going to launch a new instance. 
+That means it's going to identify the problem. It's going to realise that we are no longer at the desired capacity and it's going to launch a new instance. <br>
+![3](https://github.com/user-attachments/assets/6c9c0a51-b4b8-454b-8890-784899ac6894)
  
 
 And you can watch in the Auto Scaling Group on the activity tab for this to happen, it does take a couple of minutes. 
