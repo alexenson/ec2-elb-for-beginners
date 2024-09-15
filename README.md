@@ -1431,11 +1431,11 @@ I'm going to create an Application Load Balancer. Now we've already got an Auto 
 
 Back in the EC2 management console.<br>
 ![8](https://github.com/user-attachments/assets/b9c396b0-74b6-4d0b-a54b-4600da4ef808)<br>
-If I just give this a refresh, I should have my 2 instances running and they're running through my Auto Scaling Group. Now, the first thing I need to do for Load Balancing is go ahead and create what's called a target group.<br> 
+If I just give this a refresh, I should have my 2 instances running and they're running through my Auto Scaling Group. Now, the first thing I need to do for Load Balancing is go ahead and create what's called a Target Group.<br> 
 ![9](https://github.com/user-attachments/assets/11f40860-60a2-4933-a3ff-dd06872c0f23)
 
 
-So the target group is going to contain the instances. 
+So the Target Group is going to contain the instances. 
  
 
 
