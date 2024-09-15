@@ -1347,7 +1347,9 @@ And what should happen is over the course of the next couple of minutes. The Aut
 ![1](https://github.com/user-attachments/assets/30bd4eed-0d19-45c5-b3f4-6bc6ae2d4058)
 
 
-It picks up this information from the status checks, the EC2 incident status checks. 
+It picks up this information from the status checks, the EC2 incident status checks. <br>
+![2](https://github.com/user-attachments/assets/08a0b44e-6fa8-4b1a-bcc5-36da582b2bcc)
+
  
 
 That means it's going to identify the problem. It's going to realise that we are no longer at the desired capacity and it's going to launch a new instance. 
