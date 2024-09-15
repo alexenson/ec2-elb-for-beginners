@@ -1368,8 +1368,7 @@ I can now see a couple of new entries in the activity log one said terminating E
 So if I come back up to instances, let's give this a refresh. <br>
 ![6](https://github.com/user-attachments/assets/60682161-1b2c-490b-bb85-62a2e3e7d9f7)
  
-
- 
+![7](https://github.com/user-attachments/assets/f3b8a546-5ac2-4e20-8fff-30ac5f03da3c)<br>
 And now we can see we've got 2 running instances again. So that's all working exactly as expected. Now that's it for this lesson. I'm going to leave this Auto Scaling Group running because we will be attaching a Load Balancer in a future lesson.
 
 
