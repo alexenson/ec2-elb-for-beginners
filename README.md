@@ -1387,7 +1387,8 @@ If an instance fails, then it's going to be taken out of action. Now Elastic Loa
  
 
 
-This is the point where the Load Balancer can also with integration into Auto Scaling, notify Auto Scaling that this instance is not responding to health checks and Auto Scaling will terminate and then replace that instance. So here User 1 is actually reconnected from Instance 1 to Instance 4 so that their session continues. The ELB takes the Instance 1 out of service because of the failed health check and then Auto Scaling is going to terminate it and then of course, it can replace it. 
+This is the point where the Load Balancer can also with integration into Auto Scaling, notify Auto Scaling that this instance is not responding to health checks and Auto Scaling will terminate and then replace that instance. So here User 1 is actually reconnected from Instance 1 to Instance 4 so that their session continues. The ELB takes the Instance 1 out of service because of the failed health check and then Auto Scaling is going to terminate it and then of course, it can replace it.<br> 
+![2](https://github.com/user-attachments/assets/1c657943-f896-4887-ae8c-eaa25eeec397)
  
 
 
