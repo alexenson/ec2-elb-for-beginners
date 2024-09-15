@@ -1365,7 +1365,8 @@ So just leave that to happen, keep an eye on the activity and then go up to inst
 I can now see a couple of new entries in the activity log one said terminating EC2 instance and it says the instance was taken out of service in response to an EC2 health check indicating it had been terminated or stopped. That all makes sense. And now it's launching a new one. 
 
 
-So if I come back up to instances, let's give this a refresh. 
+So if I come back up to instances, let's give this a refresh. <br>
+![6](https://github.com/user-attachments/assets/60682161-1b2c-490b-bb85-62a2e3e7d9f7)
  
 
  
