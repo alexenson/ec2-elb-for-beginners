@@ -1430,11 +1430,10 @@ And then lastly for the Gateway Load Balancer. So this is where you want to depl
 I'm going to create an Application Load Balancer. Now we've already got an Auto Scaling Group running. So you should have 2 instances across two Availability Zones. We're going to put an ALB in front of our Auto Scaling Group and we're going to direct traffic to the Application Load Balancer. Then in another lesson, we will adjust the Auto Scaling configuration to add a Scaling Policy. And we're going to test actually adding some load to our Auto Scaling Group. 
 
 Back in the EC2 management console.<br>
-![8](https://github.com/user-attachments/assets/b9c396b0-74b6-4d0b-a54b-4600da4ef808)
+![8](https://github.com/user-attachments/assets/b9c396b0-74b6-4d0b-a54b-4600da4ef808)<br>
+If I just give this a refresh, I should have my 2 instances running and they're running through my Auto Scaling Group. Now, the first thing I need to do for Load Balancing is go ahead and create what's called a target group.<br> 
+![9](https://github.com/user-attachments/assets/11f40860-60a2-4933-a3ff-dd06872c0f23)
 
- 
-If I just give this a refresh, I should have my 2 instances running and they're running through my Auto Scaling Group. Now, the first thing I need to do for Load Balancing is go ahead and create what's called a target group. 
- 
 
 So the target group is going to contain the instances. 
  
