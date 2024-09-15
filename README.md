@@ -1413,7 +1413,9 @@ Lastly, we have the Gateway Load Balancer. A very different thing here. What thi
  
 
 Let's have a look at what those might be. So for the Application Load Balancer use this one when you have web applications, HTTP and HTTPS and you need that sort of layer 7 routing capability. It's good for micro services architectures like Docker containers, Lambda targets, which are an option with the ALB. 
-With the NLB, TCP and UDP based applications extremely low latency, high performance and static IP addresses as well as VPC endpoint services as well.
+With the NLB, TCP and UDP based applications extremely low latency, high performance and static IP addresses as well as VPC endpoint services as well.<br>
+![6](https://github.com/user-attachments/assets/6a46bcdc-59e7-4dfd-ac70-ca1523fcbfbe)
+
  
 And then lastly for the Gateway Load Balancer. So this is where you want to deploy scale and manage third party virtual network appliances. It gives you centralised inspection and monitoring capabilities. So we're talking about firewalls, intrusion detection, intrusion prevention systems, deep packet inspection systems and other similar virtual network appliances.
  
