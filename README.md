@@ -1470,8 +1470,8 @@ Next for IP address type. I'll leave it on IPv4. <br>
 HTTP1. 
 
 
-The health check protocol is going to stay on HTTP and /.
- 
+The health check protocol is going to stay on HTTP and /.<br>
+![9](https://github.com/user-attachments/assets/0aaf6369-b69c-4b4a-a2bf-1be52d3040ea)<br>
 Health checks are performed by the Load Balancer, to check that the instances are actually healthy, they're operational. In this case, it's going to check on the default port for HTTP which is port 80 and it's just going to check the route of the website. You can add a path on here, if you want to, to check a certain path or a document.  
 
 You can also set advanced settings like the thresholds for unhealthy instances before they're taken out of operation, for example. 
