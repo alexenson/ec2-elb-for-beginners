@@ -1515,9 +1515,8 @@ I will call it simply ALB1.<br>
 It's going to be Internet-facing, Internal would be for, for example, maybe your application logic layer or your back end is in a different private subnet and you are load balancing traffic internally. In this case, it will have a public DNS name that we can connect to from the Internet. 
 
 
-
-
-IP address type will be IPv4.
+IP address type will be IPv4.<br>
+![2](https://github.com/user-attachments/assets/01c63e58-97d3-4693-8653-9ee856eeba3a)
  
 
 VPC is the default.
