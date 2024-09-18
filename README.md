@@ -1501,20 +1501,9 @@ So let's choose Load Balancers on the left, create Load Balancer. <br>
 ![7](https://github.com/user-attachments/assets/56da4284-0a7f-40e2-95ea-3caf99a9eae5)
  
 
-We need to choose which Load Balancer we want. 
- 
+We need to choose which Load Balancer we want. <br>
+![8](https://github.com/user-attachments/assets/c6924488-861a-456a-b137-4f08cd161aae)<br>
 We want an Application Load Balancer for this use case. 
-
-
-
-
-
-
-
-
-
-
-
 
 
 So let's click on create, 
