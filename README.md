@@ -1510,8 +1510,8 @@ So let's click on create.<br>
 ![9](https://github.com/user-attachments/assets/bbe450ca-c6d1-4dbe-98fe-52db096f52ad)
 
  
-I will call it simply ALB1.
- 
+I will call it simply ALB1.<br>
+![1](https://github.com/user-attachments/assets/d08fca78-4cbb-4922-89c0-77e3c135a6b9)<br>
 It's going to be Internet-facing, Internal would be for, for example, maybe your application logic layer or your back end is in a different private subnet and you are load balancing traffic internally. In this case, it will have a public DNS name that we can connect to from the Internet. 
 
 
