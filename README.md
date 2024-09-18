@@ -1528,7 +1528,8 @@ I'm going to select the us-east-1a and 1b subnets and Availability Zones because
 ![4](https://github.com/user-attachments/assets/78e29650-aee2-423a-81cc-74318f8e8164)
  
 
-For security groups, I deselect this option and then add in the WebAccess security group. 
+For security groups, I deselect this option and then add in the WebAccess security group. <br>
+![5](https://github.com/user-attachments/assets/8a4c361c-2a87-496d-992a-d7fbd46ce493)
  
 
  
