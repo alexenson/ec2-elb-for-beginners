@@ -1460,7 +1460,7 @@ We'll give it a name. I'll call it TG1. <br>
 
 
 Here we need to choose the protocol. <br>
-![6](https://github.com/user-attachments/assets/ca7c4dd6-3f5e-42d5-9672-9512ecbaa487)
+![6](https://github.com/user-attachments/assets/ca7c4dd6-3f5e-42d5-9672-9512ecbaa487)<br>
 ![7](https://github.com/user-attachments/assets/b0c89313-ef6e-48b4-aa33-74bc0f62a817)
  
 
