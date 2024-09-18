@@ -1486,7 +1486,8 @@ Here you can add your instances by including them as pending below, but we don't
 ![3](https://github.com/user-attachments/assets/5b35ede0-296e-4767-841e-b059b4d68ed6)
  
 
-I'll show you why in a moment, what we want is, we want a dynamic assignment so that every time the Auto Scaling Group launches new instances in response to changes in demand or a failed instance for example. It's going to automatically add them into the target group. If we do it here, we're statically defining which instances should be in the target group. So don't do that. Let's just create the target group. 
+I'll show you why in a moment, what we want is, we want a dynamic assignment so that every time the Auto Scaling Group launches new instances in response to changes in demand or a failed instance for example. It's going to automatically add them into the target group. If we do it here, we're statically defining which instances should be in the target group. So don't do that. Let's just create the target group.<br> 
+![4](https://github.com/user-attachments/assets/b1c8c96c-a213-4f03-a2ad-ca7b190c30e2)
  
 
  
