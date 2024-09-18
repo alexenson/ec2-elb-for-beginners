@@ -1497,7 +1497,8 @@ Now, we can create our Load Balancer. <br>
 ![6](https://github.com/user-attachments/assets/0a7ba227-5690-4df4-929b-9176b68a5548)
  
 
-So let's choose Low Balancers on the left, create Load Balancer. 
+So let's choose Load Balancers on the left, create Load Balancer. <br>
+![7](https://github.com/user-attachments/assets/56da4284-0a7f-40e2-95ea-3caf99a9eae5)
  
 
 We need to choose which Load Balancer we want. 
