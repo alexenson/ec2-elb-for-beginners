@@ -1506,7 +1506,9 @@ We need to choose which Load Balancer we want. <br>
 We want an Application Load Balancer for this use case. 
 
 
-So let's click on create, 
+So let's click on create.<br> 
+![9](https://github.com/user-attachments/assets/bbe450ca-c6d1-4dbe-98fe-52db096f52ad)
+
  
 I will call it simply ALB1.
  
