@@ -1443,8 +1443,9 @@ Let's click on Create target group here. We need to choose what the target type 
 ![1](https://github.com/user-attachments/assets/6cda43a6-e870-419a-8881-5ad31128bf48)
 
  
+Depending on our scenario and the Load Balancer we're using, some of these options might not work. But in this case, Instances is compatible with our Application Load Balancer. We can see for example that Lambda functions are a possible target as well, but only for Application Load Balancers. <br>
+![2](https://github.com/user-attachments/assets/88a22bef-792d-47b2-b34e-7d687a8eac17)
 
-Depending on our scenario and the Load Balancer we're using, some of these options might not work. But in this case, Instances is compatible with our Application Load Balancer. We can see for example that Lambda functions are a possible target as well, but only for Application Load Balancers. 
  
 
 And you can even use an Application Load Balancer as a target for a Network Load Balancer. 
