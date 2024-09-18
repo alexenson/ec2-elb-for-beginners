@@ -1447,8 +1447,8 @@ Depending on our scenario and the Load Balancer we're using, some of these optio
 ![2](https://github.com/user-attachments/assets/88a22bef-792d-47b2-b34e-7d687a8eac17)
 
  
-
-And you can even use an Application Load Balancer as a target for a Network Load Balancer. 
+And you can even use an Application Load Balancer as a target for a Network Load Balancer. <br>
+![3](https://github.com/user-attachments/assets/c78e3635-6095-44ba-a731-7af3fb788f4e)
  
 
 So let's make sure that Instances is selected. 
