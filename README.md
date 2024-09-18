@@ -1519,7 +1519,9 @@ IP address type will be IPv4.<br>
 ![2](https://github.com/user-attachments/assets/01c63e58-97d3-4693-8653-9ee856eeba3a)
  
 
-VPC is the default.
+VPC is the default.<br>
+![3](https://github.com/user-attachments/assets/637623f2-0919-4039-a4b8-1d9ae5d3209b)
+
  
 
 I'm going to select the us-east-1a and 1b subnets and Availability Zones because that's where my instances are actually deployed.  
