@@ -1465,16 +1465,9 @@ Here we need to choose the protocol. <br>
 In this case, it's going to be HTTP because we're going to create an Application Load Balancer. So HTTP port 80 that's where my web server is running. 
 So I want traffic to come in on HTTP port 80. 
 
-Next for IP address type. I'll leave it on IPv4. 
- 
+Next for IP address type. I'll leave it on IPv4. <br>
+![8](https://github.com/user-attachments/assets/da979d86-eb58-4e60-a2c6-c25562ccdc1e)<br>
 HTTP1. 
-
-
-
-
-
-
-
 
 
 The health check protocol is going to stay on HTTP and /.
