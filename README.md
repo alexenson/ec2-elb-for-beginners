@@ -1478,7 +1478,9 @@ You can also set advanced settings, like the thresholds for unhealthy instances 
 ![1](https://github.com/user-attachments/assets/c1ec4dcd-613d-4271-a63f-e28507b15d4c)<br>
 So I'm going to leave those as default settings. 
 
-Let's click on next. 
+Let's click on next. <br>
+![2](https://github.com/user-attachments/assets/09bbd0c8-93a8-4a5f-afd1-dcbbaf75959b)
+
  
 Here you can add your instances by including them as pending below, but we don't want to do that. 
  
