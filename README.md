@@ -1493,7 +1493,8 @@ I'll show you why in a moment, what we want is, we want a dynamic assignment so 
 
  
 
-Now, we can create our Low Balancer. 
+Now, we can create our Load Balancer. <br>
+![6](https://github.com/user-attachments/assets/0a7ba227-5690-4df4-929b-9176b68a5548)
  
 
 So let's choose Low Balancers on the left, create Load Balancer. 
