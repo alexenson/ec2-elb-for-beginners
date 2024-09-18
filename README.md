@@ -1489,12 +1489,9 @@ Here you can add your instances by including them as pending below, but we don't
 I'll show you why in a moment, what we want is, we want a dynamic assignment so that every time the Auto Scaling Group launches new instances in response to changes in demand or a failed instance for example. It's going to automatically add them into the target group. If we do it here, we're statically defining which instances should be in the target group. So don't do that. Let's just create the target group.<br> 
 ![4](https://github.com/user-attachments/assets/b1c8c96c-a213-4f03-a2ad-ca7b190c30e2)
  
+![5](https://github.com/user-attachments/assets/d92aaa5e-507e-4852-b127-afa68419770b)
 
  
-
-
-
-
 
 Now, we can create our Low Balancer. 
  
