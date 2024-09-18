@@ -1534,7 +1534,7 @@ For security groups, I deselect this option and then add in the WebAccess securi
 ![6](https://github.com/user-attachments/assets/285ebd78-25ab-4751-8e08-60f1ae89e430)
 
 ![7](https://github.com/user-attachments/assets/63e733c0-340c-432c-a93f-9300456afe8c)<br>
-So not the default, change to your WebAccess security group. 
+So not the default, change it to your WebAccess security group. 
 
 Then we have to define the listeners and the routing. 
  
