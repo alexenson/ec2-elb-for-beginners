@@ -1451,7 +1451,8 @@ And you can even use an Application Load Balancer as a target for a Network Load
 ![3](https://github.com/user-attachments/assets/c78e3635-6095-44ba-a731-7af3fb788f4e)
  
 
-So let's make sure that Instances is selected. 
+So let's make sure that Instances is selected.<br> 
+![4](https://github.com/user-attachments/assets/c76549d8-f3e2-4731-85ca-99d62b733220)
  
 
 We'll give it a name. I'll call it TG1. 
