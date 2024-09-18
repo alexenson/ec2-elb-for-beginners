@@ -1439,7 +1439,9 @@ So the Target Group is going to contain the instances. <br>
 ![1](https://github.com/user-attachments/assets/b79eac92-0762-4835-a9c2-60b2d12ccddc)
  
 
-Let's click on create target group here. We need to choose what the target type is. We've got Instances, IP addresses, Lambda functions and Application Load Balancer. 
+Let's click on Create target group here. We need to choose what the target type is. We've got Instances, IP addresses, Lambda functions and Application Load Balancer. <br>
+![1](https://github.com/user-attachments/assets/6cda43a6-e870-419a-8881-5ad31128bf48)
+
  
 
 Depending on our scenario and the Load Balancer we're using, some of these options might not work. But in this case, Instances is compatible with our Application Load Balancer. We can see for example that Lambda functions are a possible target as well, but only for Application Load Balancers. 
