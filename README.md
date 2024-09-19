@@ -1593,26 +1593,7 @@ I'm going to scroll down the page a little bit to where it says Load Balancing, 
  
 ![4](https://github.com/user-attachments/assets/59a7150e-d4ab-44ff-b807-adb2b0b84860)
 
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![5](https://github.com/user-attachments/assets/3b6bed50-3d07-48ea-b61c-d0d81941fc46)
 
 
 
