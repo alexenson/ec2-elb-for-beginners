@@ -1581,7 +1581,7 @@ Now, remember I said that I wanted to set this up. So the Auto Scaling Group was
  
 ![6](https://github.com/user-attachments/assets/e93658db-41e4-48f4-9ba1-890b040b7c7c)
 
- 
+![7](https://github.com/user-attachments/assets/27258cb8-86dc-4997-b1b4-17b04ee56ca2)
 
  
 
