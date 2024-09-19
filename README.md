@@ -1554,9 +1554,9 @@ If you come up a level.<br>
 ![5](https://github.com/user-attachments/assets/ccfca728-ef39-4937-bd18-fb6ecc97d8f1)
   
 
-You just see the basics and you can see that it's provisioning.  
- 
-Here we have the DNS name. So the DNS name is what we're going to connect to the Load Balancer with once it's up and running, it should become active after a few minutes. 
+You just see the basics and you can see that it's provisioning. <br> 
+![6](https://github.com/user-attachments/assets/23448c31-5923-4b01-bd5e-5d5b0d5399f6)<br>
+Here we have the DNS name. So the DNS name is what we're going to connect, to the Load Balancer with, once it's up and running. It should become active after a few minutes. 
 
 Another place you can go to see what's going on is the target group.
  
