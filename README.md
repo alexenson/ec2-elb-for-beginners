@@ -1565,6 +1565,9 @@ Another place you can go to see what's going on is the Target Group.<br>
 So we come back to Target groups. Click on TG1. <br>
 ![8](https://github.com/user-attachments/assets/f7145761-7b08-49a6-8210-163c178b0659)
 
+![1](https://github.com/user-attachments/assets/3c83b22e-61a0-432c-858e-2e778f04456f)
+
+
  
 
 Here we've got targets. If I click on refresh, there's no targets. 
