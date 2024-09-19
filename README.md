@@ -1567,6 +1567,7 @@ So we come back to Target groups. Click on TG1. <br>
 
 ![1](https://github.com/user-attachments/assets/3c83b22e-61a0-432c-858e-2e778f04456f)
 
+![2](https://github.com/user-attachments/assets/b64d5514-5f1e-48f8-923e-01ad0e7ca62e)
 
  
 
