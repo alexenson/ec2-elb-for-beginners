@@ -1550,7 +1550,8 @@ Load Balancers take a few minutes to become operational.<br>
 
 So on this page here, we can see some of the details of the Load Balancer. 
 
-If you come up a level.
+If you come up a level.<br>
+![5](https://github.com/user-attachments/assets/ccfca728-ef39-4937-bd18-fb6ecc97d8f1)
   
 
 You just see the basics and you can see that it's provisioning.  
