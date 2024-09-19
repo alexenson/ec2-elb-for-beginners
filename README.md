@@ -1587,6 +1587,7 @@ Now, remember I said that I wanted to set this up. So the Auto Scaling Group was
 I'm going to scroll down the page a little bit to where it says Load Balancing, click on edit, select Application Network or Gateway Load Balancer target groups and then select TG1 and click on update. <br>
 ![1](https://github.com/user-attachments/assets/718c9dd9-6233-48bb-a663-672e4eda4ae2)
  
+![2](https://github.com/user-attachments/assets/72740e29-e303-44b1-a7c4-3fed7b590781)
 
  
 
