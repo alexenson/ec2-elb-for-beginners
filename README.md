@@ -1572,7 +1572,9 @@ So we come back to Target groups. Click on TG1. <br>
 ![3](https://github.com/user-attachments/assets/cf4f419b-e63a-4cc8-8b64-7446ec576d39)
  
 
-Here we've got targets. If I click on refresh, there's no targets. 
+Here we've got targets. If I click on refresh, there's no targets. <br>
+![4](https://github.com/user-attachments/assets/c391c808-834e-42f1-bf1b-301e2ae30310)
+
  
 Now, remember I said that I wanted to set this up. So the Auto Scaling Group was going to automatically register the targets. So let's go and do that. We're going to come back to Auto Scaling, click on the Auto Scaling Group. 
  
