@@ -1562,12 +1562,8 @@ Another place you can go to see what's going on is the Target Group.<br>
 ![7](https://github.com/user-attachments/assets/ff9d8b8d-11c5-40d0-b3b5-64d9a23570b2)
 
 
-So we come back to target groups. Click on TG1. 
- 
-
- 
-
- 
+So we come back to Target groups. Click on TG1. <br>
+![8](https://github.com/user-attachments/assets/f7145761-7b08-49a6-8210-163c178b0659)
 
  
 
