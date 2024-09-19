@@ -1558,14 +1558,8 @@ You just see the basics and you can see that it's provisioning. <br>
 ![6](https://github.com/user-attachments/assets/23448c31-5923-4b01-bd5e-5d5b0d5399f6)<br>
 Here we have the DNS name. So the DNS name is what we're going to connect, to the Load Balancer with, once it's up and running. It should become active after a few minutes. 
 
-Another place you can go to see what's going on is the target group.
- 
-
-
-
-
-
-
+Another place you can go to see what's going on is the Target Group.<br>
+![7](https://github.com/user-attachments/assets/ff9d8b8d-11c5-40d0-b3b5-64d9a23570b2)
 
 
 So we come back to target groups. Click on TG1. 
