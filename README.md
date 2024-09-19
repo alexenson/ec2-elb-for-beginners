@@ -1544,8 +1544,8 @@ So that's all we have to do here. We can come down and create the Load Balancer.
 ![3](https://github.com/user-attachments/assets/90fec91d-fb78-4c80-b655-fb5a0dc76e13)
 
 
-
-Load Balancers take a few minutes to become operational. 
+Load Balancers take a few minutes to become operational.<br> 
+![4](https://github.com/user-attachments/assets/79cad3dc-6a52-48e6-b248-06f7b2d7fe74)
  
 
 So on this page here, we can see some of the details of the Load Balancer. 
