@@ -1540,12 +1540,8 @@ Then we have to define the listeners and the routing. <br>
 ![1](https://github.com/user-attachments/assets/8e90d3d6-bd5a-491d-8565-519d7f3fa52f)
 ![2](https://github.com/user-attachments/assets/7c961a74-2266-41e3-89b3-ca7e82a175c3)<br>
 So the Load Balancer is going to listen on a certain port and protocol. It's listening for connections using the HTTP protocol on port 80.When it receives those connections on the listener, it's going to route the connections through to the target. The target is TG1, the target group. In other words, the instances that are attached to that target group. 
-So that's all we have to do here. We can come down and create the Load Balancer.
- 
-
-
-
-
+So that's all we have to do here. We can come down and create the Load Balancer.<br>
+![3](https://github.com/user-attachments/assets/90fec91d-fb78-4c80-b655-fb5a0dc76e13)
 
 
 
