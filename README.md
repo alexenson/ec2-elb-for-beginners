@@ -1597,7 +1597,9 @@ I'm going to scroll down the page a little bit to where it says Load Balancing, 
 
 
 
-Now, let's go back to target groups. 
+Now, let's go back to target groups. <br>
+![6](https://github.com/user-attachments/assets/6bc429a3-c4e2-4987-a1e3-5e705a21dfb5)
+
  
 
 And on my target group page, I'm going to give this a refresh and let's see if we've got any targets. 
