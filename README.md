@@ -1569,6 +1569,7 @@ So we come back to Target groups. Click on TG1. <br>
 
 ![2](https://github.com/user-attachments/assets/b64d5514-5f1e-48f8-923e-01ad0e7ca62e)
 
+![3](https://github.com/user-attachments/assets/cf4f419b-e63a-4cc8-8b64-7446ec576d39)
  
 
 Here we've got targets. If I click on refresh, there's no targets. 
