@@ -1637,7 +1637,9 @@ So I'm going to come back to the Load Balancers here, select my Load Balancer, c
 And then let's go over to new browser window, hit enter and we can see that we've hit the webpage of one of our instances in us-east-1a.<br> 
 ![8](https://github.com/user-attachments/assets/9895d7a4-0e57-4279-8764-938721f390b5)
 
- 
+![9](https://github.com/user-attachments/assets/f0cea2dc-ff3e-4558-b146-251e8b809357)
+
+
 If I refresh the page, it changes to us-east-1b. 
  
 
