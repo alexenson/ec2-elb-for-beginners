@@ -1674,10 +1674,11 @@ Firstly, we have to change that. <br>
 
  
 
-So in the Auto Scaling Group, I'm going to click on Edit 
+So in the Auto Scaling Group, I'm going to click on Edit. <br>
+![6](https://github.com/user-attachments/assets/95f572ef-b643-4b94-93d9-bbab323a7375)
  
 
-and I'm going to increase my Max desire capacity to 4. 
+And I'm going to increase my Max desire capacity to 4. 
  
 
 
