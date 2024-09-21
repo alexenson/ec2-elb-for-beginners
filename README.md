@@ -1683,7 +1683,8 @@ And I'm going to increase my Max desire capacity to 4. <br>
  
 
 
-So now I have 4 instances, I'm going to potentially run and let's click on update. 
+So now I have 4 instances, I'm going to potentially run and let's click on update. <br>
+![8](https://github.com/user-attachments/assets/ccaa0d24-8718-4bb9-acfc-9b6ac307eac6)
  
 
  
