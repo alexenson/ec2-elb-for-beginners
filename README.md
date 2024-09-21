@@ -1661,6 +1661,7 @@ In this lesson, we're going to create a Scaling Policy so that we can set some d
 I have my Auto Scaling Group with 2 instances running. I have a Load Balancer in front that's running as well, so we can generate connections to the Load Balancer and it's currently Load Balancing us between 2 instances. So what we want to do is adjust the Auto Scaling Group and create a Scaling Policy. <br>
 ![3](https://github.com/user-attachments/assets/b17dac11-f1a2-4151-b712-e3938623bd5a)
  
+![4](https://github.com/user-attachments/assets/b08a0165-b680-4aec-a6ec-8de8c937aedb)
 
  
 
