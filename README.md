@@ -1632,10 +1632,9 @@ It happened dynamically, we are now ready to actually test the Load Balancer. <b
  
 
 
-
-So I'm going to come back to the Load Balancers here, select my Load Balancer, click on DNS name to copy the DNS name to my clipboard 
- 
-and then let's go over to new browser window hit enter and we can see that we've hit the webpage of one of our instances in us-east-1a. 
+So I'm going to come back to the Load Balancers here, select my Load Balancer, click on DNS name to copy the DNS name to my clipboard.<br> 
+![7](https://github.com/user-attachments/assets/1090964b-c8d0-43cc-b6b0-072d2d01ec76)<br>
+And then let's go over to new browser window hit enter and we can see that we've hit the webpage of one of our instances in us-east-1a. 
 
  
 
