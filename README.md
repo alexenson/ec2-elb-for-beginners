@@ -1627,8 +1627,8 @@ It's not going to be long now and very soon we will see this change to healthy. 
 ![5](https://github.com/user-attachments/assets/0c73da53-2cea-499b-9b3d-e98478c2b356)
 
 
-
-It happened dynamically, we are now ready to actually test the Load Balancer. 
+It happened dynamically, we are now ready to actually test the Load Balancer. <br>
+![6](https://github.com/user-attachments/assets/10bf313a-33aa-43a8-8c43-8d3489994a85)
  
 
 
