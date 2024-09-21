@@ -1669,11 +1669,9 @@ Now there's no point creating a Scaling Policy when our desired Min and Max are 
 
 
 
+Firstly, we have to change that. <br>
+![5](https://github.com/user-attachments/assets/a02a73f3-7bcd-4755-b958-0731bf14c6d0)
 
-
-
-
-Firstly, we have to change that. 
  
 
 So in the Auto Scaling Group, I'm going to click on Edit 
