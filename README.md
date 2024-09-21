@@ -1623,12 +1623,8 @@ Let's come back, give it a refresh.<br>
 ![4](https://github.com/user-attachments/assets/4c525b14-a87a-4601-ae0f-a4bd34f30c37)
 
  
-And I think it's going to be long now and very soon we will see this change to healthy. Once we see healthy instances.  
- 
-
-
-
-
+It's not going to be long now and very soon we will see this change to healthy. Once we see healthy instances.<br>
+![5](https://github.com/user-attachments/assets/0c73da53-2cea-499b-9b3d-e98478c2b356)
 
 
 
