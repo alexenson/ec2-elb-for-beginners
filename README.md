@@ -1605,11 +1605,13 @@ Now, let's go back to Target groups. <br>
 And on my Target group page, I'm going to give this a refresh and let's see if we've got any targets.<br> 
 ![7](https://github.com/user-attachments/assets/8acf9ee5-323a-4c61-8b32-95df0e32c67b)
  
+
+
+We go to targets refresh here and there we go. <br>
 ![8](https://github.com/user-attachments/assets/14e53dbe-4837-4a0b-b817-a1e5beddcc1c)
 
- 
+![1](https://github.com/user-attachments/assets/ae8d6bfa-721e-4630-977e-633eca68320c)
 
-We go to targets refresh here and there we go. 
  
 We've got 2 targets that have now been registered in the target group. 
  
