@@ -1613,10 +1613,11 @@ We go to targets refresh here and there we go. <br>
 ![1](https://github.com/user-attachments/assets/ae8d6bfa-721e-4630-977e-633eca68320c)
 
  
-We've got 2 targets that have now been registered in the target group. 
- 
-Now, the health status is Initial, the Load Balancer is not ready yet. So the health check at hasn't even begun once the Load Balancer is ready, which should be quite soon, then the health status should change to healthy as long as that website is up and running and the security groups are set up correctly. Because remember we need to be able to perform this health check on the health check port and protocol that is HTTP and the path is a /, HTTP uses port 80 by default. 
- So the Security Group for the Instances must allow connections on the HTTP port. 
+We've got 2 targets that have now been registered in the target group.<br>
+![2](https://github.com/user-attachments/assets/32bfb70b-ae2c-46d9-b87e-05932122538b)<br>
+Now, the health status is Initial, the Load Balancer is not ready yet. So the health check hasn't even begun once the Load Balancer is ready, which should be quite soon, then the health status should change to healthy as long as that website is up and running and the security groups are set up correctly. Because remember we need to be able to perform this health check on the health check port and protocol that is HTTP and the path is a /, HTTP uses port 80 by default. 
+
+So the Security Group for the Instances must allow connections on the HTTP port. 
 
 Let's come back, give it a refresh.
  
