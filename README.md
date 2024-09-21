@@ -1640,9 +1640,10 @@ And then let's go over to new browser window, hit enter and we can see that we'v
 ![9](https://github.com/user-attachments/assets/f0cea2dc-ff3e-4558-b146-251e8b809357)
 
 
-If I refresh the page, it changes to us-east-1b. 
- 
+If I refresh the page, it changes to us-east-1b.<br>
+![1](https://github.com/user-attachments/assets/babe1ce9-bd3a-45ca-af49-4e33e51b9352)
 
+ 
 So I've been Load Balanced between two different Availability Zones, essentially 2 different data centers.  
 If I just keep refreshing, we can see I keep getting Low Balanced across those 2 Availability Zones. So we have the traffic being spread equally between those 2 AZs. So that that's it for this lesson, the Load Balancer is up and running, Auto Scaling is working.  In the next lesson, what we're going to do is create a Scaling Policy. We're going to add a whole bunch of load to our front end so that we then generate more back end load which will cause the Auto Scaling Group to react and scale.
 
