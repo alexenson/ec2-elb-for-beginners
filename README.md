@@ -1654,9 +1654,10 @@ If I just keep refreshing, we can see I keep getting Low Balanced across those 2
 
 ## Create a Scaling Policy
 
-In this lesson, we're going to create a Scaling Policy so that we can set some dynamic scaling on our Auto Scaling Group and then generate some load and cause it to scale. I'm back in EC2. 
- 
+In this lesson, we're going to create a Scaling Policy so that we can set some dynamic scaling on our Auto Scaling Group and then generate some load and cause it to scale. I'm back in EC2. <br>
+![2](https://github.com/user-attachments/assets/5fab74a0-529b-4cbf-af4b-711893eecf8f)
 
+ 
 I have my Auto Scaling Group with 2 instances running. I have a Load Balancer in front that's running as well, so we can generate connections to the Load Balancer and it's currently Load Balancing us between 2 instances. So what we want to do is adjust the Auto Scaling Group and create a Scaling Policy. 
  
 
