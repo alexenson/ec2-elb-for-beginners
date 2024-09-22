@@ -1734,17 +1734,8 @@ Here we have some different options, target tracking, step and simple.<br>
 
  
 
-I'm going to leave the Target tracking scaling selection and rather than CPU utilisation, I'm going to change it to Application Load Balancer request count per target. 
- 
-
-
-
-
-
-
-
-
-
+I'm going to leave the Target tracking scaling selection and rather than CPU utilisation, I'm going to change it to Application Load Balancer request count per target.<br> 
+![4](https://github.com/user-attachments/assets/3a30327f-633c-40f0-8371-dc8e90604700)
 
 
 
