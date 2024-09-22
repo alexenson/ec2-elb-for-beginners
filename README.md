@@ -1858,7 +1858,8 @@ Now, if we go back to the CloudWatch console.<br>
 ![1](https://github.com/user-attachments/assets/405104f0-a6c1-4709-9507-a40a8497b9f7)
   
 
-It's still not quite there yet. So I'm going to run this a couple more times and then we should find that it changes to an alarm state fairly quickly. 
+It's still not quite there yet. So I'm going to run this a couple more times and then we should find that it changes to an alarm state fairly quickly. <br>
+![2](https://github.com/user-attachments/assets/658f2db1-53b9-46e6-8781-5e97e1a048ff)
  
 
  
