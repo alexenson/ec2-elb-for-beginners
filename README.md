@@ -1820,13 +1820,9 @@ I'm going to adjust the font size here, make it a bit bigger. <br>
 So you can see what's going on.  
 
 
-
-
-
-
-And I'm going to paste in this command. 
- 
-Let's press enter. 
+And I'm going to paste in this command. <br>
+![1](https://github.com/user-attachments/assets/4b3c4369-05db-4dbf-be91-76ceb21d3896)<br>
+Then press enter. 
 
 So what's happening is it's actually bringing back the web pages very quickly. 
  
