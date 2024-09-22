@@ -1744,10 +1744,9 @@ That's the number of connections that are reaching the targets. I'm going to sel
  
 
 I'm going to leave this value at 50, so 50 connections per target. <br>
-![6](https://github.com/user-attachments/assets/d14a69be-8ec7-4582-b6af-68cf26e9c061)
-
- 
-If we exceed that number, it's going to start scaling and then I'm simply going to create this Scaling Policy. 
+![6](https://github.com/user-attachments/assets/d14a69be-8ec7-4582-b6af-68cf26e9c061)<br>
+If we exceed that number, it's going to start scaling. Then I'm simply going to create this Scaling Policy. <br>
+![7](https://github.com/user-attachments/assets/7b428064-ed25-4481-8801-1b8488f96bd5)
  
 
  
