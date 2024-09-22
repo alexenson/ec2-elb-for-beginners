@@ -1788,9 +1788,11 @@ And what I'm going to do is just bring this down.<br>
 ![6](https://github.com/user-attachments/assets/18cde04a-3804-4b48-9431-95c84c3b916a)<br>
 I'm going to copy the DNS name for the Load Balancer. <br>
 ![7](https://github.com/user-attachments/assets/2e03403c-da06-4842-a925-39fbd2b1ee55)
- 
 
-In the course download in the Amazon EC2 directory. 
+ <br>
+ <br>
+
+In the course download in the Amazon EC2 directory.<br> 
 Command to generate load on the ALB
 replace with your alb dns name 
 for i in {1..200}; do curl http://your-alb-address.com & done; wait
