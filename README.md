@@ -1809,8 +1809,8 @@ So just pop the DNS name in here and this is a *for loop*, what it's going to do
 ![3](https://github.com/user-attachments/assets/0e0c97d4-273c-48a3-9b2a-92e71b969171)<br>
 So just copy that command. 
 
-We're going to come back to the console and I'm going to use CloudShell.
- 
+We're going to come back to the console and I'm going to use CloudShell.<br>
+![4](https://github.com/user-attachments/assets/2bf1e9fc-8bf5-4e3b-8634-b9a337a4c8cf)<br>
 You can just do this from your computer as well on the command line if you wish to. 
 But I'm just going to use CloudShell. So let's open up CloudShell. 
 
