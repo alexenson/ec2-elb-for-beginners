@@ -1771,7 +1771,8 @@ It says insufficient data, it hasn't really received enough information yet to h
 ![3](https://github.com/user-attachments/assets/7c34fb1d-fe03-4dbc-97f3-0b616fca6a1d)
  
 
-That means it's going to scale out. But we got to wait, we got to generate load and then we've got to wait for a few minutes so that those data points come in. Then after a while as the request count per target gets lower under 45 for 15 data points within 15 minutes, then it will scale back in again. 
+That means it's going to scale out. But we got to wait, we got to generate load and then we've got to wait for a few minutes so that those data points come in. Then after a while as the request count per target gets lower under 45 for 15 data points within 15 minutes, then it will scale back in again. <br>
+![4](https://github.com/user-attachments/assets/c5f5bc49-0c51-4afe-bf48-19814ef5bd16)
  
 
 Scaling in is a bit slower than scaling out. We want to make sure that we have enough load and we make sure that maybe that spike in demand is actually over before we scale back in again. So this is all set up correctly. We're ready to scale. 
