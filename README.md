@@ -1753,13 +1753,9 @@ So that's ready once we created the Scaling Policy.
 
 
 
+If we head across to the CloudWatch service.<br>
+![9](https://github.com/user-attachments/assets/c4949d67-1093-4892-918a-1557d59340c8)
 
-
-
-
-
-
-If we head across to the CloudWatch service,
  
 
 We will see that it's created some alarms for us.
