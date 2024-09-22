@@ -1816,9 +1816,7 @@ But I'm just going to use CloudShell. So let's open up CloudShell.
 
 I'm going to adjust the font size here, make it a bit bigger. <br>
 ![5](https://github.com/user-attachments/assets/7c102e33-e361-4447-9bcb-2d848cc4de84)
- 
-
- 
+![6](https://github.com/user-attachments/assets/50c4b41e-c9db-4296-958a-8e0d6a0eb1fe)<br>
 So you can see what's going on.  
 
 
