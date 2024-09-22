@@ -1850,14 +1850,14 @@ You can also go to instances as well and you can have a look at the monitoring t
 
 
 
-You can see CPU utilization, Network in, Network out. 
- 
+You can see CPU utilization, Network in, Network out.<br>
+![9](https://github.com/user-attachments/assets/a32d4621-1484-4408-95ed-5de4fd7a2a6b)<br>
 So we're not exactly seeing requests here, but you can see some of the load that's being generated. Not a huge amount of load because it's very simple to serve that web page. 
 
 Now, if we go back to the CloudWatch console.
   
 
-It's still not quite there yet. So I'm going to run this a couple more times and thenwe should find that it changes to an alarm state fairly quickly. 
+It's still not quite there yet. So I'm going to run this a couple more times and then we should find that it changes to an alarm state fairly quickly. 
  
 
  
