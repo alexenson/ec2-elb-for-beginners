@@ -1710,6 +1710,7 @@ Click on Network mapping and then click on Edit subnets on the right hand side.<
 So we need to make sure that the Load Balancer is also going to distribute connections to us-east-1c and us-east-1d and then we can save changes. <br>
 ![6](https://github.com/user-attachments/assets/d6ad45e1-9ce6-4ba3-bb35-e1f627ff4e8c)
 
+![7](https://github.com/user-attachments/assets/8c4a943f-a8fc-4fb8-bd38-1fa710ccef90)
  
 
 So now we've adjusted the Load Balancer and the Auto Scaling Groups networks. 
