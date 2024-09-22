@@ -1703,7 +1703,8 @@ So on the Load Balancer front end, we can select the Load Balancer.<br>
 ![4](https://github.com/user-attachments/assets/d1d6cd68-c663-486b-a3c0-ac0806ca3f47)
   
 
-Click on Network mapping and then click on Edit subnets on the right hand side.
+Click on Network mapping and then click on Edit subnets on the right hand side.<br>
+![5](https://github.com/user-attachments/assets/378b28cb-e34d-445e-91f1-330524d18a3c)
  
 
 So we need to make sure that the Low Balancer is also going to distribute connections to us-east-1c and us-east-1d and then we can save changes. 
