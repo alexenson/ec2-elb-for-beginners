@@ -1779,8 +1779,9 @@ Scaling in is a bit slower than scaling out. We want to make sure that we have e
 
 
 
+What we need to do is come back to our Load Balancer. <br>
+![5](https://github.com/user-attachments/assets/7b66889b-1251-4aba-9f81-654f674caf7c)
 
-What we need to do is come back to our Load Balancer. 
  
 
 And what I'm going to do is just bring this down. 
