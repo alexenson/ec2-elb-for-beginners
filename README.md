@@ -1720,10 +1720,11 @@ So now we've adjusted the Load Balancer and the Auto Scaling Groups networks. <b
  
 
 
-The next thing to do is go to Automatic Scaling
+The next thing to do is go to Automatic Scaling.<br>
+![1](https://github.com/user-attachments/assets/5cdb7d31-603d-45f2-823c-350d0cbb35b3)
  
 
-and we're going to create a Dynamic scaling policy. So I'm going to click Create dynamic scaling policy.
+And we're going to create a Dynamic scaling policy. So I'm going to click Create dynamic scaling policy.
  
 
 
