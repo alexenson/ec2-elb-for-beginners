@@ -1748,9 +1748,7 @@ I'm going to leave this value at 50, so 50 connections per target. <br>
 If we exceed that number, it's going to start scaling. Then I'm simply going to create this Scaling Policy. <br>
 ![7](https://github.com/user-attachments/assets/7b428064-ed25-4481-8801-1b8488f96bd5)
  
-
- 
-
+![8](https://github.com/user-attachments/assets/ed0c2e3e-87a9-45b2-989c-41b9dae0f2b8)<br>
 So that's ready once we created the Scaling Policy.
 
 
