@@ -1767,7 +1767,8 @@ So we head into CloudWatch. This is a performance monitoring service. Under alar
 ![2](https://github.com/user-attachments/assets/6f3a3a8f-922e-4726-bb91-1d4f6dacbc28)
  
 
-It says insufficient data hasn't really received enough information yet to have an opinion. AlarmHigh is going to be triggered when the Request count per target is greater than 50 for 3 data points in 3 minutes. 
+It says insufficient data, it hasn't really received enough information yet to have an opinion. AlarmHigh is going to be triggered when the Request count per target is greater than 50 for 3 data points in 3 minutes. <br>
+![3](https://github.com/user-attachments/assets/7c34fb1d-fe03-4dbc-97f3-0b616fca6a1d)
  
 
 That means it's going to scale out. But we got to wait, we got to generate load and then we've got to wait for a few minutes so that those data points come in. Then after a while as the request count per target gets lower under 45 for 15 data points within 15 minutes, then it will scale back in again. 
