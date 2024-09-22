@@ -1846,12 +1846,7 @@ So we know that this information is coming in.
 You can also go to instances as well and you can have a look at the monitoring tabs for the instances. <br> 
 ![7](https://github.com/user-attachments/assets/797f5109-a5bd-4a47-ab8a-349f58a1a05c)
  
-
- 
-
-
-
-
+![8](https://github.com/user-attachments/assets/609f3a7c-4f67-47d7-8278-9d9e43f0e68e)
 
 
 
