@@ -1800,8 +1800,8 @@ I'm going to copy the DNS name for the Load Balancer. <br>
 
 <br>
 
-We've got this generate-load-on-alb.md file. In here, we have this command. What we need to do is we need to replace this address here. 
- 
+We've got this generate-load-on-alb.md file. In here, we have this command. What we need to do, is we need to replace this address here. <br>
+![1](https://github.com/user-attachments/assets/2f5e11c6-b9da-47aa-9f68-60848fa68235)<br>
 So I'm just going to paste this in. 
  
 And in fact, I do need to keep the http://
