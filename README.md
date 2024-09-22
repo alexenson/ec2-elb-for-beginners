@@ -1814,7 +1814,8 @@ We're going to come back to the console and I'm going to use CloudShell.<br>
 You can just do this from your computer as well on the command line if you wish to. 
 But I'm just going to use CloudShell. So let's open up CloudShell. 
 
-I'm going to adjust the font size here, make it a bit bigger. 
+I'm going to adjust the font size here, make it a bit bigger. <br>
+![5](https://github.com/user-attachments/assets/7c102e33-e361-4447-9bcb-2d848cc4de84)
  
 
  
