@@ -1802,10 +1802,10 @@ I'm going to copy the DNS name for the Load Balancer. <br>
 
 We've got this generate-load-on-alb.md file. In here, we have this command. What we need to do, is we need to replace this address here. <br>
 ![1](https://github.com/user-attachments/assets/2f5e11c6-b9da-47aa-9f68-60848fa68235)<br>
-So I'm just going to paste this in. 
- 
+So I'm just going to paste this in. <br>
+![2](https://github.com/user-attachments/assets/d8f68bcd-57c7-422d-a3d8-5e52865ffcb1)<br>
 And in fact, I do need to keep the http://
-So just pop the DNS name in here and this is a for loop, what it's going to do, it's going to create 200 connections to the Load Balancer. So using the curl command and we'll just run this several times. I'm going to copy this whole command, not using these these little dashes on either side. 
+So just pop the DNS name in here and this is a *for loop*, what it's going to do, it's going to create 200 connections to the Load Balancer. So using the curl command and we'll just run this several times. I'm going to copy this whole command, not using these little dashes on either side.<br> 
  
 So just copy that command. 
 
