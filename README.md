@@ -1837,13 +1837,10 @@ So at the moment we see we've got ok for the high that will change to alarm stat
 
 
 Back on the Load Balancers page.<br>
-![5](https://github.com/user-attachments/assets/42a54b03-327f-4dd9-86db-547e243be4bc)
-
+![5](https://github.com/user-attachments/assets/42a54b03-327f-4dd9-86db-547e243be4bc)<br>
+I've headed over to the monitoring tab and you can see this massive spike in requests. <br>
+![6](https://github.com/user-attachments/assets/a70f470e-3432-4783-a4d9-66ff1d0a3909)
  
-I've headed over to the monitoring tab and you can see this massive spike in requests. 
- 
-
-
 So we know that this information is coming in. 
 
 You can also go to instances as well and you can have a look at the monitoring tabs for the instances.  
