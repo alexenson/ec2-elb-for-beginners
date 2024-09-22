@@ -1827,9 +1827,9 @@ Then press enter.
 So what's happening is it's actually bringing back the web pages very quickly. <br>
 ![2](https://github.com/user-attachments/assets/bb2d948e-cb61-492f-8db2-22eb4604bb7a)
  
+![3](https://github.com/user-attachments/assets/66c0fe67-4e8b-4f72-b7b2-96365652b7d2)
 
  
-
 It's actually pulling back everything that's on that web page. So we can see lots of connections are being made to the Load Balancer. So I'm just going to run this command several times. We're generating load. Remember, we have to generate quite a bit of data. More than 50 connections per target. We've got 2 targets. So running this a few times is easily going to exceed that amount. But we have to wait for the collection of 3 data points in 3 minutes. So it's still going to take several minutes. I just keep running this a few times and then eventually we'll see what's happened and we should find that we have an alarm that has changed into an alarm state. 
  
 
