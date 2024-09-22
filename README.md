@@ -1692,9 +1692,9 @@ So now I have 4 instances, I'm going to potentially run and let's click on updat
 Also, I want to make sure that we spread these across more Availability Zones. <br>
 ![1](https://github.com/user-attachments/assets/69e2be34-1861-4033-9a94-39f9909768b9)<br>
 So I'm going to Edit network here and I'm going to add in us- east- 1c and us-east- 1d.<br>
+![2](https://github.com/user-attachments/assets/849fb3dc-71df-400a-be5a-87aba72c43c6)
 
  
-
 So now I've got even better high availability,but I also have to do the same thing for the Load Balancer. 
  
 
