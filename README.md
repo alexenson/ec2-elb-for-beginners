@@ -1796,8 +1796,9 @@ I'm going to copy the DNS name for the Load Balancer. <br>
 #### Command to generate load on the ALB.
 
 #### replace with your alb dns name 
-<br>
 for i in {1..200}; do curl http://your-alb-address.com & done; wait
+
+<br>
 
 We've got this generate-load-on-alb.md file. In here, we have this command. What we need to do is we need to replace this address here. 
  
