@@ -1824,7 +1824,8 @@ And I'm going to paste in this command. <br>
 ![1](https://github.com/user-attachments/assets/4b3c4369-05db-4dbf-be91-76ceb21d3896)<br>
 Then press enter. 
 
-So what's happening is it's actually bringing back the web pages very quickly. 
+So what's happening is it's actually bringing back the web pages very quickly. <br>
+![2](https://github.com/user-attachments/assets/bb2d948e-cb61-492f-8db2-22eb4604bb7a)
  
 
  
