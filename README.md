@@ -1716,6 +1716,7 @@ So we need to make sure that the Load Balancer is also going to distribute conne
 So now we've adjusted the Load Balancer and the Auto Scaling Groups networks. <br>
 ![8](https://github.com/user-attachments/assets/5c446b17-21cd-421f-b6dc-d4339a5235f1)
 
+![9](https://github.com/user-attachments/assets/bbc6a8ff-f30a-445c-9c5d-8185985dbe83)
  
 
 
