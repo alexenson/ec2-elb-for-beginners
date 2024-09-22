@@ -1695,14 +1695,11 @@ So I'm going to Edit network here and I'm going to add in us- east- 1c and us-ea
 ![2](https://github.com/user-attachments/assets/849fb3dc-71df-400a-be5a-87aba72c43c6)
 
  
-So now I've got even better high availability,but I also have to do the same thing for the Load Balancer. 
+So now I've got even better high availability, but I also have to do the same thing for the Load Balancer. <br>
+![3](https://github.com/user-attachments/assets/792d0d4c-7612-489a-9b31-9756409a9a22)
  
 
-
-
-
-
-So on the low balancer front end, we can select the Load Balancer.
+So on the Load Balancer front end, we can select the Load Balancer.
   
 
 Click on Network mapping and then click on Edit subnets on the right hand side.
