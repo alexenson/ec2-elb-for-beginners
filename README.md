@@ -1884,7 +1884,7 @@ So we come back down to Auto Scaling, click on the Auto Scaling Group go to acti
 
  
 
-There's a couple of different entries here about launching a new instance and that's based on the target tracking alarm, high alarm, which has been triggered. 
+There are couple of different entries here about launching a new instance and that's based on the target tracking alarm, high alarm, which has been triggered. 
  
 
 
