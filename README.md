@@ -1804,7 +1804,7 @@ We've got this generate-load-on-alb.md file. In here, we have this command. What
 ![1](https://github.com/user-attachments/assets/2f5e11c6-b9da-47aa-9f68-60848fa68235)<br>
 So I'm just going to paste this in. <br>
 ![2](https://github.com/user-attachments/assets/d8f68bcd-57c7-422d-a3d8-5e52865ffcb1)<br>
-And in fact, I do need to keep the http://
+And in fact, I do need to keep the http://<br>
 So just pop the DNS name in here and this is a *for loop*, what it's going to do, it's going to create 200 connections to the Load Balancer. So using the curl command and we'll just run this several times. I'm going to copy this whole command, not using these little dashes on either side.<br> 
 ![3](https://github.com/user-attachments/assets/0e0c97d4-273c-48a3-9b2a-92e71b969171)<br>
 So just copy that command. 
