@@ -1763,7 +1763,8 @@ We will see that it's created some alarms for us.<br>
 
  
 
-So we head into CloudWatch. This is a performance monitoring service. Under alarms, if we go to All alarms, we can now see these 2 target tracking alarms have been set. 
+So we head into CloudWatch. This is a performance monitoring service. Under alarms, if we go to All alarms, we can now see these 2 target tracking alarms have been set. <br>
+![2](https://github.com/user-attachments/assets/6f3a3a8f-922e-4726-bb91-1d4f6dacbc28)
  
 
 It says insufficient data hasn't really received enough information yet to have an opinion. AlarmHigh is going to be triggered when the Request count per target is greater than 50 for 3 data points in 3 minutes. 
