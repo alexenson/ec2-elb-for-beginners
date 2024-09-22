@@ -1784,9 +1784,8 @@ What we need to do is come back to our Load Balancer. <br>
 
  
 
-And what I'm going to do is just bring this down. 
- 
-
+And what I'm going to do is just bring this down.<br> 
+![6](https://github.com/user-attachments/assets/18cde04a-3804-4b48-9431-95c84c3b916a)<br>
 I'm going to copy the DNS name for the Load Balancer. 
  
 
