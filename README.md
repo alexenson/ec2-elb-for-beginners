@@ -1854,7 +1854,8 @@ You can see CPU utilization, Network in, Network out.<br>
 ![9](https://github.com/user-attachments/assets/a32d4621-1484-4408-95ed-5de4fd7a2a6b)<br>
 So we're not exactly seeing requests here, but you can see some of the load that's being generated. Not a huge amount of load because it's very simple to serve that web page. 
 
-Now, if we go back to the CloudWatch console.
+Now, if we go back to the CloudWatch console.<br>
+![1](https://github.com/user-attachments/assets/405104f0-a6c1-4709-9507-a40a8497b9f7)
   
 
 It's still not quite there yet. So I'm going to run this a couple more times and then we should find that it changes to an alarm state fairly quickly. 
