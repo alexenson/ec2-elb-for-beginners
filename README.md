@@ -1879,6 +1879,7 @@ So let's head back and have a look at the Auto Scaling Group and see what's goin
 So we come back down to Auto Scaling, click on the Auto Scaling Group go to activity and we can see that it's already picked up that change. <br>
 ![7](https://github.com/user-attachments/assets/211e8b92-9117-4910-9d76-0a2c122100b3)
 
+![8](https://github.com/user-attachments/assets/2ad6d883-6b1a-4e28-9691-3625c9c7051a)
  
 
  
