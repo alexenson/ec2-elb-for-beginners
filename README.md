@@ -1758,7 +1758,9 @@ If we head across to the CloudWatch service.<br>
 
  
 
-We will see that it's created some alarms for us.
+We will see that it's created some alarms for us.<br>
+![1](https://github.com/user-attachments/assets/2d808c83-8bfd-4a0e-bf5e-83f6edaadf1e)
+
  
 
 So we head into CloudWatch. This is a performance monitoring service. Under alarms, if we go to All alarms, we can now see these 2 target tracking alarms have been set. 
