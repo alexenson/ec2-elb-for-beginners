@@ -1874,9 +1874,10 @@ So we can see this massive spike in requests that came in.<br>
 
 
 
-So let's head back and have a look at the Auto Scaling Group and see what's going on there. 
- 
-So we come back down to Auto Scaling, click on the Auto Scaling Group go to activity and we can see that it's already picked up that change. 
+So let's head back and have a look at the Auto Scaling Group and see what's going on there. <br>
+![6](https://github.com/user-attachments/assets/b67204a1-834c-4b6a-b709-438937b3d4a5)<br>
+So we come back down to Auto Scaling, click on the Auto Scaling Group go to activity and we can see that it's already picked up that change. <br>
+![6](https://github.com/user-attachments/assets/b67204a1-834c-4b6a-b709-438937b3d4a5)
  
 
  
