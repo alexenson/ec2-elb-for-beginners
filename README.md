@@ -1739,7 +1739,8 @@ I'm going to leave the Target tracking scaling selection and rather than CPU uti
 
 
 
-That's the number of connections that are reaching the targets. I'm going to select my target group. 
+That's the number of connections that are reaching the targets. I'm going to select my target group. <br>
+![5](https://github.com/user-attachments/assets/048613a8-5b55-414e-9281-877cfd43402d)
  
 
 I'm going to leave this value at 50 so 50 connections per target. 
