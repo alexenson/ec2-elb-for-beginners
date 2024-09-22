@@ -1729,10 +1729,9 @@ And we're going to create a dynamic scaling policy. So I'm going to click Create
  
 
 
+Here we have some different options, target tracking, step and simple.<br>
+![3](https://github.com/user-attachments/assets/e8a32ea0-d940-4857-b59b-33156baa2852)
 
-
-
-Here we have some different options, target tracking, step and simple.
  
 
 I'm going to leave the Target tracking scaling selection and rather than CPU utilisation, I'm going to change it to Application Load Balancer request count per target. 
