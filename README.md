@@ -1699,7 +1699,8 @@ So now I've got even better high availability, but I also have to do the same th
 ![3](https://github.com/user-attachments/assets/792d0d4c-7612-489a-9b31-9756409a9a22)
  
 
-So on the Load Balancer front end, we can select the Load Balancer.
+So on the Load Balancer front end, we can select the Load Balancer.<br>
+![4](https://github.com/user-attachments/assets/d1d6cd68-c663-486b-a3c0-ac0806ca3f47)
   
 
 Click on Network mapping and then click on Edit subnets on the right hand side.
