@@ -1869,8 +1869,8 @@ Here we go. The CloudWatch alarm is now in the in alarm state.<br>
 ![4](https://github.com/user-attachments/assets/67374fd4-4f5a-47ff-847a-1fe6f9d6fcb7)<br>
 If I click on the alarm, we can see some monitoring information here as well. 
 
-So we can see this massive spike in requests that came in. 
- 
+So we can see this massive spike in requests that came in.<br> 
+![5](https://github.com/user-attachments/assets/e08cf5e5-f732-4522-b005-1692f917ad94)
 
 
 
