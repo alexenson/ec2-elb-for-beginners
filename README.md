@@ -1911,7 +1911,8 @@ So we've got 1, 2, 3, 4.  We have four healthy instances.<br>
 ![8](https://github.com/user-attachments/assets/adb8fbfd-b399-4cba-99b1-9df31b4ec198)
  
 
-So let's go back to Load Balancers. 
+So let's go back to Load Balancers. <br>
+![9](https://github.com/user-attachments/assets/33596137-f483-4796-b53c-72a4ab6b8bd0)
  
 
 Copy the DNS name again, put this into a browser window.
