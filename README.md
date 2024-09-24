@@ -1901,10 +1901,8 @@ If we head up to Instances, we can see here, let's refresh.<br>
 We should see that we now have 4 running Instances.<br> 
 ![5](https://github.com/user-attachments/assets/40639d4f-6427-4a11-ba4e-60b00e85b809)
 
-
-
-We can also go and check if they've been registered into the target group. 
- 
+We can also go and check if they've been registered into the target group. <br>
+![6](https://github.com/user-attachments/assets/d749ab67-47a2-4685-89c3-31ab41ccf8d6)<br>
 So Target Groups, let's refresh here and they're not quite there yet. 
  
 
