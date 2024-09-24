@@ -1915,7 +1915,9 @@ So let's go back to Load Balancers. <br>
 ![9](https://github.com/user-attachments/assets/33596137-f483-4796-b53c-72a4ab6b8bd0)
  
 
-Copy the DNS name again, put this into a browser window.
+Copy the DNS name again, put this into a browser window.<br>
+![1](https://github.com/user-attachments/assets/5ecc945a-0589-44c8-a426-5a5088ed5339)
+
  
  
 Hit enter. 
