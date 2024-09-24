@@ -1921,7 +1921,8 @@ Copy the DNS name again, put this into a browser window.<br>
 ![2](https://github.com/user-attachments/assets/6b02e6d3-01e3-4cf2-a50f-adaa5503d544)<br>
 Hit enter. 
 
-Now we should cycle between A, B,C and D. Not necessarily in that order, but we're certainly being cycled and Load Balanced across 4 different Availability Zones now. 
+Now we should cycle between A, B, C and D. Not necessarily in that order, but we're certainly being cycled and Load Balanced across 4 different Availability Zones now. <br>
+![3](https://github.com/user-attachments/assets/39047a57-1bfa-4bef-9c44-06c9276b14b5)<br>
  
  
  
