@@ -1888,8 +1888,8 @@ There are a couple of different entries here about launching a new instance and 
 
  
 
-And we can see if we go back to the details here that now the Desired has been changed to 4. 
- 
+And we can see if we go back to the details here, that now the Desired has been changed to 4.<br> 
+![2](https://github.com/user-attachments/assets/94455e86-d04d-4531-a94a-08c2ce81899b)<br>
 So that's automatically been adjusted for us. 
 
 If we head up to Instances, we can see here, let's refresh. 
