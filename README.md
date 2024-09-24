@@ -1883,14 +1883,10 @@ So we come back down to Auto Scaling, click on the Auto Scaling Group go to acti
  
 
  
+There are a couple of different entries here about launching a new instance and that's based on the target tracking alarm, high alarm, which has been triggered. <br>
+![1](https://github.com/user-attachments/assets/a037d0c3-0e28-4cb8-b832-f39410f5c116)
 
-There are couple of different entries here about launching a new instance and that's based on the target tracking alarm, high alarm, which has been triggered. 
  
-
-
-
-
-
 
 And we can see if we go back to the details here that now the Desired has been changed to 4. 
  
