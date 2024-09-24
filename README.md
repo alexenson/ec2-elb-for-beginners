@@ -1907,7 +1907,7 @@ So Target Groups, let's refresh here and they're not quite there yet. <br>
 ![7](https://github.com/user-attachments/assets/dc6ec98c-2bab-402d-ba23-551fa8f9bdb7)
  
 
-So we've got  we've got 1, 2, 3, 4.  We have four healthy instances.<br> 
+So we've got 1, 2, 3, 4.  We have four healthy instances.<br> 
 ![8](https://github.com/user-attachments/assets/adb8fbfd-b399-4cba-99b1-9df31b4ec198)
  
 
