@@ -1923,6 +1923,7 @@ Hit enter.
 
 Now we should cycle between A, B, C and D. Not necessarily in that order, but we're certainly being cycled and Load Balanced across 4 different Availability Zones now. <br>
 ![3](https://github.com/user-attachments/assets/39047a57-1bfa-4bef-9c44-06c9276b14b5)<br>
+![4](https://github.com/user-attachments/assets/21686daf-2a30-4414-8787-8bd5cfa7a74a)<br>
  
  
  
