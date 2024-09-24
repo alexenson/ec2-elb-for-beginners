@@ -1918,8 +1918,7 @@ So let's go back to Load Balancers. <br>
 Copy the DNS name again, put this into a browser window.<br>
 ![1](https://github.com/user-attachments/assets/5ecc945a-0589-44c8-a426-5a5088ed5339)
 
- 
- 
+![2](https://github.com/user-attachments/assets/6b02e6d3-01e3-4cf2-a50f-adaa5503d544)<br>
 Hit enter. 
 
 Now we should cycle between A, B,C and D. Not necessarily in that order, but we're certainly being cycled and Load Balanced across 4 different Availability Zones now. 
