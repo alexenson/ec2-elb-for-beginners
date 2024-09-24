@@ -1931,6 +1931,7 @@ There we go 4 different instances. So that is Auto Scaling and Load Balancing. W
 So I have finished with this lab. All I need to do is just go and terminate a few resources. So what we're going to do is come back to Auto Scaling Groups. <br>
 ![2](https://github.com/user-attachments/assets/e11edfbe-9fa6-4e6c-8f10-8f7952cfc4ea)<br>
 And I'm going to delete the Auto Scaling Group. <br> 
+![3](https://github.com/user-attachments/assets/5483b92e-fd44-4da5-802e-3bf9c93d44bf)
  
 
 
