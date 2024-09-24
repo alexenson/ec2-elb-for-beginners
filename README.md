@@ -1933,11 +1933,8 @@ So I have finished with this lab. All I need to do is just go and terminate a fe
 And I'm going to delete the Auto Scaling Group. <br> 
 ![3](https://github.com/user-attachments/assets/5483b92e-fd44-4da5-802e-3bf9c93d44bf)
  
+![4](https://github.com/user-attachments/assets/562b7951-1c99-4033-81cb-6c98c8b958b3)
 
-
-
-
- 
 
 Now, what you'll f you'll find is that because these instances are associated with a Load Balancer, it's not going to terminate them immediately. 
  
