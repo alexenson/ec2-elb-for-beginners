@@ -1928,10 +1928,9 @@ Now we should cycle between A, B, C and D. Not necessarily in that order, but we
 So essentially 4 different data centres.  
 There we go 4 different instances. So that is Auto Scaling and Load Balancing. We can see that now our application is going to dynamically adjust to demand. It's going to launch and terminate instances through Auto Scaling to make sure we have the right amount of capacity and then the Load Balancer is automatically going to pick that up and send traffic to those various targets. 
 
-So I have finished with this lab. All I need to do is just go and terminate a few resources. So what we're going to do is come back to Auto Scaling Groups 
- 
-
-and I'm going to delete the Auto Scaling Group.  
+So I have finished with this lab. All I need to do is just go and terminate a few resources. So what we're going to do is come back to Auto Scaling Groups. <br>
+![2](https://github.com/user-attachments/assets/e11edfbe-9fa6-4e6c-8f10-8f7952cfc4ea)<br>
+And I'm going to delete the Auto Scaling Group. <br> 
  
 
 
