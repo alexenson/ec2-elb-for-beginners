@@ -1898,11 +1898,8 @@ If we head up to Instances, we can see here, let's refresh.<br>
 ![4](https://github.com/user-attachments/assets/431e0a49-3c93-4de3-ac22-776dbca6b8eb)
 
  
-
-We should see that we now have 4 running Instances. 
- 
-
-
+We should see that we now have 4 running Instances.<br> 
+![5](https://github.com/user-attachments/assets/40639d4f-6427-4a11-ba4e-60b00e85b809)
 
 
 
