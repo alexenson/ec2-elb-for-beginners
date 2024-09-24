@@ -1903,7 +1903,8 @@ We should see that we now have 4 running Instances.<br>
 
 We can also go and check if they've been registered into the target group. <br>
 ![6](https://github.com/user-attachments/assets/d749ab67-47a2-4685-89c3-31ab41ccf8d6)<br>
-So Target Groups, let's refresh here and they're not quite there yet. 
+So Target Groups, let's refresh here and they're not quite there yet. <br>
+![7](https://github.com/user-attachments/assets/dc6ec98c-2bab-402d-ba23-551fa8f9bdb7)
  
 
 So we've got  we've got 1, 2, 3, 4.  We have four healthy instances. 
