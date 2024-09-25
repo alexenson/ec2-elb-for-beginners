@@ -1955,11 +1955,11 @@ If you want to hurry things up, you can go and just terminate them through the I
 The other thing I need to get rid of is the Load Balancer. <br>
 ![6](https://github.com/user-attachments/assets/54dd0dd7-9b32-4aae-9e30-4fc32a118ab3)
  
+![7](https://github.com/user-attachments/assets/5d29a07b-a9f6-4b9f-a79b-74c51e1c0617)
 
 
 
- 
-These are the two things that could end up costing us money if we leave them running for too long. 
+ These are the two things that could end up costing us money if we leave them running for too long. 
  
 
 So that's gone. 
