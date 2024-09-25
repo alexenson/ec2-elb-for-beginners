@@ -1939,6 +1939,7 @@ And I'm going to delete the Auto Scaling Group. <br>
 Now, what you'll find is that because these instances are associated with a Load Balancer, it's not going to terminate them immediately. <br>
 ![1](https://github.com/user-attachments/assets/24b46989-eefe-414d-b512-1e0c707d1196)
  
+![2](https://github.com/user-attachments/assets/aeba0ec2-383d-4b8f-9944-4b32606c8a9b)
 
  
 
