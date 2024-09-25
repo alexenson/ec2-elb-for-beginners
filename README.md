@@ -1943,8 +1943,8 @@ Now, what you'll find is that because these instances are associated with a Load
 
 ![3](https://github.com/user-attachments/assets/d6ef9223-a3c2-4ba2-9281-42465dabf0e5)
  
+![4](https://github.com/user-attachments/assets/932b095d-fb39-4304-8fde-6a5072ef9abc)
 
- 
 
 
 In fact, if we go here, it's going to tell you that connection draining is in progress. So what that does is it just waits to make sure just in case there's still some open connections to the instances. So that will take a couple of minutes. Don't worry if they don't get terminated immediately, that is normal, but they will be automatically terminated by Auto Scaling. 
