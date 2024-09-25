@@ -1978,31 +1978,19 @@ Likewise, the launch template doesn't cost us anything. It's there if we need to
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Command to generate load on the ALB
-replace with your alb dns name 
+Command to generate load on the ALB <br>
+replace with your alb dns name <br>
 for i in {1..200}; do curl http://your-alb-address.com & done; wait
 
 user-data-web-server.sh
 
 #!/bin/bash
 
-# Update the system and install necessary packages
+### Update the system and install necessary packages 
 yum update -y
 yum install -y httpd
 
-# Start the Apache server
+### Start the Apache server
 systemctl start httpd
 systemctl enable httpd
 
