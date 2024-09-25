@@ -1963,7 +1963,8 @@ These are the two things that could end up costing us money if we leave them run
 ![1](https://github.com/user-attachments/assets/168b78c4-5591-4edf-9a27-4ccf158b90ff)<br>
 So that's gone. 
 
-The target group doesn't cost us anything. 
+The target group doesn't cost us anything. <br>
+![2](https://github.com/user-attachments/assets/65d14653-2a67-4506-adc7-682f9e8efb59)
  
 
 
