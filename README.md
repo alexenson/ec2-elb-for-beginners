@@ -1948,7 +1948,8 @@ Now, what you'll find is that because these instances are associated with a Load
 
 
 In fact, if we go here, it's going to tell you that connection draining is in progress. So what that does is it just waits to make sure just in case there's still some open connections to the instances. So that will take a couple of minutes. Don't worry if they don't get terminated immediately, that is normal, but they will be automatically terminated by Auto Scaling. 
-If you want to hurry things up, you can go and just terminate them through the Instances page as well. 
+If you want to hurry things up, you can go and just terminate them through the Instances page as well. <br>
+![5](https://github.com/user-attachments/assets/e208b90d-74d3-4508-b19c-666e9fcf106e)
  
 
 The other thing I need to get rid of is the Load Balancer. 
