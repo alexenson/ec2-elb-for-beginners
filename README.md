@@ -1952,7 +1952,8 @@ If you want to hurry things up, you can go and just terminate them through the I
 ![5](https://github.com/user-attachments/assets/e208b90d-74d3-4508-b19c-666e9fcf106e)
  
 
-The other thing I need to get rid of is the Load Balancer. 
+The other thing I need to get rid of is the Load Balancer. <br>
+![6](https://github.com/user-attachments/assets/54dd0dd7-9b32-4aae-9e30-4fc32a118ab3)
  
 
 
