@@ -1968,11 +1968,8 @@ The target group doesn't cost us anything. <br>
  
 
 
-
-
-
-The instances will be automatically terminated when they're out of service. 
- 
+The instances will be automatically terminate when they're out of service. <br>
+![3](https://github.com/user-attachments/assets/62a8c690-70f0-4c66-b242-d2e7f77a3186)<br>
 We see they're in a draining status at the moment. 
 
 Likewise, the launch template doesn't cost us anything. It's there if we need to use it again at some point in the future.
