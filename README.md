@@ -1987,12 +1987,12 @@ user-data-web-server.sh
 #!/bin/bash
 
 #Update the system and install necessary packages <br>
-yum update -y<br>
-yum install -y httpd<br>
+*yum update -y*<br>
+*yum install -y httpd*<br>
 
 #Start the Apache server<br>
-systemctl start httpd<br>
-systemctl enable httpd<br>
+*systemctl start httpd*<br>
+*systemctl enable httpd*<br>
 
 #Fetch the Availability Zone information using IMDSv2<br>
 TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
@@ -2024,4 +2024,4 @@ cat > /var/www/html/index.html <<EOF<br>
 EOF
 
 #Ensure the httpd service is correctly set up to start on boot<br>
-chkconfig httpd on
+*chkconfig httpd on*
