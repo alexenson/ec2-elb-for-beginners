@@ -1994,14 +1994,14 @@ yum install -y httpd<br>
 systemctl start httpd<br>
 systemctl enable httpd<br>
 
-#Fetch the Availability Zone information using IMDSv2
+#Fetch the Availability Zone information using IMDSv2<br>
 TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
 AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/meta-data/placement/availability-zone`
 
 #Create the index.html file<br>
 cat > /var/www/html/index.html <<EOF<br>
-<html><br>
-<head><br>
+<html>
+<head>
     <title>Instance Availability Zone</title>
     <style>
         body {
