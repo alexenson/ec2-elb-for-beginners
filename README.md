@@ -1986,7 +1986,7 @@ user-data-web-server.sh
 
 #!/bin/bash
 
-Update the system and install necessary packages <br>
+#Update the system and install necessary packages <br>
 yum update -y<br>
 yum install -y httpd<br>
 
