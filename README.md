@@ -1998,7 +1998,7 @@ user-data-web-server.sh
 TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
 AZ=`curl -H "X-aws-ec2-metadata-token: $TOKEN" http://169.254.169.254/latest/meta-data/placement/availability-zone`
 
-#Create the index.html file<br>
+_#Create the index.html file_<br>
 cat > /var/www/html/index.html <<EOF<br>
 <html>
 <head>
