@@ -1990,7 +1990,7 @@ user-data-web-server.sh
 yum update -y<br>
 yum install -y httpd<br>
 
-Start the Apache server<br>
+#Start the Apache server<br>
 systemctl start httpd<br>
 systemctl enable httpd<br>
 
