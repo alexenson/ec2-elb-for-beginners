@@ -1982,7 +1982,7 @@ Command to generate load on the ALB <br>
 **replace with your alb dns name** <br>
 *for i in {1..200}; do curl http://your-alb-address.com & done; wait*
 
-user-data-web-server.sh
+**user-data-web-server.sh**
 
 #!/bin/bash
 
